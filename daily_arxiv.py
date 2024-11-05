@@ -405,6 +405,7 @@ def demo(**config):
             logging.info(f'update json data')
             # update json data
             update_json_file(json_file,data_collector)
+            update_json_file("./test.json",data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
