@@ -41,16 +41,16 @@ layout: default
 |**2024-11-06**|**Beyond The Rainbow: High Performance Deep Reinforcement Learning On A Desktop PC**|Tyler Clark et.al.|[2411.03820](http://arxiv.org/abs/2411.03820)|null|
 |**2024-11-06**|**From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning**|Zhirui Deng et.al.|[2411.03817](http://arxiv.org/abs/2411.03817)|null|
 |**2024-11-06**|**MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue**|Fengxiang Wang et.al.|[2411.03814](http://arxiv.org/abs/2411.03814)|null|
-|**2024-11-06**|**Hybrid Transfer Reinforcement Learning: Provable Sample Efficiency from Shifted-Dynamics Data**|Chengrui Qu et.al.|[2411.03810](http://arxiv.org/abs/2411.03810)|null|
+|**2024-11-06**|**Hybrid Transfer Reinforcement Learning: Provable Sample Efficiency from Shifted-Dynamics Data**|Chengrui Qu et.al.|[2411.03810](http://arxiv.org/abs/2411.03810)|**[link](https://github.com/SilentEchoes77/hybrid-transfer-rl)**|
 |**2024-11-06**|**Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines**|Lu Bai et.al.|[2411.03711](http://arxiv.org/abs/2411.03711)|null|
 |**2024-11-06**|**Learn to Slice, Slice to Learn: Unveiling Online Optimization and Reinforcement Learning for Slicing AI Services**|Amr Abo-eleneen et.al.|[2411.03686](http://arxiv.org/abs/2411.03686)|null|
 |**2024-11-06**|**Imagined Potential Games: A Framework for Simulating, Learning and Evaluating Interactive Behaviors**|Lingfeng Sun et.al.|[2411.03669](http://arxiv.org/abs/2411.03669)|null|
 |**2024-11-06**|**Privacy-Preserving Resilient Vector Consensus**|Bing Liu et.al.|[2411.03633](http://arxiv.org/abs/2411.03633)|null|
 |**2024-11-06**|**CPEG: Leveraging Consistency Policy with Consensus Guidance for Multi-agent Exploration**|Yuqian Fu et.al.|[2411.03603](http://arxiv.org/abs/2411.03603)|null|
 |**2024-11-05**|**Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level**|Antoine Grosnit et.al.|[2411.03562](http://arxiv.org/abs/2411.03562)|null|
-|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation with Out-of-order Execution**|Zhiqiang Xie et.al.|[2411.03519](http://arxiv.org/abs/2411.03519)|null|
-|**2024-11-05**|**An Open-source Sim2Real Approach for Sensor-independent Robot Navigation in a Grid**|Murad Mehrab Abrar et.al.|[2411.03494](http://arxiv.org/abs/2411.03494)|null|
+|**2024-11-05**|**An Open-source Sim2Real Approach for Sensor-independent Robot Navigation in a Grid**|Murad Mehrab Abrar et.al.|[2411.03494](http://arxiv.org/abs/2411.03494)|**[link](https://github.com/mehrab-abrar/Sim2Real)**|
 |**2024-11-05**|**Watson: A Cognitive Observability Framework for the Reasoning of Foundation Model-Powered Agents**|Benjamin Rombaut et.al.|[2411.03455](http://arxiv.org/abs/2411.03455)|null|
 |**2024-11-05**|**SAUCE: Synchronous and Asynchronous User-Customizable Environment for Multi-Agent LLM Interaction**|Shlomo Neuberger et.al.|[2411.03397](http://arxiv.org/abs/2411.03397)|**[link](https://github.com/deep-cognition-lab/sauce)**|
 |**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
@@ -66,7 +66,7 @@ layout: default
 |**2024-11-05**|**Embedding Safety into RL: A New Take on Trust Region Methods**|Nikola Milosevic et.al.|[2411.02957](http://arxiv.org/abs/2411.02957)|null|
 |**2024-11-05**|**Constant Approximation for Weighted Nash Social Welfare with Submodular Valuations**|Yuda Feng et.al.|[2411.02942](http://arxiv.org/abs/2411.02942)|null|
 |**2024-11-05**|**Multi-Modal 3D Scene Graph Updater for Shared and Dynamic Environments**|Emilio Olivastri et.al.|[2411.02938](http://arxiv.org/abs/2411.02938)|null|
-|**2024-11-05**|**Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent**|Yangning Li et.al.|[2411.02937](http://arxiv.org/abs/2411.02937)|null|
+|**2024-11-05**|**Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent**|Yangning Li et.al.|[2411.02937](http://arxiv.org/abs/2411.02937)|**[link](https://github.com/alibaba-nlp/omnisearch)**|
 |**2024-11-05**|**Polyhedral study of a temporal rural postman problem: application in inspection of railway track without disturbing train schedules**|Somnath Buriuly et.al.|[2411.02822](http://arxiv.org/abs/2411.02822)|null|
 |**2024-11-05**|**DroidSpeak: Enhancing Cross-LLM Communication**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2024-11-04**|**Fair and Welfare-Efficient Constrained Multi-matchings under Uncertainty**|Elita Lobo et.al.|[2411.02654](http://arxiv.org/abs/2411.02654)|**[link](https://github.com/justinpayan/RAU2)**|
@@ -76,7 +76,7 @@ layout: default
 |**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
 |**2024-11-04**|**Two-Sided Learning in Decentralized Matching Markets**|Vade Shah et.al.|[2411.02377](http://arxiv.org/abs/2411.02377)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
-|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
+|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|**[link](https://github.com/THUDM/WebRL)**|
 |**2024-11-04**|**CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments**|Kung-Hsiang Huang et.al.|[2411.02305](http://arxiv.org/abs/2411.02305)|**[link](https://github.com/salesforceairesearch/crmarena)**|
 |**2024-11-04**|**Kinetic exchange opinion dynamics for the battleground-states in the 2024 US presidential elections**|Soumyajyoti Biswas et.al.|[2411.02240](http://arxiv.org/abs/2411.02240)|null|
 |**2024-11-04**|**Positive Experience Reflection for Agents in Interactive Text Environments**|Philip Lippmann et.al.|[2411.02223](http://arxiv.org/abs/2411.02223)|null|
