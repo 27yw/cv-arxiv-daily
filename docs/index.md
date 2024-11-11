@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -152,10 +152,10 @@ layout: default
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
 |**2024-11-07**|**Scaling Laws for Pre-training Agents and World Models**|Tim Pearce et.al.|[2411.04434](http://arxiv.org/abs/2411.04434)|null|
-|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-04**|**ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation**|Hengkai Tan et.al.|[2411.01850](http://arxiv.org/abs/2411.01850)|null|
 |**2024-11-05**|**Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge**|Weihua Du et.al.|[2411.01796](http://arxiv.org/abs/2411.01796)|**[link](https://github.com/umass-foundation-model/chaic)**|
-|**2024-10-31**|**PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**|Matthew Chang et.al.|[2411.00081](http://arxiv.org/abs/2411.00081)|null|
+|**2024-10-31**|**PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**|Matthew Chang et.al.|[2411.00081](http://arxiv.org/abs/2411.00081)|**[link](https://github.com/facebookresearch/partnr-planner)**|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
 |**2024-10-31**|**Simulating User Agents for Embodied Conversational-AI**|Daniel Philipov et.al.|[2410.23535](http://arxiv.org/abs/2410.23535)|null|
 |**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242](http://arxiv.org/abs/2410.23242)|null|
