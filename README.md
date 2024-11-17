@@ -26,7 +26,7 @@
 |**2024-11-14**|**Strategic Sacrifice: Self-Organized Robot Swarm Localization for Inspection Productivity**|Sneha Ramshanker et.al.|[2411.09493](http://arxiv.org/abs/2411.09493)|null|
 |**2024-11-14**|**Socio-Economic Consequences of Generative AI: A Review of Methodological Approaches**|Carlos J. Costa et.al.|[2411.09313](http://arxiv.org/abs/2411.09313)|null|
 |**2024-11-14**|**Embedding Space Allocation with Angle-Norm Joint Classifiers for Few-Shot Class-Incremental Learning**|Dunwei Tu et.al.|[2411.09250](http://arxiv.org/abs/2411.09250)|null|
-|**2024-11-14**|**Risk-aware MPPI for Stochastic Hybrid Systems**|Hardik Parwana et.al.|[2411.09198](http://arxiv.org/abs/2411.09198)|null|
+|**2024-11-14**|**Risk-aware MPPI for Stochastic Hybrid Systems**|Hardik Parwana et.al.|[2411.09198](http://arxiv.org/abs/2411.09198)|**[link](https://github.com/hardikparwana/social-navigation)**|
 |**2024-11-14**|**Enhancing reinforcement learning for population setpoint tracking in co-cultures**|Sebastián Espinel-Ríos et.al.|[2411.09177](http://arxiv.org/abs/2411.09177)|null|
 |**2024-11-14**|**Artificial Theory of Mind and Self-Guided Social Organisation**|Michael S. Harré et.al.|[2411.09169](http://arxiv.org/abs/2411.09169)|null|
 |**2024-11-14**|**Theory of Mind Enhances Collective Intelligence**|Michael S. Harré et.al.|[2411.09168](http://arxiv.org/abs/2411.09168)|null|
@@ -38,7 +38,7 @@
 |**2024-11-13**|**The Impact of Social Value Orientation on Nash Equilibria of Two Player Quadratic Games**|Dan Calderone et.al.|[2411.08809](http://arxiv.org/abs/2411.08809)|null|
 |**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
-|**2024-11-13**|**Towards Fair and Efficient Public Transportation: A Bus Stop Model**|Martin Bullinger et.al.|[2411.08784](http://arxiv.org/abs/2411.08784)|null|
+|**2024-11-13**|**Towards Fair and Efficient Public Transportation: A Bus Stop Model**|Martin Bullinger et.al.|[2411.08784](http://arxiv.org/abs/2411.08784)|**[link](https://github.com/latifian/Bus_Stop_Model)**|
 |**2024-11-13**|**Logic-based Knowledge Awareness for Autonomous Agents in Continuous Spaces**|Arabinda Ghosh et.al.|[2411.08754](http://arxiv.org/abs/2411.08754)|null|
 |**2024-11-13**|**Statistical Operating Characteristics of Current Early Phase Dose Finding Designs with Toxicity and Efficacy in Oncology**|Hao Sun et.al.|[2411.08698](http://arxiv.org/abs/2411.08698)|null|
 |**2024-11-13**|**Inferring Parameter Distributions in Heterogeneous Motile Particle Ensembles: A Likelihood Approach for Second Order Langevin Models**|Jan Albrecht et.al.|[2411.08692](http://arxiv.org/abs/2411.08692)|null|
