@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs**|Ofer Dagan et.al.|[2411.14404](http://arxiv.org/abs/2411.14404)|null|
+|**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
+|**2024-11-21**|**Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks**|Kubra Duran et.al.|[2411.14281](http://arxiv.org/abs/2411.14281)|null|
+|**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264](http://arxiv.org/abs/2411.14264)|null|
+|**2024-11-21**|**Physics-Informed LLM-Agent for Automated Modulation Design in Power Electronics Systems**|Junhua Liu et.al.|[2411.14214](http://arxiv.org/abs/2411.14214)|null|
+|**2024-11-21**|**SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization**|Shuchen Zhu et.al.|[2411.14166](http://arxiv.org/abs/2411.14166)|null|
+|**2024-11-21**|**Multi-terminal Strong Coordination subject to Secrecy Constraints**|Viswanathan Ramachandran et.al.|[2411.14123](http://arxiv.org/abs/2411.14123)|null|
+|**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
+|**2024-11-21**|**RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks**|Changyue Jiang et.al.|[2411.14110](http://arxiv.org/abs/2411.14110)|null|
+|**2024-11-21**|**Asymmetric Opinion Formation of Emotional Eccitable Agents**|Irene Ferri et.al.|[2411.14099](http://arxiv.org/abs/2411.14099)|null|
+|**2024-11-21**|**Exploration by Running Away from the Past**|Paul-Antoine Le Tolguenec et.al.|[2411.14085](http://arxiv.org/abs/2411.14085)|null|
+|**2024-11-21**|**On PI-control in Capacity-Limited Networks**|Felix Agner et.al.|[2411.14077](http://arxiv.org/abs/2411.14077)|null|
+|**2024-11-21**|**Multi-LLM-Agent Systems: Techniques and Business Perspectives**|Yingxuan Yang et.al.|[2411.14033](http://arxiv.org/abs/2411.14033)|null|
+|**2024-11-21**|**GPT versus Humans: Uncovering Ethical Concerns in Conversational Generative AI-empowered Multi-Robot Systems**|Rebekah Rousi et.al.|[2411.14009](http://arxiv.org/abs/2411.14009)|null|
+|**2024-11-21**|**Approximating One-Sided and Two-Sided Nash Social Welfare With Capacities**|Salil Gokhale et.al.|[2411.14007](http://arxiv.org/abs/2411.14007)|null|
+|**2024-11-21**|**Learning Two-agent Motion Planning Strategies from Generalized Nash Equilibrium for Model Predictive Control**|Hansung Kim et.al.|[2411.13983](http://arxiv.org/abs/2411.13983)|null|
+|**2024-11-21**|**Movable Antenna-Equipped UAV for Data Collection in Backscatter Sensor Networks: A Deep Reinforcement Learning-based Approach**|Yu Bai et.al.|[2411.13970](http://arxiv.org/abs/2411.13970)|null|
+|**2024-11-21**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
@@ -273,6 +293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Towards Full Delegation: Designing Ideal Agentic Behaviors for Travel Planning**|Song Jiang et.al.|[2411.13904](http://arxiv.org/abs/2411.13904)|null|
 |**2024-11-19**|**Human-In-the-Loop Software Development Agents**|Wannita Takerngsaksiri et.al.|[2411.12924](http://arxiv.org/abs/2411.12924)|null|
 |**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196](http://arxiv.org/abs/2411.12196)|null|
 |**2024-11-15**|**Static network structure cannot stabilize cooperation among Large Language Model agents**|Jin Han et.al.|[2411.10294](http://arxiv.org/abs/2411.10294)|null|
