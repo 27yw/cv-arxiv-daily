@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
+|**2024-11-25**|**Barriers on the EDGE: A scalable CBF architecture over EDGE for safe aerial-ground multi-agent coordination**|Viswa Narayanan Sankaranarayanan et.al.|[2411.16608](http://arxiv.org/abs/2411.16608)|null|
+|**2024-11-25**|**Naive Algorithmic Collusion: When Do Bandit Learners Cooperate and When Do They Compete?**|Connor Douglas et.al.|[2411.16574](http://arxiv.org/abs/2411.16574)|null|
+|**2024-11-25**|**Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation**|Muhammad Burhan Hafez et.al.|[2411.16532](http://arxiv.org/abs/2411.16532)|**[link](https://github.com/wabbajack1/tapd)**|
+|**2024-11-25**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market**|Luca Di Persio et.al.|[2411.16519](http://arxiv.org/abs/2411.16519)|null|
+|**2024-11-25**|**Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Hongzhi Zang et.al.|[2411.16506](http://arxiv.org/abs/2411.16506)|null|
+|**2024-11-25**|**Distributed Online Optimization with Stochastic Agent Availability**|Juliette Achddou et.al.|[2411.16477](http://arxiv.org/abs/2411.16477)|null|
+|**2024-11-25**|**Generating social networks with static and dynamic utility-maximization approaches**|Aldric Labarthe et.al.|[2411.16464](http://arxiv.org/abs/2411.16464)|null|
+|**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
+|**2024-11-25**|**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**|Linqing Zhong et.al.|[2411.16425](http://arxiv.org/abs/2411.16425)|null|
+|**2024-11-25**|**A Multi-agent Framework for Materials Laws Discovery**|Bo Hu et.al.|[2411.16416](http://arxiv.org/abs/2411.16416)|null|
+|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-25**|**Probing for Consciousness in Machines**|Mathis Immertreu et.al.|[2411.16262](http://arxiv.org/abs/2411.16262)|null|
+|**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
+|**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
+|**2024-11-25**|**Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems**|Sunghwan Kim et.al.|[2411.16160](http://arxiv.org/abs/2411.16160)|null|
+|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134](http://arxiv.org/abs/2411.16134)|null|
+|**2024-11-25**|**Why the Agent Made that Decision: Explaining Deep Reinforcement Learning with Vision Masks**|Rui Zuo et.al.|[2411.16120](http://arxiv.org/abs/2411.16120)|null|
+|**2024-11-25**|**Leverage Task Context for Object Affordance Ranking**|Haojie Huang et.al.|[2411.16082](http://arxiv.org/abs/2411.16082)|null|
+|**2024-11-25**|**SAGEval: The frontiers of Satisfactory Agent based NLG Evaluation for reference-free open-ended text**|Reshmi Ghosh et.al.|[2411.16077](http://arxiv.org/abs/2411.16077)|null|
 |**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
 |**2024-11-22**|**On Multi-Agent Inverse Reinforcement Learning**|Till Freihaut et.al.|[2411.15046](http://arxiv.org/abs/2411.15046)|null|
@@ -345,7 +365,7 @@ layout: default
 |**2024-10-15**|**Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option**|Konstantin Yakovlev et.al.|[2410.12004](http://arxiv.org/abs/2410.12004)|null|
 |**2024-10-15**|**NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models**|Han Han et.al.|[2410.11805](http://arxiv.org/abs/2410.11805)|null|
 |**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|**[link](https://github.com/quchangle1/DRAFT)**|
-|**2024-10-10**|**StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs**|Yuanqing Yu et.al.|[2410.07745](http://arxiv.org/abs/2410.07745)|**[link](https://github.com/yuyq18/steptool)**|
+|**2024-11-25**|**StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs**|Yuanqing Yu et.al.|[2410.07745](http://arxiv.org/abs/2410.07745)|**[link](https://github.com/yuyq18/steptool)**|
 |**2024-10-15**|**Learning Evolving Tools for Large Language Models**|Guoxin Chen et.al.|[2410.06617](http://arxiv.org/abs/2410.06617)|null|
 |**2024-10-08**|**ToolGen: Unified Tool Retrieval and Calling via Generation**|Renxi Wang et.al.|[2410.03439](http://arxiv.org/abs/2410.03439)|**[link](https://github.com/Reason-Wang/ToolGen)**|
 |**2024-09-23**|**CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**|Yupu Hao et.al.|[2409.13202](http://arxiv.org/abs/2409.13202)|null|
@@ -367,9 +387,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**|Linqing Zhong et.al.|[2411.16425](http://arxiv.org/abs/2411.16425)|null|
+|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
 |**2024-11-20**|**AMaze: An intuitive benchmark generator for fast prototyping of generalizable agents**|Kevin Godin-Dubois et.al.|[2411.13072](http://arxiv.org/abs/2411.13072)|null|
-|**2024-11-20**|**MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning**|Mircea Lică et.al.|[2411.12977](http://arxiv.org/abs/2411.12977)|null|
+|**2024-11-25**|**MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning**|Mircea Lică et.al.|[2411.12977](http://arxiv.org/abs/2411.12977)|null|
 |**2024-11-15**|**Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning**|Owen Burns et.al.|[2411.10616](http://arxiv.org/abs/2411.10616)|null|
 |**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
 |**2024-11-08**|**Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction**|Émiland Garrabé et.al.|[2411.05474](http://arxiv.org/abs/2411.05474)|null|
