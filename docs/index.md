@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -449,7 +449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|null|
+|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|**[link](https://github.com/ai4ce/CityWalker)**|
 |**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
 |**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
 |**2024-11-23**|**Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction**|Mitchell Rosser et.al.|[2411.16723](http://arxiv.org/abs/2411.16723)|null|
