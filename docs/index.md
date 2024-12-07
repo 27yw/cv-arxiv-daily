@@ -18,7 +18,7 @@ layout: default
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
 |**2024-12-05**|**Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**|Madeleine D. Breshears et.al.|[2412.04423](http://arxiv.org/abs/2412.04423)|null|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|null|
+|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
 |**2024-12-05**|**Finer Behavioral Foundation Models via Auto-Regressive Features and Advantage Weighting**|Edoardo Cetin et.al.|[2412.04368](http://arxiv.org/abs/2412.04368)|null|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
@@ -452,7 +452,7 @@ layout: default
 |**2024-12-04**|**DataLab: A Unified Platform for LLM-Powered Business Intelligence**|Luoxuan Weng et.al.|[2412.02205](http://arxiv.org/abs/2412.02205)|null|
 |**2024-12-02**|**HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing**|Lajos Muzsai et.al.|[2412.01778](http://arxiv.org/abs/2412.01778)|**[link](https://github.com/aielte-research/HackSynth)**|
 |**2024-12-02**|**SAUP: Situation Awareness Uncertainty Propagation on LLM Agent**|Qiwei Zhao et.al.|[2412.01033](http://arxiv.org/abs/2412.01033)|null|
-|**2024-12-03**|**Multi-Agent System for Cosmological Parameter Analysis**|Andrew Laverick et.al.|[2412.00431](http://arxiv.org/abs/2412.00431)|null|
+|**2024-12-03**|**Multi-Agent System for Cosmological Parameter Analysis**|Andrew Laverick et.al.|[2412.00431](http://arxiv.org/abs/2412.00431)|**[link](https://github.com/cmbagents/cmbagent)**|
 |**2024-11-28**|**SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments**|Yue Cao et.al.|[2412.00114](http://arxiv.org/abs/2412.00114)|null|
 |**2024-11-29**|**Training Agents with Weakly Supervised Feedback from Large Language Models**|Dihong Gong et.al.|[2411.19547](http://arxiv.org/abs/2411.19547)|null|
 |**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
@@ -490,7 +490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-04**|**TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM**|Huiying Cao et.al.|[2412.03096](http://arxiv.org/abs/2412.03096)|null|
+|**2024-12-04**|**TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM**|Huiying Cao et.al.|[2412.03096](http://arxiv.org/abs/2412.03096)|**[link](https://github.com/caohy123/EKTC)**|
 |**2024-10-15**|**Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option**|Konstantin Yakovlev et.al.|[2410.12004](http://arxiv.org/abs/2410.12004)|null|
 |**2024-10-15**|**NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models**|Han Han et.al.|[2410.11805](http://arxiv.org/abs/2410.11805)|null|
 |**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|**[link](https://github.com/quchangle1/DRAFT)**|
@@ -516,7 +516,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|null|
+|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-03**|**Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks**|Zijiao Yang et.al.|[2412.02795](http://arxiv.org/abs/2412.02795)|null|
 |**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
