@@ -73,7 +73,7 @@
 |**2024-12-10**|**My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis**|Jian Liao et.al.|[2412.07367](http://arxiv.org/abs/2412.07367)|null|
 |**2024-12-10**|**IntraLayer: A Platform of Digital Finance Platforms**|Arman Abgaryan et.al.|[2412.07348](http://arxiv.org/abs/2412.07348)|null|
 |**2024-12-10**|**CoMA: Compositional Human Motion Generation with Multi-modal Agents**|Shanlin Sun et.al.|[2412.07320](http://arxiv.org/abs/2412.07320)|null|
-|**2024-12-10**|**Superficial Consciousness Hypothesis for Autoregressive Transformers**|Yosuke Miyanishi et.al.|[2412.07278](http://arxiv.org/abs/2412.07278)|null|
+|**2024-12-10**|**Superficial Consciousness Hypothesis for Autoregressive Transformers**|Yosuke Miyanishi et.al.|[2412.07278](http://arxiv.org/abs/2412.07278)|**[link](https://github.com/hirethehero/phimesasi)**|
 |**2024-12-10**|**Reconciling Human Development and Giant Panda Protection Goals: Cost-efficiency Evaluation of Farmland Reverting and Energy Substitution Programs in Wolong National Reserve**|Keyi Liu et.al.|[2412.07275](http://arxiv.org/abs/2412.07275)|null|
 |**2024-12-10**|**Speaker effects in spoken language comprehension**|Hanlin Wu et.al.|[2412.07238](http://arxiv.org/abs/2412.07238)|null|
 |**2024-12-10**|**Parseval Regularization for Continual Reinforcement Learning**|Wesley Chung et.al.|[2412.07224](http://arxiv.org/abs/2412.07224)|null|
@@ -81,7 +81,7 @@
 |**2024-12-10**|**Epidemiological Model Calibration via Graybox Bayesian Optimization**|Puhua Niu et.al.|[2412.07193](http://arxiv.org/abs/2412.07193)|null|
 |**2024-12-10**|**Effective Reward Specification in Deep Reinforcement Learning**|Julien Roy et.al.|[2412.07177](http://arxiv.org/abs/2412.07177)|null|
 |**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771](http://arxiv.org/abs/2412.06771)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
-|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|null|
+|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|**[link](https://github.com/LanLi2017/LLM4DC)**|
 |**2024-12-09**|**Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies**|Dilian Gurov et.al.|[2412.06706](http://arxiv.org/abs/2412.06706)|null|
 |**2024-12-09**|**Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework**|Tianming Liu et.al.|[2412.06681](http://arxiv.org/abs/2412.06681)|null|
 |**2024-12-09**|**Self-Interested Agents in Collaborative Learning: An Incentivized Adaptive Data-Centric Framework**|Nithia Vijayan et.al.|[2412.06597](http://arxiv.org/abs/2412.06597)|null|
@@ -95,7 +95,7 @@
 |**2024-12-09**|**Simulating Human-like Daily Activities with Desire-driven Autonomy**|Yiding Wang et.al.|[2412.06435](http://arxiv.org/abs/2412.06435)|null|
 |**2024-12-09**|**World-Consistent Data Generation for Vision-and-Language Navigation**|Yu Zhong et.al.|[2412.06413](http://arxiv.org/abs/2412.06413)|null|
 |**2024-12-09**|**StarWhisper Telescope: Agent-Based Observation Assistant System to Approach AI Astrophysicist**|Cunshi Wang et.al.|[2412.06412](http://arxiv.org/abs/2412.06412)|null|
-|**2024-12-09**|**Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi**|F. Bredell et.al.|[2412.06333](http://arxiv.org/abs/2412.06333)|null|
+|**2024-12-09**|**Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi**|F. Bredell et.al.|[2412.06333](http://arxiv.org/abs/2412.06333)|**[link](https://github.com/fbredell/marl_artificial_conventions_hanabi)**|
 |**2024-12-09**|**Vision-Based Deep Reinforcement Learning of UAV Autonomous Navigation Using Privileged Information**|Junqiao Wang et.al.|[2412.06313](http://arxiv.org/abs/2412.06313)|null|
 |**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
 |**2024-12-09**|**Enhanced Multi-Object Tracking Using Pose-based Virtual Markers in 3x3 Basketball**|Li Yin et.al.|[2412.06258](http://arxiv.org/abs/2412.06258)|null|
@@ -116,7 +116,7 @@
 |**2024-12-06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|Avaneesh Devkota et.al.|[2412.04847](http://arxiv.org/abs/2412.04847)|null|
 |**2024-12-06**|**A Temporally Correlated Latent Exploration for Reinforcement Learning**|SuMin Oh et.al.|[2412.04775](http://arxiv.org/abs/2412.04775)|null|
 |**2024-12-06**|**REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments**|Kaustubh Sridhar et.al.|[2412.04759](http://arxiv.org/abs/2412.04759)|null|
-|**2024-12-05**|**LiveNet: Robust, Minimally Invasive Multi-Robot Control for Safe and Live Navigation in Constrained Environments**|Srikar Gouru et.al.|[2412.04659](http://arxiv.org/abs/2412.04659)|null|
+|**2024-12-05**|**LiveNet: Robust, Minimally Invasive Multi-Robot Control for Safe and Live Navigation in Constrained Environments**|Srikar Gouru et.al.|[2412.04659](http://arxiv.org/abs/2412.04659)|**[link](https://github.com/srikarg89/livenet)**|
 |**2024-12-05**|**Mutation mitigates finite-size effects in spatial evolutionary games**|Chen Shen et.al.|[2412.04654](http://arxiv.org/abs/2412.04654)|null|
 |**2024-12-05**|**Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**|Yiheng Xu et.al.|[2412.04454](http://arxiv.org/abs/2412.04454)|null|
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
@@ -404,7 +404,7 @@
 |**2024-11-13**|**Towards Objective and Unbiased Decision Assessments with LLM-Enhanced Hierarchical Attention Networks**|Junhua Liu et.al.|[2411.08504](http://arxiv.org/abs/2411.08504)|**[link](https://github.com/junhua/bgm-han)**|
 |**2024-11-13**|**AD-DINO: Attention-Dynamic DINO for Distance-Aware Embodied Reference Understanding**|Hao Guo et.al.|[2411.08451](http://arxiv.org/abs/2411.08451)|null|
 |**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449](http://arxiv.org/abs/2411.08449)|null|
-|**2024-11-13**|**Learning Dynamic Cognitive Map with Autonomous Navigation**|Daria de Tinguy et.al.|[2411.08447](http://arxiv.org/abs/2411.08447)|null|
+|**2024-11-13**|**Learning Dynamic Cognitive Map with Autonomous Navigation**|Daria de Tinguy et.al.|[2411.08447](http://arxiv.org/abs/2411.08447)|**[link](https://github.com/my-name-is-D/high_level_nav_planning)**|
 |**2024-11-13**|**Anonymous Distributed Localisation via Spatial Population Protocols**|Leszek Gąsieniec et.al.|[2411.08434](http://arxiv.org/abs/2411.08434)|null|
 |**2024-11-13**|**One STEP at a time: Language Agents are Stepwise Planners**|Minh Nguyen et.al.|[2411.08432](http://arxiv.org/abs/2411.08432)|**[link](https://github.com/minhtuong201/step)**|
 |**2024-11-13**|**Enhanced Classroom Dialogue Sequences Analysis with a Hybrid AI Agent: Merging Expert Rule-Base with Large Language Models**|Yun Long et.al.|[2411.08418](http://arxiv.org/abs/2411.08418)|null|
@@ -593,7 +593,7 @@
 |**2024-10-21**|**NetSafe: Exploring the Topological Safety of Multi-agent Networks**|Miao Yu et.al.|[2410.15686](http://arxiv.org/abs/2410.15686)|null|
 |**2024-10-20**|**When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?**|Shang Wang et.al.|[2410.15267](http://arxiv.org/abs/2410.15267)|null|
 |**2024-10-19**|**SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation**|Jingxuan Chen et.al.|[2410.15164](http://arxiv.org/abs/2410.15164)|**[link](https://github.com/ai-agents-2030/SPA-Bench)**|
-|**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|null|
+|**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|**[link](https://github.com/Luoji-zju/Agents4PLC_release)**|
 |**2024-10-18**|**SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent**|Jiarui Ji et.al.|[2410.14152](http://arxiv.org/abs/2410.14152)|**[link](https://github.com/jijiarui-cather/srapagent_framework)**|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
