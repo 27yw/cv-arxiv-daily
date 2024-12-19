@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
+|**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
+|**2024-12-18**|**A Computationally Grounded Framework for Cognitive Attitudes (extended version)**|Tiago de Lima et.al.|[2412.14073](http://arxiv.org/abs/2412.14073)|null|
+|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|null|
+|**2024-12-18**|**Decentralized Convergence to Equilibrium Prices in Trading Networks**|Edwin Lock et.al.|[2412.13972](http://arxiv.org/abs/2412.13972)|null|
+|**2024-12-18**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto Curves**|Martin Kurečka et.al.|[2412.13962](http://arxiv.org/abs/2412.13962)|null|
+|**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
+|**2024-12-18**|**Towards privacy-preserving cooperative control via encrypted distributed optimization**|Philipp Binfet et.al.|[2412.13953](http://arxiv.org/abs/2412.13953)|null|
+|**2024-12-18**|**Strategyproof Matching of Roommates and Rooms**|Hadi Hosseini et.al.|[2412.13887](http://arxiv.org/abs/2412.13887)|null|
+|**2024-12-18**|**Who Saves us From Risk? Altruists Promote Cooperation in a Public Investment Game**|Shen Zhang et.al.|[2412.13816](http://arxiv.org/abs/2412.13816)|null|
+|**2024-12-18**|**CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers?**|Dimitrios Mallis et.al.|[2412.13810](http://arxiv.org/abs/2412.13810)|null|
+|**2024-12-18**|**Meta-Reflection: A Feedback-Free Reflection Learning Framework**|Yaoke Wang et.al.|[2412.13781](http://arxiv.org/abs/2412.13781)|null|
+|**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|
+|**2024-12-18**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
+|**2024-12-18**|**A hybrid learning agent for episodic learning tasks with unknown target distance**|Oliver Sefrin et.al.|[2412.13686](http://arxiv.org/abs/2412.13686)|null|
+|**2024-12-18**|**ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning**|Jie-Jing Shao et.al.|[2412.13682](http://arxiv.org/abs/2412.13682)|null|
+|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
+|**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551](http://arxiv.org/abs/2412.13551)|null|
+|**2024-12-18**|**EscapeBench: Pushing Language Models to Think Outside the Box**|Cheng Qian et.al.|[2412.13549](http://arxiv.org/abs/2412.13549)|**[link](https://github.com/qiancheng0/escapebench)**|
+|**2024-12-18**|**Models for common knowledge logic**|Yoshihito Tanaka et.al.|[2412.13537](http://arxiv.org/abs/2412.13537)|null|
 |**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
@@ -686,7 +706,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
-|**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
+|**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-05**|**TANGO: Training-free Embodied AI Agents for Open-world Tasks**|Filippo Ziliotto et.al.|[2412.10402](http://arxiv.org/abs/2412.10402)|null|
 |**2024-12-11**|**From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**|Andrew Szot et.al.|[2412.08442](http://arxiv.org/abs/2412.08442)|null|
