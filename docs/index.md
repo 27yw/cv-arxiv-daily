@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166](http://arxiv.org/abs/2412.15166)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
 |**2024-12-19**|**Equal Merit Does Not Imply Equality: Discrimination at Equilibrium in a Hiring Market with Symmetric Agents**|Serafina Kamp et.al.|[2412.15162](http://arxiv.org/abs/2412.15162)|null|
@@ -30,7 +30,7 @@ layout: default
 |**2024-12-19**|**Testing linearity of spatial interaction functions à la Ramsey**|Abhimanyu Gupta et.al.|[2412.14778](http://arxiv.org/abs/2412.14778)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
 |**2024-12-19**|**Active Inference and Human--Computer Interaction**|Roderick Murray-Smith et.al.|[2412.14741](http://arxiv.org/abs/2412.14741)|null|
-|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|null|
+|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|**[link](https://github.com/danielyxyang/llm-verbalized-uq)**|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
 |**2024-12-19**|**A Model-free Biomimetics Algorithm for Deterministic Partially Observable Markov Decision Process**|Yide Yu et.al.|[2412.14614](http://arxiv.org/abs/2412.14614)|null|
 |**2024-12-19**|**Computational Sociology of Humans and Machines; Conflict and Collaboration**|Taha Yasseri et.al.|[2412.14606](http://arxiv.org/abs/2412.14606)|null|
