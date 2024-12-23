@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**Active Flow Control for Bluff Body under High Reynolds Number Turbulent Flow Conditions Using Deep Reinforcement Learning**|Jingbo Chen et.al.|[2412.15975](http://arxiv.org/abs/2412.15975)|null|
+|**2024-12-20**|**The multilayer garbage disposal game**|Hsin-Lun Li et.al.|[2412.15942](http://arxiv.org/abs/2412.15942)|null|
+|**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang et.al.|[2412.15908](http://arxiv.org/abs/2412.15908)|null|
+|**2024-12-20**|**Exploring the Effects of AI Nonverbal Emotional Cues on Human Decision Certainty in Moral Dilemmas**|Chenyi Zhang et.al.|[2412.15834](http://arxiv.org/abs/2412.15834)|null|
+|**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
+|**2024-12-20**|**FTISS Adaptive Bearing-Only Formation Tracking Control with Unknown Disturbance Rejection**|Hong Liang Cheah et.al.|[2412.15757](http://arxiv.org/abs/2412.15757)|null|
+|**2024-12-20**|**Online Optimization Algorithms in Repeated Price Competition: Equilibrium Learning and Algorithmic Collusion**|Martin Bichler et.al.|[2412.15707](http://arxiv.org/abs/2412.15707)|null|
+|**2024-12-20**|**Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration**|Yijia Shao et.al.|[2412.15701](http://arxiv.org/abs/2412.15701)|null|
+|**2024-12-20**|**AIR: Unifying Individual and Cooperative Exploration in Collective Multi-Agent Reinforcement Learning**|Guangchong Zhou et.al.|[2412.15700](http://arxiv.org/abs/2412.15700)|**[link](https://github.com/jugg1er/air)**|
+|**2024-12-20**|**Asynchronous Vector Consensus over Matrix-Weighted Networks**|P Raghavendra Rao et.al.|[2412.15681](http://arxiv.org/abs/2412.15681)|null|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/abs/2412.15673)|null|
+|**2024-12-20**|**Adaptable and Precise: Enterprise-Scenario LLM Function-Calling Capability Training Pipeline**|Guancheng Zeng et.al.|[2412.15660](http://arxiv.org/abs/2412.15660)|null|
+|**2024-12-20**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
+|**2024-12-20**|**Understanding Individual Agent Importance in Multi-Agent System via Counterfactual Reasoning**|Chen Jianming et.al.|[2412.15619](http://arxiv.org/abs/2412.15619)|null|
+|**2024-12-20**|**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**|Zhi Gao et.al.|[2412.15606](http://arxiv.org/abs/2412.15606)|null|
+|**2024-12-20**|**NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization**|Danial Kamali et.al.|[2412.15588](http://arxiv.org/abs/2412.15588)|null|
+|**2024-12-20**|**Multi Agent Reinforcement Learning for Sequential Satellite Assignment Problems**|Joshua Holder et.al.|[2412.15573](http://arxiv.org/abs/2412.15573)|**[link](https://github.com/Rainlabuw/rl-enabled-distributed-assignment)**|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166](http://arxiv.org/abs/2412.15166)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
@@ -647,6 +667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**On the Structural Memory of LLM Agents**|Ruihong Zeng et.al.|[2412.15266](http://arxiv.org/abs/2412.15266)|null|
 |**2024-12-18**|**Tree-of-Code: A Hybrid Approach for Robust Complex Task Planning and Execution**|Ziyi Ni et.al.|[2412.14212](http://arxiv.org/abs/2412.14212)|null|
 |**2024-12-17**|**RareAgents: Autonomous Multi-disciplinary Team for Rare Disease Diagnosis and Treatment**|Xuanzhong Chen et.al.|[2412.12475](http://arxiv.org/abs/2412.12475)|null|
 |**2024-12-14**|**Towards Action Hijacking of Large Language Model-based Agent**|Yuyang Zhang et.al.|[2412.10807](http://arxiv.org/abs/2412.10807)|null|
@@ -726,6 +747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
