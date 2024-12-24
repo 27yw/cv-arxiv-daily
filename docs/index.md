@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797](http://arxiv.org/abs/2412.17797)|null|
+|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
+|**2024-12-23**|**Sensitivity Curve Maximization: Attacking Robust Aggregators in Distributed Learning**|Christian A. Schroth et.al.|[2412.17740](http://arxiv.org/abs/2412.17740)|null|
+|**2024-12-23**|**Robin Hood Reachability Bidding Games**|Shaull Almagor et.al.|[2412.17718](http://arxiv.org/abs/2412.17718)|null|
+|**2024-12-23**|**SMAC-Hard: Enabling Mixed Opponent Strategy Script and Self-play on SMAC**|Yue Deng et.al.|[2412.17707](http://arxiv.org/abs/2412.17707)|**[link](https://github.com/devindeng94/smac-hard)**|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Shape and Performance of Fastest Paths over Networks with Interacting Selfish Agents**|Marco Cogoni et.al.|[2412.17665](http://arxiv.org/abs/2412.17665)|null|
+|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
+|**2024-12-23**|**Fluid-Derived Lattices for Unbiased Modeling of Bacterial Colony Growth**|Bryan Verhoef et.al.|[2412.17604](http://arxiv.org/abs/2412.17604)|null|
+|**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
+|**2024-12-23**|**Complete aging in the noisy voter model enhances consensus formation**|Jaume Llabrés et.al.|[2412.17569](http://arxiv.org/abs/2412.17569)|null|
+|**2024-12-23**|**DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought**|Jiaan Wang et.al.|[2412.17498](http://arxiv.org/abs/2412.17498)|**[link](https://github.com/krystalan/drt-o1)**|
+|**2024-12-23**|**A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers**|Shuaihang Chen et.al.|[2412.17481](http://arxiv.org/abs/2412.17481)|null|
+|**2024-12-23**|**Should public health policy exempt cases with low viral load from isolation during an epidemic?: a modelling study**|Jiahao Diao et.al.|[2412.17428](http://arxiv.org/abs/2412.17428)|null|
+|**2024-12-23**|**Reinforcement Learning with a Focus on Adjusting Policies to Reach Targets**|Akane Tsuboya et.al.|[2412.17344](http://arxiv.org/abs/2412.17344)|null|
+|**2024-12-23**|**Multimodal Deep Reinforcement Learning for Portfolio Optimization**|Sumit Nawathe et.al.|[2412.17293](http://arxiv.org/abs/2412.17293)|null|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
+|**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li et.al.|[2412.17259](http://arxiv.org/abs/2412.17259)|**[link](https://github.com/cshaitao/legalagentbench)**|
+|**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
+|**2024-12-22**|**A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops**|Kamer Ali Yuksel et.al.|[2412.17149](http://arxiv.org/abs/2412.17149)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
@@ -747,13 +767,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-05**|**TANGO: Training-free Embodied AI Agents for Open-world Tasks**|Filippo Ziliotto et.al.|[2412.10402](http://arxiv.org/abs/2412.10402)|null|
 |**2024-12-11**|**From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**|Andrew Szot et.al.|[2412.08442](http://arxiv.org/abs/2412.08442)|null|
-|**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
+|**2024-12-23**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
 |**2024-12-08**|**InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction**|Pengzhen Ren et.al.|[2412.05789](http://arxiv.org/abs/2412.05789)|**[link](https://github.com/pzhren/infiniteworld)**|
 |**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
 |**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
