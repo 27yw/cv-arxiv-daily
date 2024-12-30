@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Bottom-up robust modeling for the foraging behavior of Physarum polycephalum**|Damiano Reginato et.al.|[2412.19790](http://arxiv.org/abs/2412.19790)|null|
+|**2024-12-27**|**Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration**|Le Chen et.al.|[2412.19770](http://arxiv.org/abs/2412.19770)|**[link](https://github.com/hpc-fortran2cpp/fortran2cpp)**|
+|**2024-12-27**|**Can Large Language Models Adapt to Other Agents In-Context?**|Matthew Riemer et.al.|[2412.19726](http://arxiv.org/abs/2412.19726)|null|
+|**2024-12-27**|**OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**|Qiushi Sun et.al.|[2412.19723](http://arxiv.org/abs/2412.19723)|null|
+|**2024-12-27**|**The Value of Recall in Extensive-Form Games**|Ratip Emin Berker et.al.|[2412.19659](http://arxiv.org/abs/2412.19659)|null|
+|**2024-12-27**|**Xmodel-2 Technical Report**|Wang Qun et.al.|[2412.19638](http://arxiv.org/abs/2412.19638)|null|
+|**2024-12-27**|**Bidding Games on Markov Decision Processes with Quantitative Reachability Objectives**|Guy Avni et.al.|[2412.19609](http://arxiv.org/abs/2412.19609)|null|
+|**2024-12-27**|**Hindsight Planner: A Closed-Loop Few-Shot Planner for Embodied Instruction Following**|Yuxiao Yang et.al.|[2412.19562](http://arxiv.org/abs/2412.19562)|null|
+|**2024-12-27**|**Quantiles under ambiguity and risk sharing**|Peng Liu et.al.|[2412.19546](http://arxiv.org/abs/2412.19546)|null|
+|**2024-12-27**|**TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data**|Xiang Huang et.al.|[2412.19544](http://arxiv.org/abs/2412.19544)|**[link](https://github.com/cdhx/targa)**|
+|**2024-12-27**|**Scalable Hierarchical Reinforcement Learning for Hyper Scale Multi-Robot Task Planning**|Xuan Zhou et.al.|[2412.19538](http://arxiv.org/abs/2412.19538)|null|
+|**2024-12-27**|**Casevo: A Cognitive Agents and Social Evolution Simulator**|Zexun Jiang et.al.|[2412.19498](http://arxiv.org/abs/2412.19498)|null|
+|**2024-12-27**|**Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR**|Ted Edward Holmberg et.al.|[2412.19469](http://arxiv.org/abs/2412.19469)|null|
+|**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399](http://arxiv.org/abs/2412.19399)|null|
+|**2024-12-26**|**Preventive Energy Management for Distribution Systems Under Uncertain Events: A Deep Reinforcement Learning Approach**|Md Isfakul Anam et.al.|[2412.19382](http://arxiv.org/abs/2412.19382)|null|
+|**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
+|**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311](http://arxiv.org/abs/2412.19311)|null|
+|**2024-12-26**|**Reforming an Unfair Allocation by Exchanging Goods**|Sheung Man Yuen et.al.|[2412.19264](http://arxiv.org/abs/2412.19264)|null|
+|**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
+|**2024-12-26**|**VINEVI: A Virtualized Network Vision Architecture for Smart Monitoring of Heterogeneous Applications and Infrastructures**|Rodrigo Moreira et.al.|[2412.19226](http://arxiv.org/abs/2412.19226)|null|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**Automated Code Review In Practice**|Umut Cihan et.al.|[2412.18531](http://arxiv.org/abs/2412.18531)|null|
 |**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
@@ -791,10 +811,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-25**|**Embodied Image Quality Assessment for Robotic Intelligence**|Jianbo Zhang et.al.|[2412.18774](http://arxiv.org/abs/2412.18774)|**[link](https://github.com/jianbo-maker/epd_benchmark)**|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194](http://arxiv.org/abs/2412.18194)|null|
 |**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
+|**2024-12-25**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
@@ -805,7 +826,7 @@ layout: default
 |**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
 |**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-03**|**Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks**|Zijiao Yang et.al.|[2412.02795](http://arxiv.org/abs/2412.02795)|null|
-|**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
+|**2024-12-25**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
 |**2024-12-02**|**Generating Freeform Endoskeletal Robots**|Muhan Li et.al.|[2412.01036](http://arxiv.org/abs/2412.01036)|null|
 |**2024-12-01**|**STEVE-Audio: Expanding the Goal Conditioning Modalities of Embodied Agents in Minecraft**|Nicholas Lenzen et.al.|[2412.00949](http://arxiv.org/abs/2412.00949)|null|
