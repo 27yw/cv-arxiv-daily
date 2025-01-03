@@ -29,7 +29,7 @@
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069](http://arxiv.org/abs/2412.21069)|null|
 |**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033](http://arxiv.org/abs/2412.21033)|**[link](https://github.com/gautierdag/plancraft)**|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
-|**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
+|**2024-12-31**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
 |**2024-12-30**|**Joint Scoring Rules: Zero-Sum Competition Avoids Performative Prediction**|Rubi Hudson et.al.|[2412.20732](http://arxiv.org/abs/2412.20732)|null|
 |**2024-12-30**|**Modeling and Simulating Agent-Based City Migration Using Conway's Game of Life**|Bruce Deng et.al.|[2412.20691](http://arxiv.org/abs/2412.20691)|null|
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674](http://arxiv.org/abs/2412.20674)|null|
