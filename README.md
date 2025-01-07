@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
 |**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
-|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
 |**2025-01-03**|**Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning**|Gavin B. Rens et.al.|[2501.01727](http://arxiv.org/abs/2501.01727)|null|
@@ -783,14 +783,14 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Large Language Model Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
-|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2025-01-03**|**AgentRefine: Enhancing Agent Generalization through Refinement Tuning**|Dayuan Fu et.al.|[2501.01702](http://arxiv.org/abs/2501.01702)|null|
 |**2025-01-02**|**BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery**|Kanishk Gandhi et.al.|[2501.01540](http://arxiv.org/abs/2501.01540)|null|
 |**2024-12-31**|**Enabling New HDLs with Agents**|Mark Zakharov et.al.|[2501.00642](http://arxiv.org/abs/2501.00642)|null|
@@ -849,7 +849,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Tool learning
 
@@ -879,7 +879,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -946,7 +946,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
