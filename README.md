@@ -20,6 +20,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Personality Modeling for Persuasion of Misinformation using AI Agent**|Qianmin Lou et.al.|[2501.08985](http://arxiv.org/abs/2501.08985)|null|
+|**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
+|**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
+|**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925](http://arxiv.org/abs/2501.08925)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
+|**2025-01-15**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
+|**2025-01-15**|**The geometry of moral decision making**|Roland M. Friedrich et.al.|[2501.08865](http://arxiv.org/abs/2501.08865)|null|
+|**2025-01-15**|**On the Dominance of Truth-Telling in Gradual Mechanisms**|Wenqian Wang et.al.|[2501.08802](http://arxiv.org/abs/2501.08802)|null|
+|**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
+|**2025-01-15**|**Leveraging LLM Agents for Translating Network Configurations**|Yunze Wei et.al.|[2501.08760](http://arxiv.org/abs/2501.08760)|null|
+|**2025-01-15**|**Efficient Shape Reconfiguration by Hybrid Programmable Matter**|Jonas Friemel et.al.|[2501.08663](http://arxiv.org/abs/2501.08663)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
+|**2025-01-15**|**Towards Intelligent Active Particles**|Hartmut Löwen et.al.|[2501.08632](http://arxiv.org/abs/2501.08632)|null|
+|**2025-01-15**|**Neural Risk-sensitive Satisficing in Contextual Bandits**|Shogo Ito et.al.|[2501.08612](http://arxiv.org/abs/2501.08612)|null|
+|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600](http://arxiv.org/abs/2501.08600)|null|
+|**2025-01-15**|**Effects of taxes, redistribution actions and fiscal evasion on wealth inequality: an agent-based model approach**|Iago Nascimento Barros et.al.|[2501.08573](http://arxiv.org/abs/2501.08573)|null|
+|**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/abs/2501.08523)|null|
+|**2025-01-15**|**Ensuring Truthfulness in Distributed Aggregative Optimization**|Ziqin Chen et.al.|[2501.08512](http://arxiv.org/abs/2501.08512)|null|
+|**2025-01-14**|**Empathetic Conversational Agents: Utilizing Neural and Physiological Signals for Enhanced Empathetic Interactions**|Nastaran Saffaryazdi et.al.|[2501.08393](http://arxiv.org/abs/2501.08393)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 |**2025-01-14**|**Using Gamified Experiments to Tame Complexity: the case of the Schelling Model of Segregation**|Aleix Nicolás Olivé et.al.|[2501.08280](http://arxiv.org/abs/2501.08280)|null|
 |**2025-01-14**|**Addressing the sustainable AI trilemma: a case study on LLM agents and RAG**|Hui Wu et.al.|[2501.08262](http://arxiv.org/abs/2501.08262)|null|
