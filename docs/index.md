@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
+|**2025-01-17**|**Towards Human-Guided, Data-Centric LLM Co-Pilots**|Evgeny Saveliev et.al.|[2501.10321](http://arxiv.org/abs/2501.10321)|null|
+|**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
+|**2025-01-17**|**Evidence for the gravity-driven and magnetically-regularized gas flows feeding the massive protostellar cluster in Cep A**|Panigrahy Sandhyarani et.al.|[2501.10280](http://arxiv.org/abs/2501.10280)|null|
+|**2025-01-17**|**Grey-Box Fuzzing in Constrained Ultra-Large Systems: Lessons for SE Community**|Jiazhao Yu et.al.|[2501.10269](http://arxiv.org/abs/2501.10269)|null|
+|**2025-01-17**|**Deployment of an Aerial Multi-agent System for Automated Task Execution in Large-scale Underground Mining Environments**|Niklas Dahlquist et.al.|[2501.10262](http://arxiv.org/abs/2501.10262)|null|
+|**2025-01-17**|**Logarithmic Regret for Nonlinear Control**|James Wang et.al.|[2501.10261](http://arxiv.org/abs/2501.10261)|null|
+|**2025-01-17**|**Secure Semantic Communication With Homomorphic Encryption**|Rui Meng et.al.|[2501.10182](http://arxiv.org/abs/2501.10182)|null|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
+|**2025-01-17**|**GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning**|Zifeng Shi et.al.|[2501.10116](http://arxiv.org/abs/2501.10116)|null|
+|**2025-01-17**|**Infrastructure for AI Agents**|Alan Chan et.al.|[2501.10114](http://arxiv.org/abs/2501.10114)|null|
+|**2025-01-17**|**LLM Reasoner and Automated Planner: A new NPC approach**|Israel Puerta-Merino et.al.|[2501.10106](http://arxiv.org/abs/2501.10106)|null|
+|**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
+|**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**A Survey on Multi-Turn Interaction Capabilities of Large Language Models**|Chen Zhang et.al.|[2501.09959](http://arxiv.org/abs/2501.09959)|null|
+|**2025-01-17**|**ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring**|Kenneth Bonilla-Ormachea et.al.|[2501.09926](http://arxiv.org/abs/2501.09926)|null|
+|**2025-01-17**|**Towards A Litmus Test for Common Sense**|Hugo Latapie et.al.|[2501.09913](http://arxiv.org/abs/2501.09913)|null|
+|**2025-01-17**|**Chatbot apologies: Beyond bullshit**|P. D. Magnus et.al.|[2501.09910](http://arxiv.org/abs/2501.09910)|null|
 |**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
 |**2025-01-16**|**The Goofus & Gallant Story Corpus for Practical Value Alignment**|Md Sultan Al Nahian et.al.|[2501.09707](http://arxiv.org/abs/2501.09707)|null|
 |**2025-01-16**|**Authenticated Delegation and Authorized AI Agents**|Tobin South et.al.|[2501.09674](http://arxiv.org/abs/2501.09674)|null|
@@ -1031,6 +1051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
 |**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167](http://arxiv.org/abs/2501.09167)|null|
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
