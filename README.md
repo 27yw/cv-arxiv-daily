@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
+|**2025-01-31**|**The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference**|Mahault Albarracin et.al.|[2501.19368](http://arxiv.org/abs/2501.19368)|null|
+|**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339](http://arxiv.org/abs/2501.19339)|null|
+|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
+|**2025-01-31**|**Objective Metrics for Human-Subjects Evaluation in Explainable Reinforcement Learning**|Balint Gyevnar et.al.|[2501.19256](http://arxiv.org/abs/2501.19256)|null|
+|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245](http://arxiv.org/abs/2501.19245)|null|
+|**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
+|**2025-01-31**|**A parallelizable variant of HCA***|Sreenivasan Ganti et.al.|[2501.19218](http://arxiv.org/abs/2501.19218)|null|
+|**2025-01-31**|**An Empirical Game-Theoretic Analysis of Autonomous Cyber-Defence Agents**|Gregory Palmer et.al.|[2501.19206](http://arxiv.org/abs/2501.19206)|null|
+|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204](http://arxiv.org/abs/2501.19204)|null|
+|**2025-01-31**|**A Comunication Framework for Compositional Generation**|Rafael Elberg et.al.|[2501.19182](http://arxiv.org/abs/2501.19182)|null|
+|**2025-01-31**|**Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence**|Aurora Rofena et.al.|[2501.19176](http://arxiv.org/abs/2501.19176)|null|
+|**2025-01-31**|**Implications of zero-growth economics analysed with an agent-based model**|Dylan C. Terry-Doyle et.al.|[2501.19168](http://arxiv.org/abs/2501.19168)|null|
+|**2025-01-31**|**Test-Time Training Scaling for Chemical Exploration in Drug Design**|Morgan Thomas et.al.|[2501.19153](http://arxiv.org/abs/2501.19153)|null|
+|**2025-01-31**|**Constant-Factor Distortion Mechanisms for $k$ -Committee Election**|Haripriya Pulyassary et.al.|[2501.19148](http://arxiv.org/abs/2501.19148)|null|
+|**2025-01-31**|**Prediction-Aware Learning in Multi-Agent Systems**|Aymeric Capitaine et.al.|[2501.19144](http://arxiv.org/abs/2501.19144)|null|
+|**2025-01-31**|**Imitation Game for Adversarial Disillusion with Multimodal Generative Chain-of-Thought Role-Play**|Ching-Chun Chang et.al.|[2501.19143](http://arxiv.org/abs/2501.19143)|null|
+|**2025-01-31**|**Shaping Sparse Rewards in Reinforcement Learning: A Semi-supervised Approach**|Wenyun Li et.al.|[2501.19128](http://arxiv.org/abs/2501.19128)|null|
 |**2025-01-30**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539](http://arxiv.org/abs/2501.18539)|null|
 |**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
 |**2025-01-30**|**Graph Exploration with Edge Weight Estimates**|Matthias Gehnen et.al.|[2501.18496](http://arxiv.org/abs/2501.18496)|null|
@@ -1123,6 +1143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
 |**2025-01-28**|**Large Language Model Critics for Execution-Free Evaluation of Code Changes**|Aashish Yadavally et.al.|[2501.16655](http://arxiv.org/abs/2501.16655)|**[link](https://github.com/amazon-science/code-agent-eval)**|
 |**2024-12-30**|**DropMicroFluidAgents (DMFAs): Autonomous Droplet Microfluidic Research Framework Through Large Language Model Agents**|Dinh-Nguyen Nguyen et.al.|[2501.14772](http://arxiv.org/abs/2501.14772)|**[link](https://github.com/duydinhlab/dmfagents)**|
 |**2025-01-24**|**AI Chatbots as Professional Service Agents: Developing a Professional Identity**|Wenwen Li et.al.|[2501.14179](http://arxiv.org/abs/2501.14179)|null|
@@ -1231,6 +1252,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
+|**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|null|
+|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-29**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
 |**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001](http://arxiv.org/abs/2501.15001)|**[link](https://github.com/cambrian-org/ACI)**|
 |**2025-01-21**|**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**|Zhili Cheng et.al.|[2501.11858](http://arxiv.org/abs/2501.11858)|**[link](https://github.com/thunlp/embodiedeval)**|
