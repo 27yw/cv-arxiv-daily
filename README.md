@@ -49,7 +49,7 @@
 |**2025-01-29**|**Coalitional control: a bottom-up approach**|Filiberto Fele et.al.|[2501.17614](http://arxiv.org/abs/2501.17614)|null|
 |**2025-01-29**|**Coalitional model predictive control of an irrigation canal**|Filiberto Fele et.al.|[2501.17561](http://arxiv.org/abs/2501.17561)|null|
 |**2025-01-29**|**Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**|Gaole He et.al.|[2501.17546](http://arxiv.org/abs/2501.17546)|**[link](https://github.com/delftcrowd/iui2025_convxai)**|
-|**2025-01-29**|**Sequential Learning of the Pareto Front for Multi-objective Bandits**|Elise Crépon et.al.|[2501.17513](http://arxiv.org/abs/2501.17513)|null|
+|**2025-01-29**|**Sequential Learning of the Pareto Front for Multi-objective Bandits**|Elise Crépon et.al.|[2501.17513](http://arxiv.org/abs/2501.17513)|**[link](https://github.com/elise-crepon/sequential-pareto-learning-experiments)**|
 |**2025-01-29**|**Monetary-Fiscal Interaction and the Liquidity of Government Debt**|Cristiano Cantore et.al.|[2501.17458](http://arxiv.org/abs/2501.17458)|null|
 |**2025-01-29**|**Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment**|Maxence Hussonnois et.al.|[2501.17431](http://arxiv.org/abs/2501.17431)|null|
 |**2025-01-29**|**Actions Speak Louder than Words: Agent Decisions Reveal Implicit Biases in Language Models**|Yuxuan Li et.al.|[2501.17420](http://arxiv.org/abs/2501.17420)|null|
@@ -78,18 +78,18 @@
 |**2025-01-28**|**Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting**|Li Yin et.al.|[2501.16673](http://arxiv.org/abs/2501.16673)|**[link](https://github.com/sylphai-inc/adalflow)**|
 |**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661](http://arxiv.org/abs/2501.16661)|null|
 |**2025-01-28**|**Large Language Model Critics for Execution-Free Evaluation of Code Changes**|Aashish Yadavally et.al.|[2501.16655](http://arxiv.org/abs/2501.16655)|**[link](https://github.com/amazon-science/code-agent-eval)**|
-|**2025-01-28**|**More Efficient Sybil Detection Mechanisms Leveraging Resistance of Users to Attack Requests**|Ali Safarpoor Dehkordi et.al.|[2501.16624](http://arxiv.org/abs/2501.16624)|null|
+|**2025-01-28**|**More Efficient Sybil Detection Mechanisms Leveraging Resistance of Users to Attack Requests**|Ali Safarpoor Dehkordi et.al.|[2501.16624](http://arxiv.org/abs/2501.16624)|**[link](https://github.com/asafarpoor/aamas2025-paper)**|
 |**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
 |**2025-01-27**|**Privacy-aware Nash Equilibrium Synthesis with Partially Ordered LTL $_f$ Objectives**|Caleb Probine et.al.|[2501.16307](http://arxiv.org/abs/2501.16307)|null|
 |**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
-|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|null|
+|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|**[link](https://github.com/willis-richard/evollm)**|
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
 |**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
 |**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
-|**2025-01-27**|**Galaxy Era: Agent-based Simulation of Execution Tickets**|Pascal Stichler et.al.|[2501.16090](http://arxiv.org/abs/2501.16090)|null|
+|**2025-01-27**|**Galaxy Era: Agent-based Simulation of Execution Tickets**|Pascal Stichler et.al.|[2501.16090](http://arxiv.org/abs/2501.16090)|**[link](https://github.com/ephema/et-simulation)**|
 |**2025-01-27**|**Value-oriented forecast reconciliation for renewables in electricity markets**|Honglin Wen et.al.|[2501.16086](http://arxiv.org/abs/2501.16086)|null|
 |**2025-01-27**|**Generating Spatial Synthetic Populations Using Wasserstein Generative Adversarial Network: A Case Study with EU-SILC Data for Helsinki and Thessaloniki**|Vanja Falck et.al.|[2501.16080](http://arxiv.org/abs/2501.16080)|null|
-|**2025-01-27**|**Translating and evaluating single-cell Boolean network interventions in the multiscale setting**|John Metzcar et.al.|[2501.16052](http://arxiv.org/abs/2501.16052)|null|
+|**2025-01-27**|**Translating and evaluating single-cell Boolean network interventions in the multiscale setting**|John Metzcar et.al.|[2501.16052](http://arxiv.org/abs/2501.16052)|**[link](https://github.com/johnmetzcar/physilab)**|
 |**2025-01-27**|**Strategic Multi-Armed Bandit Problems Under Debt-Free Reporting**|Ahmed Ben Yahmed et.al.|[2501.16018](http://arxiv.org/abs/2501.16018)|null|
 |**2025-01-27**|**Modeling and stability analysis of live systems with time-varying dimension**|Andrii Mironchenko et.al.|[2501.15991](http://arxiv.org/abs/2501.15991)|null|
 |**2025-01-27**|**Online Housing Market**|Julien Lesca et.al.|[2501.15916](http://arxiv.org/abs/2501.15916)|null|
@@ -133,7 +133,7 @@
 |**2025-01-23**|**A Polynomial-Time Algorithm for EFX Orientations of Chores**|Kevin Hsu et.al.|[2501.13481](http://arxiv.org/abs/2501.13481)|null|
 |**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
 |**2025-01-23**|**BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch**|Yulong Hu et.al.|[2501.13448](http://arxiv.org/abs/2501.13448)|null|
-|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|**[link](https://github.com/khenryaegis/vulnbot)**|
 |**2025-01-23**|**Concurrent Learning with Aggregated States via Randomized Least Squares Value Iteration**|Yan Chen et.al.|[2501.13394](http://arxiv.org/abs/2501.13394)|null|
 |**2025-01-23**|**Do as We Do, Not as You Think: the Conformity of Large Language Models**|Zhiyuan Weng et.al.|[2501.13381](http://arxiv.org/abs/2501.13381)|**[link](https://github.com/zhiyuan-weng/benchform)**|
 |**2025-01-23**|**Task Allocation in Customer-led Two-sided Markets with Satellite Constellation Services**|Jianglin Qiao et.al.|[2501.13364](http://arxiv.org/abs/2501.13364)|null|
@@ -564,7 +564,7 @@
 |**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
 |**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
-|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|
+|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|**[link](https://github.com/rap-lab-org/public_LSRP)**|
 |**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
 |**2024-12-16**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594](http://arxiv.org/abs/2412.11594)|**[link](https://github.com/felixchan9527/versagen_official)**|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
@@ -1004,7 +1004,7 @@
 |**2024-11-11**|**RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration**|Young-Min Cho et.al.|[2411.07161](http://arxiv.org/abs/2411.07161)|null|
 |**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124](http://arxiv.org/abs/2411.07124)|null|
 |**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
-|**2024-11-11**|**Bounded Rationality Equilibrium Learning in Mean Field Games**|Yannick Eich et.al.|[2411.07099](http://arxiv.org/abs/2411.07099)|null|
+|**2024-11-11**|**Bounded Rationality Equilibrium Learning in Mean Field Games**|Yannick Eich et.al.|[2411.07099](http://arxiv.org/abs/2411.07099)|**[link](https://github.com/yannickeich/QRE-MFG)**|
 |**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|
 |**2024-11-11**|**Differentially-Private Collaborative Online Personalized Mean Estimation**|Yauhen Yakimenka et.al.|[2411.07094](http://arxiv.org/abs/2411.07094)|null|
 |**2024-11-11**|**To Train or Not to Train: Balancing Efficiency and Training Cost in Deep Reinforcement Learning for Mobile Edge Computing**|Maddalena Boscaro et.al.|[2411.07086](http://arxiv.org/abs/2411.07086)|null|
