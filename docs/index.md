@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
+|**2025-02-05**|**Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators**|Yuan Xinjie et.al.|[2502.03424](http://arxiv.org/abs/2502.03424)|null|
+|**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
+|**2025-02-05**|**Learning from Active Human Involvement through Proxy Value Propagation**|Zhenghao Peng et.al.|[2502.03369](http://arxiv.org/abs/2502.03369)|null|
+|**2025-02-05**|**PalimpChat: Declarative and Interactive AI analytics**|Chunwei Liu et.al.|[2502.03368](http://arxiv.org/abs/2502.03368)|null|
+|**2025-02-05**|**Inverse Mixed Strategy Games with Generative Trajectory Models**|Max Muchen Sun et.al.|[2502.03356](http://arxiv.org/abs/2502.03356)|null|
+|**2025-02-05**|**Implicit Communication in Human-Robot Collaborative Transport**|Elvin Yang et.al.|[2502.03346](http://arxiv.org/abs/2502.03346)|null|
+|**2025-02-05**|**Actions Speak Louder Than Words: Rate-Reward Trade-off in Markov Decision Processes**|Haotian Wu et.al.|[2502.03335](http://arxiv.org/abs/2502.03335)|null|
+|**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283](http://arxiv.org/abs/2502.03283)|null|
+|**2025-02-05**|**Modeling and Optimization of Insulin Injection for Type-1 Diabetes Mellitus Management**|Rinrada Jadsadaphongphaibool et.al.|[2502.03269](http://arxiv.org/abs/2502.03269)|null|
+|**2025-02-05**|**iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs**|Julius Mayer et.al.|[2502.03214](http://arxiv.org/abs/2502.03214)|null|
+|**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207](http://arxiv.org/abs/2502.03207)|null|
+|**2025-02-05**|**Cooperative Behavior in Pre-State Societies: An Agent-Based Approach of the Axum Civilization**|Riccardo Vasellini et.al.|[2502.03191](http://arxiv.org/abs/2502.03191)|null|
+|**2025-02-05**|**Strategizing with AI: Insights from a Beauty Contest Experiment**|Iuliia Alekseenko et.al.|[2502.03158](http://arxiv.org/abs/2502.03158)|null|
+|**2025-02-05**|**Group Trip Planning Query Problem with Multimodal Journey**|Dildar Ali et.al.|[2502.03144](http://arxiv.org/abs/2502.03144)|null|
+|**2025-02-05**|**Underwater Soft Fin Flapping Motion with Deep Neural Network Based Surrogate Model**|Yuya Hamamatsu et.al.|[2502.03135](http://arxiv.org/abs/2502.03135)|null|
+|**2025-02-05**|**Double Distillation Network for Multi-Agent Reinforcement Learning**|Yang Zhou et.al.|[2502.03125](http://arxiv.org/abs/2502.03125)|null|
+|**2025-02-05**|**Cooperation, satisfaction, and rationality in social games on complex networks with aspiration-driven players**|M. Aguilar-Janita et.al.|[2502.03109](http://arxiv.org/abs/2502.03109)|null|
+|**2025-02-05**|**Learning Efficient Flocking Control based on Gibbs Random Fields**|Dengyu Zhang et.al.|[2502.02984](http://arxiv.org/abs/2502.02984)|null|
+|**2025-02-05**|**FedMobileAgent: Training Mobile Agents Using Decentralized Self-Sourced Data from Diverse Users**|Wenhao Wang et.al.|[2502.02982](http://arxiv.org/abs/2502.02982)|null|
 |**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
 |**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
 |**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
