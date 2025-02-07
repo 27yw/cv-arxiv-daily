@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
+|**2025-02-06**|**Mutual Multilinearity of Nonequilibrium Network Currents**|Sara Dal Cengio et.al.|[2502.04298](http://arxiv.org/abs/2502.04298)|null|
+|**2025-02-06**|**DECAF: Learning to be Fair in Multi-agent Resource Allocation**|Ashwin Kumar et.al.|[2502.04281](http://arxiv.org/abs/2502.04281)|null|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
+|**2025-02-06**|**Multi-agent Architecture Search via Agentic Supernet**|Guibin Zhang et.al.|[2502.04180](http://arxiv.org/abs/2502.04180)|null|
+|**2025-02-06**|**Dense Fixed-Wing Swarming using Receding-Horizon NMPC**|Varun Madabushi et.al.|[2502.04174](http://arxiv.org/abs/2502.04174)|null|
+|**2025-02-06**|**Behavioral Entropy-Guided Dataset Generation for Offline Reinforcement Learning**|Wesley A. Suttle et.al.|[2502.04141](http://arxiv.org/abs/2502.04141)|null|
+|**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139](http://arxiv.org/abs/2502.04139)|null|
+|**2025-02-06**|**VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**|Eason Chen et.al.|[2502.04103](http://arxiv.org/abs/2502.04103)|null|
+|**2025-02-06**|**Strategic Learning with Local Explanations as Feedback**|Kiet Q. H. Vo et.al.|[2502.04058](http://arxiv.org/abs/2502.04058)|null|
+|**2025-02-06**|**Simulating the Emergence of Differential Case Marking with Communicating Neural-Network Agents**|Yuchen Lian et.al.|[2502.04038](http://arxiv.org/abs/2502.04038)|null|
+|**2025-02-06**|**Deep Meta Coordination Graphs for Multi-agent Reinforcement Learning**|Nikunj Gupta et.al.|[2502.04028](http://arxiv.org/abs/2502.04028)|**[link](https://github.com/Nikunj-Gupta/dmcg-marl)**|
+|**2025-02-06**|**Near-optimal Regret Using Policy Optimization in Online MDPs with Aggregate Bandit Feedback**|Tal Lancewicki et.al.|[2502.04004](http://arxiv.org/abs/2502.04004)|null|
+|**2025-02-06**|**Fairness Aware Reinforcement Learning via Proximal Policy Optimization**|Gabriele La Malfa et.al.|[2502.03953](http://arxiv.org/abs/2502.03953)|null|
+|**2025-02-06**|**Enhancing Online Learning Efficiency Through Heterogeneous Resource Integration with a Multi-Agent RAG System**|Devansh Srivastav et.al.|[2502.03948](http://arxiv.org/abs/2502.03948)|null|
+|**2025-02-06**|**Geometric Stabilization of Virtual Nonlinear Nonholonomic Constraints**|Efstratios Stratoglou et.al.|[2502.03902](http://arxiv.org/abs/2502.03902)|null|
+|**2025-02-06**|**Any theory that admits a Wigner's Friend type multi-agent paradox is logically contextual**|Nuriya Nurgalieva et.al.|[2502.03874](http://arxiv.org/abs/2502.03874)|null|
+|**2025-02-06**|**PAGNet: Pluggable Adaptive Generative Networks for Information Completion in Multi-Agent Communication**|Zhuohui Zhang et.al.|[2502.03845](http://arxiv.org/abs/2502.03845)|null|
+|**2025-02-06**|**PsyPlay: Personality-Infused Role-Playing Conversational Agents**|Tao Yang et.al.|[2502.03821](http://arxiv.org/abs/2502.03821)|null|
+|**2025-02-06**|**Large Language Models for Multi-Robot Systems: A Survey**|Peihan Li et.al.|[2502.03814](http://arxiv.org/abs/2502.03814)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
 |**2025-02-05**|**Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators**|Yuan Xinjie et.al.|[2502.03424](http://arxiv.org/abs/2502.03424)|null|
 |**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
