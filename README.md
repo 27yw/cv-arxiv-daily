@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1237,7 +1237,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -1246,7 +1246,7 @@
 |**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686](http://arxiv.org/abs/2502.04686)|null|
 |**2025-02-06**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492](http://arxiv.org/abs/2502.04492)|null|
 |**2025-02-04**|**Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives**|Elliot Meyerson et.al.|[2502.04358](http://arxiv.org/abs/2502.04358)|null|
-|**2025-02-03**|**Simulating Rumor Spreading in Social Networks using LLM Agents**|Tianrui Hu et.al.|[2502.01450](http://arxiv.org/abs/2502.01450)|null|
+|**2025-02-03**|**Simulating Rumor Spreading in Social Networks using LLM Agents**|Tianrui Hu et.al.|[2502.01450](http://arxiv.org/abs/2502.01450)|**[link](https://github.com/neerajas-group/rumors-in-multi-agent)**|
 |**2025-02-03**|**PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback**|Kanika Goswami et.al.|[2502.00988](http://arxiv.org/abs/2502.00988)|null|
 |**2025-02-02**|**RTBAgent: A LLM-based Agent System for Real-Time Bidding**|Leng Cai et.al.|[2502.00792](http://arxiv.org/abs/2502.00792)|null|
 |**2025-02-02**|**Meta-Prompt Optimization for LLM-Based Sequential Decision Making**|Mingze Kong et.al.|[2502.00728](http://arxiv.org/abs/2502.00728)|null|
@@ -1322,7 +1322,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Tool learning
 
@@ -1355,7 +1355,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -1365,7 +1365,7 @@
 |**2025-02-09**|**EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks**|Tongtong Feng et.al.|[2502.05907](http://arxiv.org/abs/2502.05907)|null|
 |**2025-02-10**|**Humans Co-exist, So Must Embodied Artificial Agents**|Hannah Kuehn et.al.|[2502.04809](http://arxiv.org/abs/2502.04809)|null|
 |**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067](http://arxiv.org/abs/2502.02067)|**[link](https://github.com/sssshivvvv/adaptbot)**|
-|**2025-02-03**|**Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents**|Zhizhen Zhang et.al.|[2502.01218](http://arxiv.org/abs/2502.01218)|null|
+|**2025-02-03**|**Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents**|Zhizhen Zhang et.al.|[2502.01218](http://arxiv.org/abs/2502.01218)|**[link](https://github.com/daisy-zzz/actol)**|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
 |**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|**[link](https://github.com/andypinxinliu/GestureLSM)**|
 |**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
@@ -1438,7 +1438,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
