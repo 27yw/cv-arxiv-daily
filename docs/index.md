@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
+|**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
+|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
+|**2025-02-12**|**Learning in Markets with Heterogeneous Agents: Dynamics and Survival of Bayesian vs. No-Regret Learners**|David Easley et.al.|[2502.08597](http://arxiv.org/abs/2502.08597)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**Statistically validated projection of bipartite signed networks**|Anna Gallo et.al.|[2502.08567](http://arxiv.org/abs/2502.08567)|null|
+|**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556](http://arxiv.org/abs/2502.08556)|null|
+|**2025-02-12**|**Extreme vulnerability to intruder attacks destabilizes network dynamics**|Amirhossein Nazerian et.al.|[2502.08552](http://arxiv.org/abs/2502.08552)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Resilient Quantized Consensus in Multi-Hop Relay Networks**|Liwei Yuan et.al.|[2502.08455](http://arxiv.org/abs/2502.08455)|null|
+|**2025-02-12**|**Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely**|Yan Dai et.al.|[2502.08412](http://arxiv.org/abs/2502.08412)|null|
+|**2025-02-12**|**Towards Principled Multi-Agent Task Agnostic Exploration**|Riccardo Zamboni et.al.|[2502.08365](http://arxiv.org/abs/2502.08365)|null|
+|**2025-02-12**|**Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems**|Yuxin Pan et.al.|[2502.08340](http://arxiv.org/abs/2502.08340)|null|
+|**2025-02-12**|**Hierarchical Multi-Agent Framework for Carbon-Efficient Liquid-Cooled Data Center Clusters**|Soumyendu Sarkar et.al.|[2502.08337](http://arxiv.org/abs/2502.08337)|null|
+|**2025-02-12**|**Salience-Invariant Consistent Policy Learning for Generalization in Visual Reinforcement Learning**|Sun Jingbo et.al.|[2502.08336](http://arxiv.org/abs/2502.08336)|null|
+|**2025-02-12**|**Decentralised multi-agent coordination for real-time railway traffic management**|Leo D'Amato et.al.|[2502.08324](http://arxiv.org/abs/2502.08324)|null|
+|**2025-02-12**|**Compromising Honesty and Harmlessness in Language Models via Deception Attacks**|Laurène Vaugrante et.al.|[2502.08301](http://arxiv.org/abs/2502.08301)|null|
+|**2025-02-12**|**Higher-order Laplacian dynamics on hypergraphs with cooperative and antagonistic interactions**|Shaoxuan Cui et.al.|[2502.08276](http://arxiv.org/abs/2502.08276)|null|
+|**2025-02-12**|**Principles and Framework for the Operationalisation of Meaningful Human Control over Autonomous Systems**|Simeon C. Calvert et.al.|[2502.08255](http://arxiv.org/abs/2502.08255)|null|
+|**2025-02-12**|**The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks**|Alejandro Cuadron et.al.|[2502.08235](http://arxiv.org/abs/2502.08235)|null|
 |**2025-02-11**|**MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces**|Loris Gaven et.al.|[2502.07709](http://arxiv.org/abs/2502.07709)|null|
 |**2025-02-11**|**Human Decision-making is Susceptible to AI-driven Manipulation**|Sahand Sabour et.al.|[2502.07663](http://arxiv.org/abs/2502.07663)|null|
 |**2025-02-11**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653](http://arxiv.org/abs/2502.07653)|null|
@@ -1255,6 +1275,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
 |**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686](http://arxiv.org/abs/2502.04686)|null|
 |**2025-02-06**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492](http://arxiv.org/abs/2502.04492)|null|
 |**2025-02-04**|**Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives**|Elliot Meyerson et.al.|[2502.04358](http://arxiv.org/abs/2502.04358)|null|
