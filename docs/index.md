@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
+|**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
+|**2025-02-13**|**Learning to Coordinate with Experts**|Mohamad H. Danesh et.al.|[2502.09583](http://arxiv.org/abs/2502.09583)|null|
+|**2025-02-13**|**Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks**|Qian Wan et.al.|[2502.09577](http://arxiv.org/abs/2502.09577)|null|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-13**|**Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**|Shreyan Biswas et.al.|[2502.09532](http://arxiv.org/abs/2502.09532)|null|
+|**2025-02-13**|**Exact Leader Estimation: A New Approach for Distributed Differentiation**|Rodrigo Aldana-Lopez et.al.|[2502.09529](http://arxiv.org/abs/2502.09529)|null|
+|**2025-02-13**|**Forward-backward Contention Resolution Schemes for Fair Rationing**|Will Ma et.al.|[2502.09521](http://arxiv.org/abs/2502.09521)|null|
+|**2025-02-13**|**Coupled Rendezvous and Docking Maneuver control of satellite using Reinforcement learning-based Adaptive Fixed-Time Sliding Mode Controller**|Rakesh Kumar Sahoo et.al.|[2502.09517](http://arxiv.org/abs/2502.09517)|null|
+|**2025-02-13**|**Package Bids in Combinatorial Electricity Auctions: Selection, Welfare Losses, and Alternatives**|Thomas Hübner et.al.|[2502.09420](http://arxiv.org/abs/2502.09420)|null|
+|**2025-02-13**|**Dialectics of antimicrobial peptides I: common mechanisms of offensive and protecting roles of the peptides**|Marta V. Volovik et.al.|[2502.09408](http://arxiv.org/abs/2502.09408)|null|
+|**2025-02-13**|**Fair Division via Resource Augmentation**|Hannaneh Akrami et.al.|[2502.09377](http://arxiv.org/abs/2502.09377)|null|
+|**2025-02-13**|**Language Agents as Digital Representatives in Collective Decision-Making**|Daniel Jarrett et.al.|[2502.09369](http://arxiv.org/abs/2502.09369)|null|
+|**2025-02-13**|**Convex Is Back: Solving Belief MDPs With Convexity-Informed Deep Reinforcement Learning**|Daniel Koutas et.al.|[2502.09298](http://arxiv.org/abs/2502.09298)|null|
+|**2025-02-13**|**Reliable Conversational Agents under ASP Control that Understand Natural Language**|Yankai Zeng et.al.|[2502.09237](http://arxiv.org/abs/2502.09237)|null|
+|**2025-02-13**|**Pearce's Characterisation in an Epistemic Domain**|Ezgi Iraz Su et.al.|[2502.09221](http://arxiv.org/abs/2502.09221)|null|
+|**2025-02-13**|**Mind the Gaps: Logical English, Prolog, and Multi-agent Systems for Autonomous Vehicles**|Galileo Sartor et.al.|[2502.09216](http://arxiv.org/abs/2502.09216)|null|
+|**2025-02-13**|**Architecture for Simulating Behavior Mode Changes in Norm-Aware Autonomous Agents**|Sean Glaze et.al.|[2502.09215](http://arxiv.org/abs/2502.09215)|null|
 |**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
 |**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
@@ -1275,8 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
 |**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
-|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-13**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
 |**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686](http://arxiv.org/abs/2502.04686)|null|
 |**2025-02-06**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492](http://arxiv.org/abs/2502.04492)|**[link](https://github.com/sftekin/rl-focal)**|
 |**2025-02-04**|**Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives**|Elliot Meyerson et.al.|[2502.04358](http://arxiv.org/abs/2502.04358)|null|
@@ -1291,7 +1312,7 @@ layout: default
 |**2025-01-24**|**AI Chatbots as Professional Service Agents: Developing a Professional Identity**|Wenwen Li et.al.|[2501.14179](http://arxiv.org/abs/2501.14179)|null|
 |**2025-02-08**|**Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents**|Shrinidhi Kumbhar et.al.|[2501.13299](http://arxiv.org/abs/2501.13299)|null|
 |**2025-01-20**|**Towards Advancing Code Generation with Large Language Models: A Research Roadmap**|Haolin Jin et.al.|[2501.11354](http://arxiv.org/abs/2501.11354)|null|
-|**2025-01-20**|**Large Language Model Agents for Radio Map Generation and Wireless Network Planning**|Hongye Quan et.al.|[2501.11283](http://arxiv.org/abs/2501.11283)|null|
+|**2025-02-13**|**Large Language Model Agents for Radio Map Generation and Wireless Network Planning**|Hongye Quan et.al.|[2501.11283](http://arxiv.org/abs/2501.11283)|null|
 |**2024-12-18**|**Autonomous Microscopy Experiments through Large Language Model Agents**|Indrajeet Mandal et.al.|[2501.10385](http://arxiv.org/abs/2501.10385)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 |**2025-01-10**|**Multi-Agent Collaboration Mechanisms: A Survey of LLMs**|Khanh-Tung Tran et.al.|[2501.06322](http://arxiv.org/abs/2501.06322)|null|
@@ -1360,6 +1381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
 |**2025-02-03**|**Tool Unlearning for Tool-Augmented LLMs**|Jiali Cheng et.al.|[2502.01083](http://arxiv.org/abs/2502.01083)|null|
 |**2025-01-30**|**ACEBench: Who Wins the Match Point in Tool Learning?**|Chen Chen et.al.|[2501.12851](http://arxiv.org/abs/2501.12851)|null|
 |**2025-01-21**|**Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**|Dongsheng Zhu et.al.|[2501.12432](http://arxiv.org/abs/2501.12432)|null|
@@ -1391,6 +1413,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-09**|**EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks**|Tongtong Feng et.al.|[2502.05907](http://arxiv.org/abs/2502.05907)|null|
 |**2025-02-10**|**Humans Co-exist, So Must Embodied Artificial Agents**|Hannah Kuehn et.al.|[2502.04809](http://arxiv.org/abs/2502.04809)|null|
@@ -1400,7 +1423,7 @@ layout: default
 |**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|**[link](https://github.com/andypinxinliu/GestureLSM)**|
 |**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-29**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
-|**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001](http://arxiv.org/abs/2501.15001)|**[link](https://github.com/cambrian-org/ACI)**|
+|**2025-02-13**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001](http://arxiv.org/abs/2501.15001)|**[link](https://github.com/cambrian-org/ACI)**|
 |**2025-01-21**|**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**|Zhili Cheng et.al.|[2501.11858](http://arxiv.org/abs/2501.11858)|**[link](https://github.com/thunlp/embodiedeval)**|
 |**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
 |**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167](http://arxiv.org/abs/2501.09167)|null|
