@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making**|Luca Lalor et.al.|[2502.17417](http://arxiv.org/abs/2502.17417)|null|
+|**2025-02-24**|**Distributed Coordination for Heterogeneous Non-Terrestrial Networks**|Jikang Deng et.al.|[2502.17366](http://arxiv.org/abs/2502.17366)|null|
+|**2025-02-24**|**Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents**|Prafulla Kumar Choubey et.al.|[2502.17321](http://arxiv.org/abs/2502.17321)|null|
+|**2025-02-24**|**Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach**|Jichen Li et.al.|[2502.17307](http://arxiv.org/abs/2502.17307)|null|
+|**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
+|**2025-02-24**|**Teleology-Driven Affective Computing: A Causal Framework for Sustained Well-Being**|Bin Yin et.al.|[2502.17172](http://arxiv.org/abs/2502.17172)|null|
+|**2025-02-24**|**A Novel Multiple Access Scheme for Heterogeneous Wireless Communications using Symmetry-aware Continual Deep Reinforcement Learning**|Hamidreza Mazandarani et.al.|[2502.17167](http://arxiv.org/abs/2502.17167)|null|
+|**2025-02-24**|**Semantic-Aware Dynamic and Distributed Power Allocation: a Multi-UAV Area Coverage Use Case**|Hamidreza Mazandarani et.al.|[2502.17120](http://arxiv.org/abs/2502.17120)|null|
+|**2025-02-24**|**Mobile-Agent-V: Learning Mobile Device Operation Through Video-Guided Multi-Agent Collaboration**|Junyang Wang et.al.|[2502.17110](http://arxiv.org/abs/2502.17110)|null|
+|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
+|**2025-02-24**|**MA2RL: Masked Autoencoders for Generalizable Multi-Agent Reinforcement Learning**|Jinyuan Feng et.al.|[2502.17046](http://arxiv.org/abs/2502.17046)|null|
+|**2025-02-24**|**A data-driven econo-financial stress-testing framework to estimate the effect of supply chain networks on financial systemic risk**|Jan Fialkowski et.al.|[2502.17044](http://arxiv.org/abs/2502.17044)|null|
+|**2025-02-24**|**Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs**|Enea Monzio Compagnoni et.al.|[2502.17009](http://arxiv.org/abs/2502.17009)|null|
+|**2025-02-24**|**Deep-reinforcement-learning-based separation control in a two-dimensional airfoil**|Xavier Garcia et.al.|[2502.16993](http://arxiv.org/abs/2502.16993)|null|
+|**2025-02-24**|**Engineering and Validating Cyber-Physical Energy Systems: Needs, Status Quo, and Research Trends**|Thomas I. Strasser et.al.|[2502.16991](http://arxiv.org/abs/2502.16991)|null|
+|**2025-02-24**|**A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**|Yuzhi Hao et.al.|[2502.16879](http://arxiv.org/abs/2502.16879)|null|
+|**2025-02-24**|**Graphy'our Data: Towards End-to-End Modeling, Exploring and Generating Report from Raw Data**|Longbin Lai et.al.|[2502.16868](http://arxiv.org/abs/2502.16868)|null|
+|**2025-02-24**|**Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking**|Ruichen Zhang et.al.|[2502.16866](http://arxiv.org/abs/2502.16866)|null|
+|**2025-02-24**|**Leveraging Large Language Models for Effective and Explainable Multi-Agent Credit Assignment**|Kartik Nagpal et.al.|[2502.16863](http://arxiv.org/abs/2502.16863)|null|
+|**2025-02-24**|**Grounded Persuasive Language Generation for Automated Marketing**|Jibang Wu et.al.|[2502.16810](http://arxiv.org/abs/2502.16810)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
 |**2025-02-21**|**Multi-Agent Architecture in Distributed Environment Control Systems: vision, challenges, and opportunities**|Natasha Astudillo et.al.|[2502.15663](http://arxiv.org/abs/2502.15663)|null|
 |**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662](http://arxiv.org/abs/2502.15662)|null|
@@ -1423,6 +1443,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
+|**2025-02-24**|**Grounded Persuasive Language Generation for Automated Marketing**|Jibang Wu et.al.|[2502.16810](http://arxiv.org/abs/2502.16810)|null|
+|**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[2502.16804](http://arxiv.org/abs/2502.16804)|null|
+|**2025-02-23**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|null|
+|**2025-02-23**|**RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents**|Sho Nakatani et.al.|[2502.16730](http://arxiv.org/abs/2502.16730)|null|
+|**2025-02-20**|**Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents**|Axel Backlund et.al.|[2502.15840](http://arxiv.org/abs/2502.15840)|null|
+|**2025-02-18**|**LLM Trading: Analysis of LLM Agent Behavior in Experimental Asset Markets**|Thomas Henning et.al.|[2502.15800](http://arxiv.org/abs/2502.15800)|null|
 |**2025-02-21**|**Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing**|Masaya Kobayashi et.al.|[2502.15506](http://arxiv.org/abs/2502.15506)|null|
 |**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
 |**2025-02-21**|**I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**|Zujie Liang et.al.|[2502.14693](http://arxiv.org/abs/2502.14693)|null|
@@ -1542,7 +1569,7 @@
 |**2025-01-07**|**NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models**|Han Han et.al.|[2410.11805](http://arxiv.org/abs/2410.11805)|**[link](https://github.com/hhan1018/nestools)**|
 |**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|**[link](https://github.com/quchangle1/DRAFT)**|
 |**2025-02-18**|**StepTool: Enhancing Multi-Step Tool Usage in LLMs through Step-Grained Reinforcement Learning**|Yuanqing Yu et.al.|[2410.07745](http://arxiv.org/abs/2410.07745)|**[link](https://github.com/yuyq18/steptool)**|
-|**2025-01-25**|**Learning Evolving Tools for Large Language Models**|Guoxin Chen et.al.|[2410.06617](http://arxiv.org/abs/2410.06617)|**[link](https://github.com/chen-gx/toolevo)**|
+|**2025-02-24**|**Learning Evolving Tools for Large Language Models**|Guoxin Chen et.al.|[2410.06617](http://arxiv.org/abs/2410.06617)|**[link](https://github.com/chen-gx/toolevo)**|
 |**2024-10-08**|**ToolGen: Unified Tool Retrieval and Calling via Generation**|Renxi Wang et.al.|[2410.03439](http://arxiv.org/abs/2410.03439)|**[link](https://github.com/Reason-Wang/ToolGen)**|
 |**2024-09-23**|**CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**|Yupu Hao et.al.|[2409.13202](http://arxiv.org/abs/2409.13202)|**[link](https://github.com/hypasd-art/CITI)**|
 |**2024-09-02**|**ToolACE: Winning the Points of LLM Function Calling**|Weiwen Liu et.al.|[2409.00920](http://arxiv.org/abs/2409.00920)|null|
@@ -1569,7 +1596,7 @@
 |**2025-02-16**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|
 |**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
 |**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
-|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-23**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-09**|**EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks**|Tongtong Feng et.al.|[2502.05907](http://arxiv.org/abs/2502.05907)|null|
 |**2025-02-10**|**Humans Co-exist, So Must Embodied Artificial Agents**|Hannah Kuehn et.al.|[2502.04809](http://arxiv.org/abs/2502.04809)|null|
