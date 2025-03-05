@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation**|Michal Nazarczuk et.al.|[2503.02834](http://arxiv.org/abs/2503.02834)|null|
+|**2025-03-04**|**Meta-Learning to Explore via Memory Density Feedback**|Kevin L. McKee et.al.|[2503.02831](http://arxiv.org/abs/2503.02831)|null|
+|**2025-03-04**|**Do Not Trust Licenses You See -- Dataset Compliance Requires Massive-Scale AI-Powered Lifecycle Tracing**|Jaekyeom Kim et.al.|[2503.02784](http://arxiv.org/abs/2503.02784)|null|
+|**2025-03-04**|**Quantitative Resilience Modeling for Autonomous Cyber Defense**|Xavier Cadet et.al.|[2503.02780](http://arxiv.org/abs/2503.02780)|null|
+|**2025-03-04**|**From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance**|Jiacheng Tang et.al.|[2503.02760](http://arxiv.org/abs/2503.02760)|null|
+|**2025-03-04**|**Consumption-portfolio choice with preferences for liquid assets**|Guohui Guan et.al.|[2503.02697](http://arxiv.org/abs/2503.02697)|null|
+|**2025-03-04**|**Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**|Jakob Weber et.al.|[2503.02693](http://arxiv.org/abs/2503.02693)|**[link](https://github.com/j-cap/FL-based-neural-FF-control)**|
+|**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
+|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
+|**2025-03-04**|**Unique existence of solution and Hyers-Ulam stability for a new fractional differential quasi-variational inequality with Mittag-Leffler kernel and its applications**|Zeng-bao Wu et.al.|[2503.02669](http://arxiv.org/abs/2503.02669)|null|
+|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
+|**2025-03-04**|**Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts**|Yizhou Huang et.al.|[2503.02600](http://arxiv.org/abs/2503.02600)|null|
+|**2025-03-04**|**Succinct Ambiguous Contracts**|Paul Duetting et.al.|[2503.02592](http://arxiv.org/abs/2503.02592)|null|
+|**2025-03-04**|**Playing games with Large language models: Randomness and strategy**|Alicia Vidler et.al.|[2503.02582](http://arxiv.org/abs/2503.02582)|null|
+|**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
+|**2025-03-04**|**LTL Verification of Memoryful Neural Agents**|Mehran Hosseini et.al.|[2503.02512](http://arxiv.org/abs/2503.02512)|null|
+|**2025-03-04**|**ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**|Shaofei Cai et.al.|[2503.02505](http://arxiv.org/abs/2503.02505)|null|
+|**2025-03-04**|**To Hedge or Not to Hedge: Optimal Strategies for Stochastic Trade Flow Management**|Philippe Bergault et.al.|[2503.02496](http://arxiv.org/abs/2503.02496)|null|
+|**2025-03-04**|**Linear Convergence of Distributed Compressed Optimization with Equality Constraints**|Zihao Ren et.al.|[2503.02468](http://arxiv.org/abs/2503.02468)|null|
+|**2025-03-04**|**Approximate Equilibria in Nonconvex Markets: Theory and Evidence from European Electricity Auctions**|Thomas Hübner et.al.|[2503.02464](http://arxiv.org/abs/2503.02464)|null|
 |**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300](http://arxiv.org/abs/2502.21300)|null|
 |**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/abs/2502.21297)|null|
 |**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267](http://arxiv.org/abs/2502.21267)|null|
@@ -1515,6 +1535,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
+|**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
+|**2025-03-04**|**AppAgentX: Evolving GUI Agents as Proficient Smartphone Users**|Wenjia Jiang et.al.|[2503.02268](http://arxiv.org/abs/2503.02268)|null|
+|**2025-03-03**|**Can (A)I Change Your Mind?**|Miriam Havin et.al.|[2503.01844](http://arxiv.org/abs/2503.01844)|null|
+|**2025-02-28**|**BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology**|Ludovico Mitchener et.al.|[2503.00096](http://arxiv.org/abs/2503.00096)|null|
 |**2025-02-28**|**The Power of Personality: A Human Simulation Perspective to Investigate Large Language Model Agents**|Yifan Duan et.al.|[2502.20859](http://arxiv.org/abs/2502.20859)|null|
 |**2025-02-28**|**Digital Player: Evaluating Large Language Models based Human-like Agent in Games**|Jiawei Wang et.al.|[2502.20807](http://arxiv.org/abs/2502.20807)|null|
 |**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073](http://arxiv.org/abs/2502.20073)|**[link](https://github.com/yusaemeow/collab-overcooked)**|
@@ -1633,6 +1658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-03**|**AskToAct: Enhancing LLMs Tool Use via Self-Correcting Clarification**|Xuan Zhang et.al.|[2503.01940](http://arxiv.org/abs/2503.01940)|null|
+|**2025-03-03**|**Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**|Zhengliang Shi et.al.|[2503.01763](http://arxiv.org/abs/2503.01763)|null|
 |**2025-02-26**|**PEToolLLM: Towards Personalized Tool Learning in Large Language Models**|Qiancheng Xu et.al.|[2502.18980](http://arxiv.org/abs/2502.18980)|null|
 |**2025-02-24**|**Programming with Pixels: Computer-Use Meets Software Engineering**|Pranjal Aggarwal et.al.|[2502.18525](http://arxiv.org/abs/2502.18525)|null|
 |**2025-02-17**|**ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models**|Hanxing Ding et.al.|[2502.11404](http://arxiv.org/abs/2502.11404)|**[link](https://github.com/dhx20150812/toolcoder)**|
@@ -1669,6 +1696,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Teaching Metric Distance to Autoregressive Multimodal Foundational Models**|Jiwan Chung et.al.|[2503.02379](http://arxiv.org/abs/2503.02379)|null|
+|**2025-03-02**|**NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains**|Wonje Choi et.al.|[2503.00870](http://arxiv.org/abs/2503.00870)|null|
+|**2025-03-02**|**CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments**|Mingcong Lei et.al.|[2503.00729](http://arxiv.org/abs/2503.00729)|**[link](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)**|
 |**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
 |**2025-03-03**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|
 |**2025-03-02**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
