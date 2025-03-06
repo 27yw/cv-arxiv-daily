@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2503.03686](http://arxiv.org/abs/2503.03686)|null|
+|**2025-03-05**|**Optimally Installing Strict Equilibria**|Jeremy McMahan et.al.|[2503.03676](http://arxiv.org/abs/2503.03676)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**Motion Planning and Control with Unknown Nonlinear Dynamics through Predicted Reachability**|Zhiquan Zhang et.al.|[2503.03633](http://arxiv.org/abs/2503.03633)|null|
+|**2025-03-05**|**TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**|Haowei Sun et.al.|[2503.03629](http://arxiv.org/abs/2503.03629)|null|
+|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
+|**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
+|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|null|
+|**2025-03-05**|**Open-Source Large Language Models as Multilingual Crowdworkers: Synthesizing Open-Domain Dialogues in Several Languages With No Examples in Targets and No Machine Translation**|Ahmed Njifenjou et.al.|[2503.03462](http://arxiv.org/abs/2503.03462)|null|
+|**2025-03-05**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459](http://arxiv.org/abs/2503.03459)|null|
+|**2025-03-05**|**Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties**|Eunkyung Choi et.al.|[2503.03444](http://arxiv.org/abs/2503.03444)|null|
+|**2025-03-05**|**CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**|Junhao Xu et.al.|[2503.03430](http://arxiv.org/abs/2503.03430)|null|
+|**2025-03-05**|**Multi-Agent DRL for Queue-Aware Task Offloading in Hierarchical MEC-Enabled Air-Ground Networks**|Muhammet Hevesli et.al.|[2503.03391](http://arxiv.org/abs/2503.03391)|null|
+|**2025-03-05**|**Linear-quadratic optimal control for non-exchangeable mean-field SDEs and applications to systemic risk**|Anna de Crescenzo et.al.|[2503.03318](http://arxiv.org/abs/2503.03318)|null|
+|**2025-03-05**|**SEOE: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection**|Yi-Fan Lu et.al.|[2503.03303](http://arxiv.org/abs/2503.03303)|null|
+|**2025-03-05**|**Which books do I like?**|Hannes Rosenbusch et.al.|[2503.03300](http://arxiv.org/abs/2503.03300)|null|
 |**2025-03-04**|**MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation**|Michal Nazarczuk et.al.|[2503.02834](http://arxiv.org/abs/2503.02834)|null|
 |**2025-03-04**|**Meta-Learning to Explore via Memory Density Feedback**|Kevin L. McKee et.al.|[2503.02831](http://arxiv.org/abs/2503.02831)|null|
 |**2025-03-04**|**Do Not Trust Licenses You See -- Dataset Compliance Requires Massive-Scale AI-Powered Lifecycle Tracing**|Jaekyeom Kim et.al.|[2503.02784](http://arxiv.org/abs/2503.02784)|null|
@@ -1543,6 +1563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
 |**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
 |**2025-03-04**|**AppAgentX: Evolving GUI Agents as Proficient Smartphone Users**|Wenjia Jiang et.al.|[2503.02268](http://arxiv.org/abs/2503.02268)|null|
