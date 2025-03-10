@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/abs/2503.05641)|null|
+|**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573](http://arxiv.org/abs/2503.05573)|null|
+|**2025-03-07**|**Tractable Representations for Convergent Approximation of Distributional HJB Equations**|Julie Alhosh et.al.|[2503.05563](http://arxiv.org/abs/2503.05563)|null|
+|**2025-03-07**|**ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results**|S. Molinari et.al.|[2503.05555](http://arxiv.org/abs/2503.05555)|null|
+|**2025-03-07**|**Impoola: The Power of Average Pooling for Image-Based Deep Reinforcement Learning**|Raphael Trumpp et.al.|[2503.05546](http://arxiv.org/abs/2503.05546)|null|
+|**2025-03-07**|**The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence**|Noah Mamie et.al.|[2503.05473](http://arxiv.org/abs/2503.05473)|null|
+|**2025-03-07**|**Game Theory in Formula 1: Multi-agent Physical and Strategical Interactions**|Giona Fienia et.al.|[2503.05421](http://arxiv.org/abs/2503.05421)|null|
+|**2025-03-07**|**First-passage-time statistics of active Brownian particles: A perturbative approach**|Yanis Baouche et.al.|[2503.05401](http://arxiv.org/abs/2503.05401)|null|
+|**2025-03-07**|**Multi Agent based Medical Assistant for Edge Devices**|Sakharam Gawade et.al.|[2503.05397](http://arxiv.org/abs/2503.05397)|null|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|null|
+|**2025-03-07**|**Attenuation artifact detection and severity classification in intracoronary OCT using mixed image representations**|Pierandrea Cancian et.al.|[2503.05322](http://arxiv.org/abs/2503.05322)|null|
+|**2025-03-07**|**Deciphering the dual chemotaxis strategy of bacteria in porous media**|Sönke Beier et.al.|[2503.05286](http://arxiv.org/abs/2503.05286)|null|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
+|**2025-03-07**|**Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration**|Chengqi Zheng et.al.|[2503.05246](http://arxiv.org/abs/2503.05246)|null|
+|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242](http://arxiv.org/abs/2503.05242)|null|
+|**2025-03-07**|**Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation**|Mohit Prashant et.al.|[2503.05238](http://arxiv.org/abs/2503.05238)|null|
+|**2025-03-07**|**ORANSight-2.0: Foundational LLMs for O-RAN**|Pranshav Gajjar et.al.|[2503.05200](http://arxiv.org/abs/2503.05200)|null|
 |**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/abs/2503.04692)|null|
 |**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
 |**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679](http://arxiv.org/abs/2503.04679)|null|
@@ -1575,6 +1595,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-06**|**SafeArena: Evaluating the Safety of Autonomous Web Agents**|Ada Defne Tur et.al.|[2503.04957](http://arxiv.org/abs/2503.04957)|null|
 |**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
 |**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
