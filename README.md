@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
+|**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
+|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596](http://arxiv.org/abs/2503.10596)|null|
+|**2025-03-13**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561](http://arxiv.org/abs/2503.10561)|null|
+|**2025-03-13**|**A large multi-agent system with noise both in position and control**|Giuseppe D'Onofrio et.al.|[2503.10543](http://arxiv.org/abs/2503.10543)|null|
+|**2025-03-13**|**Fair allocations with subadditive and XOS valuations**|Uriel Feige et.al.|[2503.10513](http://arxiv.org/abs/2503.10513)|null|
+|**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509](http://arxiv.org/abs/2503.10509)|null|
+|**2025-03-13**|**SortingEnv: An Extendable RL-Environment for an Industrial Sorting Process**|Tom Maus et.al.|[2503.10466](http://arxiv.org/abs/2503.10466)|null|
+|**2025-03-13**|**Compliant Control of Quadruped Robots for Assistive Load Carrying**|Nimesh Khandelwal et.al.|[2503.10401](http://arxiv.org/abs/2503.10401)|null|
+|**2025-03-13**|**Optical stabilization for laser communication satellite systems through proportional-integral-derivative (PID) control and reinforcement learning approach**|A. Reutov et.al.|[2503.10395](http://arxiv.org/abs/2503.10395)|null|
+|**2025-03-13**|**New Trends for Modern Machine Translation with Large Reasoning Models**|Sinuo Liu et.al.|[2503.10351](http://arxiv.org/abs/2503.10351)|null|
+|**2025-03-13**|**HALO: Fault-Tolerant Safety Architecture For High-Speed Autonomous Racing**|Aron Harder et.al.|[2503.10341](http://arxiv.org/abs/2503.10341)|null|
+|**2025-03-13**|**Enhance Exploration in Safe Reinforcement Learning with Contrastive Representation Learning**|Duc Kien Doan et.al.|[2503.10318](http://arxiv.org/abs/2503.10318)|null|
+|**2025-03-13**|**Capturing Semantic Flow of ML-based Systems**|Shin Yoo et.al.|[2503.10310](http://arxiv.org/abs/2503.10310)|null|
+|**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
+|**2025-03-13**|**LLM Agents Display Human Biases but Exhibit Distinct Learning Patterns**|Idan Horowitz et.al.|[2503.10248](http://arxiv.org/abs/2503.10248)|null|
+|**2025-03-13**|**Reach-Avoid-Stay-Collision-Avoidance Negotiation Framework for Multi-Agent Systems via Spatiotemporal Tubes**|Mohd. Faizuddin Faruqui et.al.|[2503.10245](http://arxiv.org/abs/2503.10245)|null|
+|**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
+|**2025-03-13**|**Global synchronization of multi-agent systems with nonlinear interactions**|Anthony Couthures et.al.|[2503.10205](http://arxiv.org/abs/2503.10205)|null|
 |**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586](http://arxiv.org/abs/2503.09586)|null|
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
 |**2025-03-12**|**The turnpike control in stochastic multi-agent dynamics: a discrete-time approach with exponential integrators**|Fabio Cassini et.al.|[2503.09549](http://arxiv.org/abs/2503.09549)|null|
@@ -1663,6 +1683,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**A Survey on Trustworthy LLM Agents: Threats and Countermeasures**|Miao Yu et.al.|[2503.09648](http://arxiv.org/abs/2503.09648)|null|
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
 |**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|null|
 |**2025-03-10**|**Simulating Influence Dynamics with LLM Agents**|Mehwish Nasim et.al.|[2503.08709](http://arxiv.org/abs/2503.08709)|null|
@@ -1800,6 +1821,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071](http://arxiv.org/abs/2503.10071)|null|
 |**2025-03-09**|**Alignment for Efficient Tool Calling of Large Language Models**|Hongshen Xu et.al.|[2503.06708](http://arxiv.org/abs/2503.06708)|null|
 |**2025-03-03**|**AskToAct: Enhancing LLMs Tool Use via Self-Correcting Clarification**|Xuan Zhang et.al.|[2503.01940](http://arxiv.org/abs/2503.01940)|null|
 |**2025-03-03**|**Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**|Zhengliang Shi et.al.|[2503.01763](http://arxiv.org/abs/2503.01763)|null|
@@ -1841,6 +1863,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
 |**2025-03-11**|**HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents**|Tristan Tomilin et.al.|[2503.08241](http://arxiv.org/abs/2503.08241)|null|
 |**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
 |**2025-03-04**|**Teaching Metric Distance to Autoregressive Multimodal Foundational Models**|Jiwan Chung et.al.|[2503.02379](http://arxiv.org/abs/2503.02379)|null|
