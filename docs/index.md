@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
+|**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414](http://arxiv.org/abs/2503.16414)|null|
+|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
+|**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**Characterizing the Convergence of Game Dynamics via Potentialness**|Martin Bichler et.al.|[2503.16285](http://arxiv.org/abs/2503.16285)|null|
+|**2025-03-20**|**Binary-Report Peer Prediction for Real-Valued Signal Spaces**|Rafael Frongillo et.al.|[2503.16280](http://arxiv.org/abs/2503.16280)|null|
+|**2025-03-20**|**AI Agents in Cryptoland: Practical Attacks and No Silver Bullet**|Atharv Singh Patlan et.al.|[2503.16248](http://arxiv.org/abs/2503.16248)|null|
+|**2025-03-20**|**Dispersion is (Almost) Optimal under (A)synchrony**|Ajay D. Kshemkalyani et.al.|[2503.16216](http://arxiv.org/abs/2503.16216)|null|
+|**2025-03-20**|**Nonparametric Bellman Mappings for Value Iteration in Distributed Reinforcement Learning**|Yuki Akiyama et.al.|[2503.16192](http://arxiv.org/abs/2503.16192)|null|
+|**2025-03-20**|**Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**|Mats Faulborn et.al.|[2503.16148](http://arxiv.org/abs/2503.16148)|null|
+|**2025-03-20**|**Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time**|Runze You et.al.|[2503.16123](http://arxiv.org/abs/2503.16123)|null|
+|**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
+|**2025-03-20**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
+|**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|null|
+|**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
+|**2025-03-20**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
+|**2025-03-20**|**The Algorithmic Landscape of Fair and Efficient Distribution of Delivery Orders in the Gig Economy**|Hadi Hosseini et.al.|[2503.16002](http://arxiv.org/abs/2503.16002)|null|
+|**2025-03-20**|**Information maximization for a broad variety of multi-armed bandit games**|Alex Barbier-Chebbah et.al.|[2503.15962](http://arxiv.org/abs/2503.15962)|null|
 |**2025-03-19**|**More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns**|Kushagra Gupta et.al.|[2503.15486](http://arxiv.org/abs/2503.15486)|null|
 |**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
 |**2025-03-19**|**Energy-efficient Merging of Connected and Automated Vehicles using Control Barrier Functions**|Shreshta Rajakumar Deshpande et.al.|[2503.15379](http://arxiv.org/abs/2503.15379)|null|
@@ -1755,6 +1775,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
 |**2025-03-18**|**Gricean Norms as a Basis for Effective Collaboration**|Fardin Saad et.al.|[2503.14484](http://arxiv.org/abs/2503.14484)|**[link](https://github.com/fardinsaad/gricean-norms)**|
 |**2025-03-16**|**A Survey on the Optimization of Large Language Model-based Agents**|Shangheng Du et.al.|[2503.12434](http://arxiv.org/abs/2503.12434)|null|
 |**2025-03-15**|**Multi-Agent Systems Execute Arbitrary Malicious Code**|Harold Triedman et.al.|[2503.12188](http://arxiv.org/abs/2503.12188)|null|
@@ -1941,6 +1964,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
+|**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
 |**2025-03-18**|**MoK-RAG: Mixture of Knowledge Paths Enhanced Retrieval-Augmented Generation for Embodied AI Environments**|Zhengsheng Guo et.al.|[2503.13882](http://arxiv.org/abs/2503.13882)|null|
 |**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
