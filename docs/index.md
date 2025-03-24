@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Exploring the Temporal Dynamics of Facial Mimicry in Emotion Processing Using Action Units**|Meisam Jamshidi Seikavandi et.al.|[2503.17306](http://arxiv.org/abs/2503.17306)|null|
+|**2025-03-21**|**Coarsening in the Persistent Voter Model: analytical results**|R. G. de Almeida et.al.|[2503.17295](http://arxiv.org/abs/2503.17295)|null|
+|**2025-03-21**|**Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem**|Abhijeet Pendyala et.al.|[2503.17194](http://arxiv.org/abs/2503.17194)|null|
+|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
+|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125](http://arxiv.org/abs/2503.17125)|null|
+|**2025-03-21**|**Deterministic AI Agent Personality Expression through Standard Psychological Diagnostics**|J. M. Diederik Kruijssen et.al.|[2503.17085](http://arxiv.org/abs/2503.17085)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
+|**2025-03-21**|**Symbolic Audio Classification via Modal Decision Tree Learning**|Enrico Marzano et.al.|[2503.17018](http://arxiv.org/abs/2503.17018)|null|
+|**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978](http://arxiv.org/abs/2503.16978)|null|
+|**2025-03-21**|**Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction**|Konstantin Grotov et.al.|[2503.16967](http://arxiv.org/abs/2503.16967)|null|
+|**2025-03-21**|**When Words Outperform Vision: VLMs Can Self-Improve Via Text-Only Training For Human-Centered Decision Making**|Zhe Hu et.al.|[2503.16965](http://arxiv.org/abs/2503.16965)|null|
+|**2025-03-21**|**A New Segment Routing method with Swap Node Selection Strategy Based on Deep Reinforcement Learning for Software Defined Network**|Miao Ye et.al.|[2503.16914](http://arxiv.org/abs/2503.16914)|null|
+|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905](http://arxiv.org/abs/2503.16905)|null|
+|**2025-03-21**|**Equilibrium with non-convex preferences: some insights**|Cuong Le Van et.al.|[2503.16890](http://arxiv.org/abs/2503.16890)|null|
+|**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874](http://arxiv.org/abs/2503.16874)|null|
+|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867](http://arxiv.org/abs/2503.16867)|null|
+|**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814](http://arxiv.org/abs/2503.16814)|null|
 |**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
 |**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414](http://arxiv.org/abs/2503.16414)|null|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
@@ -1775,6 +1795,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
 |**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
 |**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
@@ -1784,7 +1805,7 @@ layout: default
 |**2025-03-15**|**AgentDroid: A Multi-Agent Framework for Detecting Fraudulent Android Applications**|Ruwei Pan et.al.|[2503.12163](http://arxiv.org/abs/2503.12163)|null|
 |**2025-03-15**|**Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation**|Jina Chun et.al.|[2503.12029](http://arxiv.org/abs/2503.12029)|null|
 |**2025-03-18**|**SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning**|Edward Y. Chang et.al.|[2503.11951](http://arxiv.org/abs/2503.11951)|**[link](https://github.com/genglongling/SagaLLM)**|
-|**2025-03-14**|**CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control**|Zirui Yuan et.al.|[2503.11739](http://arxiv.org/abs/2503.11739)|null|
+|**2025-03-14**|**CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control**|Zirui Yuan et.al.|[2503.11739](http://arxiv.org/abs/2503.11739)|**[link](https://github.com/usail-hkust/CoLLMLight)**|
 |**2025-03-14**|**Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery**|Balaji Rama et.al.|[2503.11444](http://arxiv.org/abs/2503.11444)|**[link](https://github.com/agiresearch/cerebrum)**|
 |**2025-03-13**|**Teamwork makes the dream work: LLMs-Based Agents for GitHub README.MD Summarization**|Duc S. H. Nguyen et.al.|[2503.10876](http://arxiv.org/abs/2503.10876)|null|
 |**2025-03-12**|**Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents**|Dongjun Lee et.al.|[2503.10689](http://arxiv.org/abs/2503.10689)|null|
@@ -1924,6 +1945,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779](http://arxiv.org/abs/2503.16779)|null|
 |**2025-03-13**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071](http://arxiv.org/abs/2503.10071)|null|
 |**2025-03-09**|**Alignment for Efficient Tool Calling of Large Language Models**|Hongshen Xu et.al.|[2503.06708](http://arxiv.org/abs/2503.06708)|null|
 |**2025-03-03**|**AskToAct: Enhancing LLMs Tool Use via Self-Correcting Clarification**|Xuan Zhang et.al.|[2503.01940](http://arxiv.org/abs/2503.01940)|null|
@@ -1964,6 +1986,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|null|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
 |**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
