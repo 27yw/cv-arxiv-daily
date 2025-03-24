@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,10 +34,10 @@
 |**2025-03-20**|**Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**|Mats Faulborn et.al.|[2503.16148](http://arxiv.org/abs/2503.16148)|null|
 |**2025-03-20**|**Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time**|Runze You et.al.|[2503.16123](http://arxiv.org/abs/2503.16123)|null|
 |**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
-|**2025-03-20**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
+|**2025-03-21**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
 |**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|null|
 |**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
-|**2025-03-20**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
+|**2025-03-21**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
 |**2025-03-20**|**The Algorithmic Landscape of Fair and Efficient Distribution of Delivery Orders in the Gig Economy**|Hadi Hosseini et.al.|[2503.16002](http://arxiv.org/abs/2503.16002)|null|
 |**2025-03-20**|**Information maximization for a broad variety of multi-armed bandit games**|Alex Barbier-Chebbah et.al.|[2503.15962](http://arxiv.org/abs/2503.15962)|null|
 |**2025-03-19**|**More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns**|Kushagra Gupta et.al.|[2503.15486](http://arxiv.org/abs/2503.15486)|null|
@@ -1777,7 +1777,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -1928,7 +1928,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Tool learning
 
@@ -1970,7 +1970,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -2071,7 +2071,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
