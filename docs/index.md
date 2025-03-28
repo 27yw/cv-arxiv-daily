@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
+|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
+|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/abs/2503.21720)|null|
+|**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677](http://arxiv.org/abs/2503.21677)|null|
+|**2025-03-27**|**Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI**|Danaja Rutar et.al.|[2503.21668](http://arxiv.org/abs/2503.21668)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**A Measure Based Generalizable Approach to Understandability**|Vikas Kushwaha et.al.|[2503.21615](http://arxiv.org/abs/2503.21615)|null|
+|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|null|
+|**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601](http://arxiv.org/abs/2503.21601)|null|
+|**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/abs/2503.21557)|null|
+|**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
+|**2025-03-27**|**Formation Shape Control using the Gromov-Wasserstein Metric**|Haruto Nakashima et.al.|[2503.21538](http://arxiv.org/abs/2503.21538)|null|
+|**2025-03-27**|**Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric**|Suzukaze Kamei et.al.|[2503.21514](http://arxiv.org/abs/2503.21514)|null|
+|**2025-03-27**|**Large Language Model Agent: A Survey on Methodology, Applications and Challenges**|Junyu Luo et.al.|[2503.21460](http://arxiv.org/abs/2503.21460)|null|
+|**2025-03-27**|**From Deep Learning to LLMs: A survey of AI in Quantitative Investment**|Bokai Cao et.al.|[2503.21422](http://arxiv.org/abs/2503.21422)|null|
+|**2025-03-27**|**Controlling Large Language Model with Latent Actions**|Chengxing Jia et.al.|[2503.21383](http://arxiv.org/abs/2503.21383)|null|
+|**2025-03-27**|**CA+: Cognition Augmented Counselor Agent Framework for Long-term Dynamic Client Engagement**|Yuanrong Tang et.al.|[2503.21365](http://arxiv.org/abs/2503.21365)|null|
+|**2025-03-27**|**Shock compression-based equation of state for perfluorohexane**|Anunay Prasanna et.al.|[2503.21306](http://arxiv.org/abs/2503.21306)|null|
+|**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272](http://arxiv.org/abs/2503.21272)|null|
+|**2025-03-27**|**Cultivating Game Sense for Yourself: Making VLMs Gaming Experts**|Wenxuan Lu et.al.|[2503.21263](http://arxiv.org/abs/2503.21263)|null|
 |**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
 |**2025-03-26**|**Welfare and Cost Aggregation for Multi-Agent Control: When to Choose Which Social Cost Function, and Why?**|Ilia Shilov et.al.|[2503.20772](http://arxiv.org/abs/2503.20772)|null|
 |**2025-03-27**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749](http://arxiv.org/abs/2503.20749)|null|
@@ -1855,6 +1875,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/abs/2503.21557)|null|
+|**2025-03-27**|**Large Language Model Agent: A Survey on Methodology, Applications and Challenges**|Junyu Luo et.al.|[2503.21460](http://arxiv.org/abs/2503.21460)|null|
+|**2025-03-27**|**EQ-Negotiator: An Emotion-Reasoning LLM Agent in Credit Dialogues**|Yuhan Liu et.al.|[2503.21080](http://arxiv.org/abs/2503.21080)|null|
+|**2025-03-26**|**Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins**|Yiqing Shen et.al.|[2503.21054](http://arxiv.org/abs/2503.21054)|null|
 |**2025-03-24**|**A Survey of Large Language Model Agents for Question Answering**|Murong Yue et.al.|[2503.19213](http://arxiv.org/abs/2503.19213)|null|
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-22**|**RAIDER: Tool-Equipped Large Language Model Agent for Robotic Action Issue Detection, Explanation and Recovery**|Silvia Izquierdo-Badiola et.al.|[2503.17703](http://arxiv.org/abs/2503.17703)|null|
@@ -2051,10 +2075,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Online Reasoning Video Segmentation with Just-in-Time Digital Twins**|Yiqing Shen et.al.|[2503.21056](http://arxiv.org/abs/2503.21056)|null|
 |**2025-03-25**|**CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model**|Feiyang Wang et.al.|[2503.19281](http://arxiv.org/abs/2503.19281)|null|
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[2503.18666](http://arxiv.org/abs/2503.18666)|null|
 |**2025-03-22**|**RAIDER: Tool-Equipped Large Language Model Agent for Robotic Action Issue Detection, Explanation and Recovery**|Silvia Izquierdo-Badiola et.al.|[2503.17703](http://arxiv.org/abs/2503.17703)|null|
-|**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|null|
+|**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|**[link](https://github.com/xinyan-cxy/empathyagent)**|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
 |**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
