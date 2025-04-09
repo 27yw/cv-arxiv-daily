@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
+|**2025-04-08**|**The Work Capacity of Channels with Memory: Maximum Extractable Work in Percept-Action Loops**|Lukas J. Fiderer et.al.|[2504.06209](http://arxiv.org/abs/2504.06209)|null|
+|**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
+|**2025-04-08**|**SkillFlow: Efficient Skill and Code Transfer Through Communication in Adapting AI Agents**|Pagkratios Tagkopoulos et.al.|[2504.06188](http://arxiv.org/abs/2504.06188)|null|
+|**2025-04-08**|**Linear Regulator-Based Synchronization of Positive Multi-Agent Systems**|Alba Gurpegui et.al.|[2504.06169](http://arxiv.org/abs/2504.06169)|null|
+|**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
+|**2025-04-08**|**Deploying Chatbots in Customer Service: Adoption Hurdles and Simple Remedies**|Evgeny Kagan et.al.|[2504.06145](http://arxiv.org/abs/2504.06145)|null|
+|**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
+|**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135](http://arxiv.org/abs/2504.06135)|null|
+|**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126](http://arxiv.org/abs/2504.06126)|null|
+|**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
+|**2025-04-08**|**Real-Time LaCAM**|Runzhe Liang et.al.|[2504.06091](http://arxiv.org/abs/2504.06091)|null|
+|**2025-04-08**|**Virtual Agent Tutors in Sheltered Workshops: A Feasibility Study on Attention Training for Individuals with Intellectual Disabilities**|Julian Leichert et.al.|[2504.06031](http://arxiv.org/abs/2504.06031)|null|
+|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017](http://arxiv.org/abs/2504.06017)|null|
+|**2025-04-08**|**Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models**|J. S. van Hulst et.al.|[2504.05978](http://arxiv.org/abs/2504.05978)|null|
+|**2025-04-08**|**Jointly-optimized Trajectory Generation and Camera Control for 3D Coverage Planning**|Savvas Papaioannou et.al.|[2504.05887](http://arxiv.org/abs/2504.05887)|null|
+|**2025-04-08**|**Rolling Horizon Coverage Control with Collaborative Autonomous Agents**|Savvas Papaioannou et.al.|[2504.05883](http://arxiv.org/abs/2504.05883)|null|
+|**2025-04-08**|**Agent Guide: A Simple Agent Behavioral Watermarking Framework**|Kaibo Huang et.al.|[2504.05871](http://arxiv.org/abs/2504.05871)|null|
+|**2025-04-08**|**Are Generative AI Agents Effective Personalized Financial Advisors?**|Takehiro Takayanagi et.al.|[2504.05862](http://arxiv.org/abs/2504.05862)|null|
+|**2025-04-08**|**Unraveling Human-AI Teaming: A Review and Outlook**|Bowen Lou et.al.|[2504.05755](http://arxiv.org/abs/2504.05755)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
 |**2025-04-07**|**Rationalizing dynamic choices**|Henrique de Oliveira et.al.|[2504.05251](http://arxiv.org/abs/2504.05251)|null|
