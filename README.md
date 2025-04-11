@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2025-04-09**|**A Novel Nonlinear Fertility Catastrophe Model Based on Thom's Differential Equations of Morphogenesis**|Rolando Gonzales Martinez et.al.|[2504.06668](http://arxiv.org/abs/2504.06668)|null|
 |**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618](http://arxiv.org/abs/2504.06618)|null|
 |**2025-04-09**|**AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents**|Lingzhe Zhang et.al.|[2504.06614](http://arxiv.org/abs/2504.06614)|null|
-|**2025-04-09**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
+|**2025-04-10**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
 |**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
 |**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
@@ -2037,7 +2037,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -2219,7 +2219,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Tool learning
 
@@ -2266,7 +2266,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -2375,7 +2375,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
