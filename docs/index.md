@@ -32,7 +32,7 @@ layout: default
 |**2025-04-10**|**Strategic learning for disturbance rejection in multi-agent systems: Nash and Minmax in graphical games**|Xinyang Wang et.al.|[2504.07547](http://arxiv.org/abs/2504.07547)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
 |**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507](http://arxiv.org/abs/2504.07507)|null|
-|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|**[link](https://github.com/moonshotai/kimi-vl)**|
 |**2025-04-10**|**Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI**|Rahul K. Dass et.al.|[2504.07463](http://arxiv.org/abs/2504.07463)|null|
 |**2025-04-09**|**SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills**|Boyuan Zheng et.al.|[2504.07079](http://arxiv.org/abs/2504.07079)|null|
 |**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
