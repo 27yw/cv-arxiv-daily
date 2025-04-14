@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896](http://arxiv.org/abs/2504.07896)|null|
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
-|**2025-04-10**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
+|**2025-04-11**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
 |**2025-04-10**|**Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis**|Fei-Hsuan Yu et.al.|[2504.07872](http://arxiv.org/abs/2504.07872)|null|
 |**2025-04-10**|**In itinere infections covertly undermine localized epidemic control in metapopulations**|Francesca Dilisante et.al.|[2504.07849](http://arxiv.org/abs/2504.07849)|null|
 |**2025-04-10**|**Anytime Single-Step MAPF Planning with Anytime PIBT**|Nayesha Gandotra et.al.|[2504.07841](http://arxiv.org/abs/2504.07841)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Florian Schneider et.al.|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
 |**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634](http://arxiv.org/abs/2504.07634)|null|
 |**2025-04-10**|**What Contributes to Affective Polarization in Networked Online Environments? Evidence from an Agent-Based Model**|Narayani Vedam et.al.|[2504.07610](http://arxiv.org/abs/2504.07610)|null|
-|**2025-04-10**|**Boosting Universal LLM Reward Design through the Heuristic Reward Observation Space Evolution**|Zen Kit Heng et.al.|[2504.07596](http://arxiv.org/abs/2504.07596)|null|
+|**2025-04-11**|**Boosting Universal LLM Reward Design through Heuristic Reward Observation Space Evolution**|Zen Kit Heng et.al.|[2504.07596](http://arxiv.org/abs/2504.07596)|null|
 |**2025-04-10**|**Controlling Complex Systems**|Marco Coraggio et.al.|[2504.07579](http://arxiv.org/abs/2504.07579)|null|
 |**2025-04-10**|**Strategic learning for disturbance rejection in multi-agent systems: Nash and Minmax in graphical games**|Xinyang Wang et.al.|[2504.07547](http://arxiv.org/abs/2504.07547)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
@@ -2063,7 +2063,7 @@ layout: default
 |**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|**[link](https://github.com/zjunlp/knowself)**|
 |**2025-04-04**|**Inherent and emergent liability issues in LLM-based agentic systems: a principal-agent perspective**|Garry A. Gabison et.al.|[2504.03255](http://arxiv.org/abs/2504.03255)|null|
 |**2025-04-03**|**Ontologies in Design: How Imagining a Tree Reveals Possibilites and Assumptions in Large Language Models**|Nava Haghighi et.al.|[2504.03029](http://arxiv.org/abs/2504.03029)|null|
-|**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
+|**2025-04-11**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|Peijie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
 |**2025-04-02**|**On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**|Ali Nouri et.al.|[2504.02141](http://arxiv.org/abs/2504.02141)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
 |**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241](http://arxiv.org/abs/2504.01241)|null|
