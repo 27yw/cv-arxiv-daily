@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
+|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
+|**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373](http://arxiv.org/abs/2504.11373)|null|
+|**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|null|
+|**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
+|**2025-04-15**|**Policy heterogeneity improves collective olfactory search in 3-D turbulence**|Lorenzo Piro et.al.|[2504.11291](http://arxiv.org/abs/2504.11291)|null|
+|**2025-04-15**|**The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections**|Chaoran Chen et.al.|[2504.11281](http://arxiv.org/abs/2504.11281)|null|
+|**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258](http://arxiv.org/abs/2504.11258)|null|
+|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250](http://arxiv.org/abs/2504.11250)|null|
+|**2025-04-15**|**Towards Automated Safety Requirements Derivation Using Agent-based RAG**|Balahari Vignesh Balu et.al.|[2504.11243](http://arxiv.org/abs/2504.11243)|null|
+|**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200](http://arxiv.org/abs/2504.11200)|null|
+|**2025-04-15**|**The Lifetime of the Covid Memorial Wall: Modelling with Collections Demography, Social Media Data and Citizen Science**|Josep Grau-Bové et.al.|[2504.11196](http://arxiv.org/abs/2504.11196)|null|
+|**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
+|**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
+|**2025-04-15**|**An Application of Membrane Computing to Humanitarian Relief via Generalized Nash Equilibrium**|Alejandro Luque-Cerpa et.al.|[2504.11149](http://arxiv.org/abs/2504.11149)|null|
+|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
+|**2025-04-15**|**Emergence of Goal-Directed Behaviors via Active Inference with Self-Prior**|Dongmin Kim et.al.|[2504.11075](http://arxiv.org/abs/2504.11075)|null|
+|**2025-04-15**|**Synthesis and characterization of gold-coated nanodiamonds through green chemistry as potential radiosensitizers for proton therapy**|Edgar Mendes et.al.|[2504.11061](http://arxiv.org/abs/2504.11061)|null|
+|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054](http://arxiv.org/abs/2504.11054)|null|
 |**2025-04-14**|**The Price of Competitive Information Disclosure**|Siddhartha Banerjee et.al.|[2504.10459](http://arxiv.org/abs/2504.10459)|null|
 |**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445](http://arxiv.org/abs/2504.10445)|null|
