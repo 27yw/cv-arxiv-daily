@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
+|**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793](http://arxiv.org/abs/2504.13793)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**$O(p \log d)$ Subgraph Isomorphism using Stigmergic Swarming Agents**|H. Van Dyke Parunak et.al.|[2504.13722](http://arxiv.org/abs/2504.13722)|null|
+|**2025-04-18**|**Stability of flocking in the reciprocal two-species Vicsek model: Effects of relative population, motility, and noise**|Aditya Kumar Dutta et.al.|[2504.13709](http://arxiv.org/abs/2504.13709)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**Modelling Immunity in Agent-based Models**|Gray Manicom et.al.|[2504.13706](http://arxiv.org/abs/2504.13706)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
+|**2025-04-18**|**Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning**|Tao He et.al.|[2504.13643](http://arxiv.org/abs/2504.13643)|null|
+|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Rohan P. Singh et.al.|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
+|**2025-04-18**|**LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**|Shanshuai Yuan et.al.|[2504.13596](http://arxiv.org/abs/2504.13596)|null|
+|**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
+|**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
+|**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541](http://arxiv.org/abs/2504.13541)|null|
+|**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535](http://arxiv.org/abs/2504.13535)|null|
+|**2025-04-18**|**Large Language Models for Validating Network Protocol Parsers**|Mingwei Zheng et.al.|[2504.13515](http://arxiv.org/abs/2504.13515)|null|
+|**2025-04-18**|**The non-linear multiple stopping problem: between the discrete and the continuous time**|Miryana Grigorova et.al.|[2504.13503](http://arxiv.org/abs/2504.13503)|null|
+|**2025-04-18**|**Target search optimization by threshold resetting**|Arup Biswas et.al.|[2504.13501](http://arxiv.org/abs/2504.13501)|null|
+|**2025-04-18**|**CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation**|Xinchen Wang et.al.|[2504.13472](http://arxiv.org/abs/2504.13472)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119](http://arxiv.org/abs/2504.13119)|null|
@@ -2163,6 +2183,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation**|Xinchen Wang et.al.|[2504.13472](http://arxiv.org/abs/2504.13472)|null|
+|**2025-04-13**|**CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent**|Liang-bo Ning et.al.|[2504.13192](http://arxiv.org/abs/2504.13192)|null|
 |**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734](http://arxiv.org/abs/2504.12734)|null|
 |**2025-04-14**|**A Survey of Personalization: From RAG to Agent**|Xiaopeng Li et.al.|[2504.10147](http://arxiv.org/abs/2504.10147)|**[link](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)**|
 |**2025-04-14**|**StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models**|Yang Feng et.al.|[2504.09841](http://arxiv.org/abs/2504.09841)|null|
