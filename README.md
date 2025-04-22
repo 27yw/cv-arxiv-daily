@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/abs/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|
+|**2025-04-21**|**A Self-Improving Coding Agent**|Maxime Robeyns et.al.|[2504.15228](http://arxiv.org/abs/2504.15228)|null|
+|**2025-04-21**|**An experimental study of the influence of anonymous information on social media users**|Boleslaw K. Szymanski et.al.|[2504.15215](http://arxiv.org/abs/2504.15215)|null|
+|**2025-04-21**|**Fully Adaptive Stepsizes: Which System Benefit More -- Centralized or Decentralized?**|Diyako Ghaderyan et.al.|[2504.15196](http://arxiv.org/abs/2504.15196)|null|
+|**2025-04-21**|**Behavioral Universe Network (BUN): A Behavioral Information-Based Framework for Complex Systems**|Wei Zhou et.al.|[2504.15146](http://arxiv.org/abs/2504.15146)|null|
+|**2025-04-21**|**Neural ATTF: A Scalable Solution to Lifelong Multi-Agent Path Planning**|Kushal Shah et.al.|[2504.15130](http://arxiv.org/abs/2504.15130)|null|
+|**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125](http://arxiv.org/abs/2504.15125)|null|
+|**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
+|**2025-04-21**|**Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision**|Shilin Zhang et.al.|[2504.15046](http://arxiv.org/abs/2504.15046)|null|
+|**2025-04-21**|**Blinding the Wiretapper: RIS-Enabled User Occultation in the ISAC Era**|Getuar Rexhepi et.al.|[2504.15033](http://arxiv.org/abs/2504.15033)|null|
+|**2025-04-21**|**DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models**|Chengyu Wang et.al.|[2504.15027](http://arxiv.org/abs/2504.15027)|null|
+|**2025-04-21**|**Mechanism Design for Auctions with Externalities on Budgets**|Yusen Zheng et.al.|[2504.14948](http://arxiv.org/abs/2504.14948)|null|
+|**2025-04-21**|**EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**|Yao Shi et.al.|[2504.14928](http://arxiv.org/abs/2504.14928)|null|
+|**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900](http://arxiv.org/abs/2504.14900)|null|
+|**2025-04-21**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898](http://arxiv.org/abs/2504.14898)|null|
+|**2025-04-21**|**Event triggered optimal formation control for nonlinear multi-agent systems under Denial-of-Service attacks**|Jianqiang Zhang et.al.|[2504.14874](http://arxiv.org/abs/2504.14874)|null|
+|**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868](http://arxiv.org/abs/2504.14868)|null|
+|**2025-04-21**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
 |**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
 |**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793](http://arxiv.org/abs/2504.13793)|null|
@@ -2183,7 +2203,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
+|**2025-04-19**|**Toward Generation of Test Cases from Task Descriptions via History-aware Planning**|Duy Cao et.al.|[2504.14336](http://arxiv.org/abs/2504.14336)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
 |**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
 |**2025-04-18**|**CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation**|Xinchen Wang et.al.|[2504.13472](http://arxiv.org/abs/2504.13472)|null|
 |**2025-04-13**|**CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent**|Liang-bo Ning et.al.|[2504.13192](http://arxiv.org/abs/2504.13192)|null|
@@ -2374,6 +2396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**ToolRL: Reward is All Tool Learning Needs**|Cheng Qian et.al.|[2504.13958](http://arxiv.org/abs/2504.13958)|null|
 |**2025-04-09**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766](http://arxiv.org/abs/2504.06766)|**[link](https://github.com/yxzwang/FamilyTool)**|
 |**2025-04-07**|**Select Me! When You Need a Tool: A Black-box Text Attack on Tool Selection**|Liuji Chen et.al.|[2504.04809](http://arxiv.org/abs/2504.04809)|null|
 |**2025-04-02**|**ToolACE-R: Tool Learning with Adaptive Self-Refinement**|Xingshan Zeng et.al.|[2504.01400](http://arxiv.org/abs/2504.01400)|null|
@@ -2421,6 +2444,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125](http://arxiv.org/abs/2504.15125)|null|
+|**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
 |**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|**[link](https://github.com/vlar-group/grabs)**|
 |**2025-04-14**|**A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science**|Jie Feng et.al.|[2504.09848](http://arxiv.org/abs/2504.09848)|null|
 |**2025-04-09**|**Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation**|Luo Ling et.al.|[2504.08806](http://arxiv.org/abs/2504.08806)|null|
