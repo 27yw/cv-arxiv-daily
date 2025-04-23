@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
+|**2025-04-22**|**ForesightNav: Learning Scene Imagination for Efficient Exploration**|Hardik Shah et.al.|[2504.16062](http://arxiv.org/abs/2504.16062)|null|
+|**2025-04-22**|**Reinforcement Learning and Metaheuristics for Feynman Integral Reduction**|Mao Zeng et.al.|[2504.16045](http://arxiv.org/abs/2504.16045)|null|
+|**2025-04-22**|**A Lagrangian Approach to Optimal Lotteries in Non-Convex Economies**|Chengfeng Shen et.al.|[2504.15997](http://arxiv.org/abs/2504.15997)|null|
+|**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984](http://arxiv.org/abs/2504.15984)|null|
+|**2025-04-22**|**Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning**|Hieu Huynh et.al.|[2504.15917](http://arxiv.org/abs/2504.15917)|null|
+|**2025-04-22**|**Learning the Spoofability of Limit Order Books With Interpretable Probabilistic Neural Networks**|Timothée Fabre et.al.|[2504.15908](http://arxiv.org/abs/2504.15908)|null|
+|**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
+|**2025-04-22**|**WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2504.15785](http://arxiv.org/abs/2504.15785)|null|
+|**2025-04-22**|**Distributed model predictive control without terminal cost under inexact distributed optimization**|Xiaoyu Liu et.al.|[2504.15768](http://arxiv.org/abs/2504.15768)|null|
+|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766](http://arxiv.org/abs/2504.15766)|null|
+|**2025-04-22**|**Implementing Rational Choice Functions with LLMs and Measuring their Alignment with User Preferences**|Anna Karnysheva et.al.|[2504.15719](http://arxiv.org/abs/2504.15719)|null|
+|**2025-04-22**|**DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models**|Jie Zhu et.al.|[2504.15716](http://arxiv.org/abs/2504.15716)|null|
+|**2025-04-22**|**Autonomous Control of Redundant Hydraulic Manipulator Using Reinforcement Learning with Action Feedback**|Rohit Dhakate et.al.|[2504.15714](http://arxiv.org/abs/2504.15714)|null|
+|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
+|**2025-04-22**|**Policy-Based Radiative Transfer: Solving the $2$ -Level Atom Non-LTE Problem using Soft Actor-Critic Reinforcement Learning**|Brandon Panos et.al.|[2504.15679](http://arxiv.org/abs/2504.15679)|null|
+|**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
+|**2025-04-22**|**Multimodal Perception for Goal-oriented Navigation: A Survey**|I-Tak Ieong et.al.|[2504.15643](http://arxiv.org/abs/2504.15643)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
 |**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/abs/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|
@@ -2195,6 +2215,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
+|**2025-04-22**|**A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment**|Kun Wang et.al.|[2504.15585](http://arxiv.org/abs/2504.15585)|null|
+|**2025-04-22**|**A Framework for Testing and Adapting REST APIs as LLM Tools**|Jayachandu Bandlamudi et.al.|[2504.15546](http://arxiv.org/abs/2504.15546)|null|
+|**2025-04-21**|**Agent for User: Testing Multi-User Interactive Features in TikTok**|Sidong Feng et.al.|[2504.15474](http://arxiv.org/abs/2504.15474)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
 |**2025-04-19**|**Toward Generation of Test Cases from Task Descriptions via History-aware Planning**|Duy Cao et.al.|[2504.14336](http://arxiv.org/abs/2504.14336)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
@@ -2432,6 +2456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125](http://arxiv.org/abs/2504.15125)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
