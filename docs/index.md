@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Remko Proesmans et.al.|[2504.18481](http://arxiv.org/abs/2504.18481)|null|
+|**2025-04-25**|**Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension**|Muzaffar Qureshi et.al.|[2504.18457](http://arxiv.org/abs/2504.18457)|null|
+|**2025-04-25**|**Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior**|Milad Sefidgaran et.al.|[2504.18455](http://arxiv.org/abs/2504.18455)|null|
+|**2025-04-25**|**On monotone completion of risk markets: Limit results for incomplete risk markets**|Iman Khajepour et.al.|[2504.18436](http://arxiv.org/abs/2504.18436)|null|
+|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|
+|**2025-04-25**|**Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant**|Lei Shen et.al.|[2504.18373](http://arxiv.org/abs/2504.18373)|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355](http://arxiv.org/abs/2504.18355)|null|
+|**2025-04-25**|**Revisiting Data Auditing in Large Vision-Language Models**|Hongyu Zhu et.al.|[2504.18349](http://arxiv.org/abs/2504.18349)|null|
+|**2025-04-25**|**Optimal Control of Sensor-Induced Illusions on Robotic Agents**|Lorenzo Medici et.al.|[2504.18339](http://arxiv.org/abs/2504.18339)|null|
+|**2025-04-25**|**Towards Adaptive Software Agents for Debugging**|Yacine Majdoub et.al.|[2504.18316](http://arxiv.org/abs/2504.18316)|null|
+|**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301](http://arxiv.org/abs/2504.18301)|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300](http://arxiv.org/abs/2504.18300)|null|
+|**2025-04-25**|**MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**|Guanqun Bi et.al.|[2504.18260](http://arxiv.org/abs/2504.18260)|null|
+|**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253](http://arxiv.org/abs/2504.18253)|null|
+|**2025-04-25**|**Multiple Target Tracking Using a UAV Swarm in Maritime Environments**|Andreas Anastasiou et.al.|[2504.18153](http://arxiv.org/abs/2504.18153)|null|
+|**2025-04-25**|**Learning from Less: SINDy Surrogates in RL**|Aniket Dixit et.al.|[2504.18113](http://arxiv.org/abs/2504.18113)|null|
+|**2025-04-25**|**Automating Function-Level TARA for Automotive Full-Lifecycle Security**|Yuqiao Yang et.al.|[2504.18083](http://arxiv.org/abs/2504.18083)|null|
+|**2025-04-25**|**Exploring Personality-Aware Interactions in Salesperson Dialogue Agents**|Sijia Cheng et.al.|[2504.18058](http://arxiv.org/abs/2504.18058)|null|
+|**2025-04-25**|**MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind**|Zheng Zhang et.al.|[2504.18039](http://arxiv.org/abs/2504.18039)|null|
+|**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[2504.18010](http://arxiv.org/abs/2504.18010)|null|
 |**2025-04-24**|**Robotic Task Ambiguity Resolution via Natural Language Interaction**|Eugenio Chisari et.al.|[2504.17748](http://arxiv.org/abs/2504.17748)|null|
 |**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700](http://arxiv.org/abs/2504.17700)|null|
 |**2025-04-24**|**'The Boring and the Tedious': Invisible Labour in India's Gig-Economy**|Pratyay Suvarnapathaki et.al.|[2504.17697](http://arxiv.org/abs/2504.17697)|null|
@@ -2499,6 +2519,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Flow Matching Ergodic Coverage**|Max Muchen Sun et.al.|[2504.17872](http://arxiv.org/abs/2504.17872)|null|
 |**2025-04-24**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516](http://arxiv.org/abs/2504.16516)|null|
 |**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
