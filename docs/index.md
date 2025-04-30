@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -2298,7 +2298,7 @@ layout: default
 |**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
 |**2025-04-27**|**AndroidGen: Building an Android Language Agent under Data Scarcity**|Hanyu Lai et.al.|[2504.19298](http://arxiv.org/abs/2504.19298)|null|
 |**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334](http://arxiv.org/abs/2504.17334)|null|
-|**2025-04-26**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
+|**2025-04-29**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
 |**2025-04-23**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem Solving**|Jie JW Wu et.al.|[2504.16331](http://arxiv.org/abs/2504.16331)|null|
 |**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
 |**2025-04-22**|**A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment**|Kun Wang et.al.|[2504.15585](http://arxiv.org/abs/2504.15585)|null|
