@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
+|**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors**|Norah K. Alghamdi et.al.|[2504.20947](http://arxiv.org/abs/2504.20947)|null|
+|**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
+|**2025-04-29**|**Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR**|Shahbaz P Qadri Syed et.al.|[2504.20927](http://arxiv.org/abs/2504.20927)|null|
+|**2025-04-29**|**Modeling AI-Human Collaboration as a Multi-Agent Adaptation**|Prothit Sen et.al.|[2504.20903](http://arxiv.org/abs/2504.20903)|**[link](https://github.com/saimihirj/NKC-Multi-Agent-Models)**|
+|**2025-04-29**|**CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models**|Hasan Md Tusfiqur Alam et.al.|[2504.20898](http://arxiv.org/abs/2504.20898)|null|
+|**2025-04-29**|**Does Feedback Help in Bandits with Arm Erasures?**|Merve Karakas et.al.|[2504.20894](http://arxiv.org/abs/2504.20894)|null|
+|**2025-04-29**|**A Teacher-Student MPC-PPO Coupled Reinforcement Learning Framework for Winter Temperature Control of Solar Greenhouses in Northern China**|Jingxin Yu et.al.|[2504.20815](http://arxiv.org/abs/2504.20815)|null|
+|**2025-04-29**|**Integrating Human Feedback into a Reinforcement Learning-Based Framework for Adaptive User Interfaces**|Daniel Gaspar-Figueiredo et.al.|[2504.20782](http://arxiv.org/abs/2504.20782)|null|
+|**2025-04-29**|**Using LLMs in Generating Design Rationale for Software Architecture Decisions**|Xiyu Zhou et.al.|[2504.20781](http://arxiv.org/abs/2504.20781)|null|
+|**2025-04-29**|**On the Effect of Time Preferences on the Price of Anarchy**|Yunpeng Li et.al.|[2504.20774](http://arxiv.org/abs/2504.20774)|null|
+|**2025-04-29**|**Asymptotic Fair Division: Chores Are Easier Than Goods**|Pasin Manurangsi et.al.|[2504.20704](http://arxiv.org/abs/2504.20704)|null|
+|**2025-04-29**|**Cognitive maps are generative programs**|Marta Kryven et.al.|[2504.20628](http://arxiv.org/abs/2504.20628)|null|
+|**2025-04-29**|**Independent Learning in Performative Markov Potential Games**|Rilind Sahitaj et.al.|[2504.20593](http://arxiv.org/abs/2504.20593)|null|
+|**2025-04-29**|**From small dust to micron-sized aggregates: the influence of structure and composition on the dust optical properties**|M. -A. Carpine et.al.|[2504.20578](http://arxiv.org/abs/2504.20578)|null|
+|**2025-04-29**|**BrAIcht, a theatrical agent that speaks like Bertolt Brecht's characters**|Baz Roland et.al.|[2504.20552](http://arxiv.org/abs/2504.20552)|null|
+|**2025-04-29**|**Safe Bottom-Up Flexibility Provision from Distributed Energy Resources**|Costas Mylonas et.al.|[2504.20529](http://arxiv.org/abs/2504.20529)|null|
 |**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010](http://arxiv.org/abs/2504.20010)|null|
 |**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997](http://arxiv.org/abs/2504.19997)|null|
 |**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/abs/2504.19982)|null|
@@ -2303,6 +2323,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**Using LLMs in Generating Design Rationale for Software Architecture Decisions**|Xiyu Zhou et.al.|[2504.20781](http://arxiv.org/abs/2504.20781)|null|
+|**2025-04-29**|**CrashFixer: A crash resolution agent for the Linux kernel**|Alex Mathai et.al.|[2504.20412](http://arxiv.org/abs/2504.20412)|null|
+|**2025-04-28**|**AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers**|Zijie Lin et.al.|[2504.20115](http://arxiv.org/abs/2504.20115)|null|
 |**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
 |**2025-04-27**|**AndroidGen: Building an Android Language Agent under Data Scarcity**|Hanyu Lai et.al.|[2504.19298](http://arxiv.org/abs/2504.19298)|null|
 |**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334](http://arxiv.org/abs/2504.17334)|null|
@@ -2553,6 +2577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
 |**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
 |**2025-04-26**|**Generative AI in Embodied Systems: System-Level Analysis of Performance, Efficiency and Scalability**|Zishen Wan et.al.|[2504.18945](http://arxiv.org/abs/2504.18945)|null|
 |**2025-04-24**|**Flow Matching Ergodic Coverage**|Max Muchen Sun et.al.|[2504.17872](http://arxiv.org/abs/2504.17872)|null|
