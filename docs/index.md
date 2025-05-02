@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -2346,7 +2346,7 @@ layout: default
 |**2025-04-23**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem Solving**|Jie JW Wu et.al.|[2504.16331](http://arxiv.org/abs/2504.16331)|null|
 |**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
 |**2025-04-22**|**A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment**|Kun Wang et.al.|[2504.15585](http://arxiv.org/abs/2504.15585)|null|
-|**2025-04-22**|**A Framework for Testing and Adapting REST APIs as LLM Tools**|Jayachandu Bandlamudi et.al.|[2504.15546](http://arxiv.org/abs/2504.15546)|null|
+|**2025-05-01**|**A Framework for Testing and Adapting REST APIs as LLM Tools**|Jayachandu Bandlamudi et.al.|[2504.15546](http://arxiv.org/abs/2504.15546)|null|
 |**2025-04-21**|**Agent for User: Testing Multi-User Interactive Features in TikTok**|Sidong Feng et.al.|[2504.15474](http://arxiv.org/abs/2504.15474)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
 |**2025-04-19**|**Toward Generation of Test Cases from Task Descriptions via History-aware Planning**|Duy Cao et.al.|[2504.14336](http://arxiv.org/abs/2504.14336)|null|
