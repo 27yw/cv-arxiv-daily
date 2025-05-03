@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
-|**2025-05-01**|**A Finite-State Controller Based Offline Solver for Deterministic POMDPs**|Alex Schutz et.al.|[2505.00596](http://arxiv.org/abs/2505.00596)|null|
+|**2025-05-01**|**A Finite-State Controller Based Offline Solver for Deterministic POMDPs**|Alex Schutz et.al.|[2505.00596](http://arxiv.org/abs/2505.00596)|**[link](https://github.com/ori-goals/DetMCVI)**|
 |**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
 |**2025-05-01**|**A continuum thermodynamic model of the influence of non-ionic surfactant on mass transfer from gas bubbles**|Dieter Bothe et.al.|[2505.00581](http://arxiv.org/abs/2505.00581)|null|
 |**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
@@ -2357,7 +2357,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -2565,7 +2565,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Tool learning
 
@@ -2613,7 +2613,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -2738,7 +2738,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
