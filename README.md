@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634](http://arxiv.org/abs/2505.02634)|null|
 |**2025-05-05**|**Agentic Neurodivergence as a Contingent Solution to the AI Alignment Problem**|Alberto Hernández-Espinosa et.al.|[2505.02581](http://arxiv.org/abs/2505.02581)|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560](http://arxiv.org/abs/2505.02560)|null|
+|**2025-05-06**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560](http://arxiv.org/abs/2505.02560)|null|
 |**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489](http://arxiv.org/abs/2505.02489)|null|
 |**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
 |**2025-05-05**|**MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans**|Huangyue Yu et.al.|[2505.02388](http://arxiv.org/abs/2505.02388)|null|
@@ -2397,7 +2397,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -2609,7 +2609,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 ## Tool learning
 
@@ -2657,7 +2657,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -2784,7 +2784,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
