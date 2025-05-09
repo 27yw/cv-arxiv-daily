@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452](http://arxiv.org/abs/2505.05452)|null|
+|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428](http://arxiv.org/abs/2505.05428)|null|
+|**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420](http://arxiv.org/abs/2505.05420)|null|
+|**2025-05-08**|**Weighted Envy-Freeness Revisited: Indivisible Resource and House Allocations**|Yuxi Liu et.al.|[2505.05353](http://arxiv.org/abs/2505.05353)|null|
+|**2025-05-08**|**Mapping User Trust in Vision Language Models: Research Landscape, Challenges, and Prospects**|Agnese Chiatti et.al.|[2505.05318](http://arxiv.org/abs/2505.05318)|null|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
+|**2025-05-08**|**Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents**|Kaixin Wang et.al.|[2505.05283](http://arxiv.org/abs/2505.05283)|null|
+|**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262](http://arxiv.org/abs/2505.05262)|null|
+|**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[2505.05223](http://arxiv.org/abs/2505.05223)|null|
+|**2025-05-08**|**Incentive-Aware Machine Learning; Robustness, Fairness, Improvement & Causality**|Chara Podimata et.al.|[2505.05211](http://arxiv.org/abs/2505.05211)|null|
+|**2025-05-08**|**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**|Joel Z. Leibo et.al.|[2505.05197](http://arxiv.org/abs/2505.05197)|null|
+|**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177](http://arxiv.org/abs/2505.05177)|null|
+|**2025-05-08**|**Bandit Max-Min Fair Allocation**|Tsubasa Harada et.al.|[2505.05169](http://arxiv.org/abs/2505.05169)|null|
+|**2025-05-08**|**Taming OOD Actions for Offline Reinforcement Learning: An Advantage-Based Approach**|Xuyang Chen et.al.|[2505.05126](http://arxiv.org/abs/2505.05126)|null|
+|**2025-05-08**|**Is there a half-life for the success rates of AI agents?**|Toby Ord et.al.|[2505.05115](http://arxiv.org/abs/2505.05115)|null|
+|**2025-05-08**|**Multi-agent Embodied AI: Advances and Future Directions**|Zhaohan Feng et.al.|[2505.05108](http://arxiv.org/abs/2505.05108)|null|
+|**2025-05-08**|**Enhancing Reinforcement Learning for the Floorplanning of Analog ICs with Beam Search**|Sandro Junior Della Rovere et.al.|[2505.05059](http://arxiv.org/abs/2505.05059)|null|
+|**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047](http://arxiv.org/abs/2505.05047)|null|
 |**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579](http://arxiv.org/abs/2505.04579)|null|
 |**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
 |**2025-05-07**|**Qualitative Analysis of $ω$ -Regular Objectives on Robust MDPs**|Ali Asadi et.al.|[2505.04539](http://arxiv.org/abs/2505.04539)|null|
@@ -2445,11 +2465,11 @@
 |---|---|---|---|---|
 |**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254](http://arxiv.org/abs/2505.04254)|null|
 |**2025-04-30**|**Insulin Resistance Prediction From Wearables and Routine Blood Biomarkers**|Ahmed A. Metwally et.al.|[2505.03784](http://arxiv.org/abs/2505.03784)|null|
-|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|**[link](https://github.com/mnluzimu/webgen-bench)**|
 |**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/abs/2505.03434)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
 |**2025-05-04**|**MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents**|Zeyu Zhang et.al.|[2505.02099](http://arxiv.org/abs/2505.02099)|**[link](https://github.com/nuster1128/memengine)**|
-|**2025-05-02**|**WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks**|Jingwen Tong et.al.|[2505.01074](http://arxiv.org/abs/2505.01074)|null|
+|**2025-05-02**|**WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks**|Jingwen Tong et.al.|[2505.01074](http://arxiv.org/abs/2505.01074)|**[link](https://github.com/jwentong/wirelessagent_r1)**|
 |**2025-05-02**|**SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning**|Xiaoshan Huang et.al.|[2505.00945](http://arxiv.org/abs/2505.00945)|null|
 |**2025-05-01**|**A Survey on Large Language Model based Human-Agent Systems**|Henry Peng Zou et.al.|[2505.00753](http://arxiv.org/abs/2505.00753)|**[link](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers)**|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|**[link](https://github.com/elvin-yiming-du/survey_memory_in_ai)**|
@@ -2457,7 +2477,7 @@
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**Using LLMs in Generating Design Rationale for Software Architecture Decisions**|Xiyu Zhou et.al.|[2504.20781](http://arxiv.org/abs/2504.20781)|null|
 |**2025-04-29**|**CrashFixer: A crash resolution agent for the Linux kernel**|Alex Mathai et.al.|[2504.20412](http://arxiv.org/abs/2504.20412)|null|
-|**2025-04-28**|**AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers**|Zijie Lin et.al.|[2504.20115](http://arxiv.org/abs/2504.20115)|null|
+|**2025-04-28**|**AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers**|Zijie Lin et.al.|[2504.20115](http://arxiv.org/abs/2504.20115)|**[link](https://github.com/shoushouyu/automated-paper-to-code)**|
 |**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
 |**2025-04-27**|**AndroidGen: Building an Android Language Agent under Data Scarcity**|Hanyu Lai et.al.|[2504.19298](http://arxiv.org/abs/2504.19298)|null|
 |**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334](http://arxiv.org/abs/2504.17334)|null|
@@ -2708,6 +2728,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-07**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Kaidong Zhang et.al.|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
 |**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
