@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
+|**2025-05-09**|**The Power of Matching for Online Fractional Hedonic Games**|Martin Bullinger et.al.|[2505.06163](http://arxiv.org/abs/2505.06163)|null|
+|**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
+|**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131](http://arxiv.org/abs/2505.06131)|null|
+|**2025-05-09**|**Oncolytic mechanisms and immunotherapeutic potential of Newcastle disease virus in cancer therapy**|Umar Ahmad et.al.|[2505.06067](http://arxiv.org/abs/2505.06067)|null|
+|**2025-05-09**|**Offline Multi-agent Reinforcement Learning via Score Decomposition**|Dan Qiao et.al.|[2505.05968](http://arxiv.org/abs/2505.05968)|null|
+|**2025-05-09**|**Learning Power Control Protocol for In-Factory 6G Subnetworks**|Uyoata E. Uyoata et.al.|[2505.05967](http://arxiv.org/abs/2505.05967)|null|
+|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
+|**2025-05-09**|**Evolutionary ecology of words**|Reiji Suzuki et.al.|[2505.05863](http://arxiv.org/abs/2505.05863)|null|
+|**2025-05-09**|**AgentXploit: End-to-End Redteaming of Black-Box AI Agents**|Zhun Wang et.al.|[2505.05849](http://arxiv.org/abs/2505.05849)|null|
+|**2025-05-09**|**Best of Both Worlds Guarantees for Equitable Allocations**|Umang Bhaskar et.al.|[2505.05809](http://arxiv.org/abs/2505.05809)|null|
+|**2025-05-09**|**Assessing the Dynamics of the Coffee Value Chain in Davao del Sur: An Agent-Based Modeling Approach**|Lucia Stephanie B. Sibala et.al.|[2505.05797](http://arxiv.org/abs/2505.05797)|null|
+|**2025-05-09**|**Formation Maneuver Control Based on the Augmented Laplacian Method**|Xinzhe Zhou et.al.|[2505.05795](http://arxiv.org/abs/2505.05795)|null|
+|**2025-05-09**|**Why is distortion inevitable in opinion propagation on social media? Noise induced layer-wised synchronization in Noise-Frustrated Hegselmann-Krause model**|Kaiming Luo et.al.|[2505.05769](http://arxiv.org/abs/2505.05769)|null|
+|**2025-05-09**|**Distance Preservation Games**|Haris Aziz et.al.|[2505.05765](http://arxiv.org/abs/2505.05765)|null|
+|**2025-05-09**|**Multi-Agent Systems for Robotic Autonomy with LLMs**|Junhong Chen et.al.|[2505.05762](http://arxiv.org/abs/2505.05762)|null|
+|**2025-05-09**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758](http://arxiv.org/abs/2505.05758)|null|
+|**2025-05-09**|**Towards Embodiment Scaling Laws in Robot Locomotion**|Bo Ai et.al.|[2505.05753](http://arxiv.org/abs/2505.05753)|null|
+|**2025-05-09**|**Pretraining a Shared Q-Network for Data-Efficient Offline Reinforcement Learning**|Jongchan Park et.al.|[2505.05701](http://arxiv.org/abs/2505.05701)|null|
 |**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452](http://arxiv.org/abs/2505.05452)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
@@ -2716,6 +2736,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
+|**2025-05-05**|**Learning 3D Persistent Embodied World Models**|Siyuan Zhou et.al.|[2505.05495](http://arxiv.org/abs/2505.05495)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-07**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Kaidong Zhang et.al.|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
 |**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
