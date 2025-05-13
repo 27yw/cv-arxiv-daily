@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
+|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797](http://arxiv.org/abs/2505.07797)|null|
+|**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
+|**2025-05-12**|**Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization**|Jiarui Li et.al.|[2505.07779](http://arxiv.org/abs/2505.07779)|null|
+|**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
+|**2025-05-12**|**Emotion-Gradient Metacognitive RSI (Part I): Theoretical Foundations and Single-Agent Architecture**|Rintaro Ando et.al.|[2505.07757](http://arxiv.org/abs/2505.07757)|null|
+|**2025-05-12**|**VTutor for High-Impact Tutoring at Scale: Managing Engagement and Real-Time Multi-Screen Monitoring with P2P Connections**|Eason Chen et.al.|[2505.07736](http://arxiv.org/abs/2505.07736)|null|
+|**2025-05-12**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705](http://arxiv.org/abs/2505.07705)|null|
+|**2025-05-12**|**Belief Injection for Epistemic Control in Linguistic State Space**|Sebastian Dumbrava et.al.|[2505.07693](http://arxiv.org/abs/2505.07693)|null|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637](http://arxiv.org/abs/2505.07637)|null|
+|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|null|
+|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
+|**2025-05-12**|**AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination**|Ching Han Chen et.al.|[2505.07603](http://arxiv.org/abs/2505.07603)|null|
+|**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|
+|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|
+|**2025-05-12**|**Dynamic Rental Games with Stagewise Individual Rationality**|Batya Berzack et.al.|[2505.07579](http://arxiv.org/abs/2505.07579)|null|
+|**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532](http://arxiv.org/abs/2505.07532)|null|
+|**2025-05-12**|**The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games**|Purandar Bhaduri et.al.|[2505.07501](http://arxiv.org/abs/2505.07501)|null|
+|**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
+|**2025-05-12**|**Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks**|Kai Xu et.al.|[2505.07473](http://arxiv.org/abs/2505.07473)|**[link](https://github.com/bytedance/Web-Bench)**|
 |**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
 |**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
 |**2025-05-09**|**The Power of Matching for Online Fractional Hedonic Games**|Martin Bullinger et.al.|[2505.06163](http://arxiv.org/abs/2505.06163)|null|
@@ -2475,6 +2495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|
 |**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254](http://arxiv.org/abs/2505.04254)|null|
 |**2025-04-30**|**Insulin Resistance Prediction From Wearables and Routine Blood Biomarkers**|Ahmed A. Metwally et.al.|[2505.03784](http://arxiv.org/abs/2505.03784)|null|
 |**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|**[link](https://github.com/mnluzimu/webgen-bench)**|
@@ -2690,6 +2711,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/abs/2505.07512)|null|
 |**2025-04-16**|**ToolRL: Reward is All Tool Learning Needs**|Cheng Qian et.al.|[2504.13958](http://arxiv.org/abs/2504.13958)|null|
 |**2025-04-09**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766](http://arxiv.org/abs/2504.06766)|**[link](https://github.com/yxzwang/FamilyTool)**|
 |**2025-04-07**|**Select Me! When You Need a Tool: A Black-box Text Attack on Tool Selection**|Liuji Chen et.al.|[2504.04809](http://arxiv.org/abs/2504.04809)|null|
@@ -2736,6 +2758,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|null|
+|**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
+|**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628](http://arxiv.org/abs/2505.06628)|null|
+|**2025-05-09**|**Bi-LSTM based Multi-Agent DRL with Computation-aware Pruning for Agent Twins Migration in Vehicular Embodied AI Networks**|Yuxiang Wei et.al.|[2505.06378](http://arxiv.org/abs/2505.06378)|null|
 |**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
 |**2025-05-05**|**Learning 3D Persistent Embodied World Models**|Siyuan Zhou et.al.|[2505.05495](http://arxiv.org/abs/2505.05495)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
