@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
+|**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
+|**2025-05-19**|**Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges**|Hongru Wang et.al.|[2505.13328](http://arxiv.org/abs/2505.13328)|null|
+|**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
+|**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291](http://arxiv.org/abs/2505.13291)|**[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)**|
+|**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
+|**2025-05-19**|**From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**|Tianshi Zheng et.al.|[2505.13259](http://arxiv.org/abs/2505.13259)|**[link](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)**|
+|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/abs/2505.13258)|null|
+|**2025-05-19**|**Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic**|Lennart Röstel et.al.|[2505.13253](http://arxiv.org/abs/2505.13253)|null|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
+|**2025-05-19**|**Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis**|Tianbao Xie et.al.|[2505.13227](http://arxiv.org/abs/2505.13227)|null|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-19**|**When a Reinforcement Learning Agent Encounters Unknown Unknowns**|Juntian Zhu et.al.|[2505.13188](http://arxiv.org/abs/2505.13188)|null|
+|**2025-05-19**|**Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**|Jianfeng Xu et.al.|[2505.13182](http://arxiv.org/abs/2505.13182)|null|
+|**2025-05-19**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
+|**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
+|**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044](http://arxiv.org/abs/2505.13044)|null|
+|**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
+|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981](http://arxiv.org/abs/2505.12981)|null|
 |**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-16**|**Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem**|David X. Lin et.al.|[2505.11431](http://arxiv.org/abs/2505.11431)|null|
@@ -2575,7 +2595,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-16**|**Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction**|Changyue Jiang et.al.|[2505.11063](http://arxiv.org/abs/2505.11063)|null|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-19**|**Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks**|Minrui Xu et.al.|[2505.12786](http://arxiv.org/abs/2505.12786)|null|
+|**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[2505.12567](http://arxiv.org/abs/2505.12567)|null|
+|**2025-05-18**|**Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Games**|Jinming Zhang et.al.|[2505.12439](http://arxiv.org/abs/2505.12439)|null|
+|**2025-05-18**|**Automated Profile Inference with Language Model Agents**|Yuntao Du et.al.|[2505.12402](http://arxiv.org/abs/2505.12402)|null|
+|**2025-05-17**|**Retrospex: Language Agent Meets Offline Reinforcement Learning Critic**|Yufei Xiang et.al.|[2505.11807](http://arxiv.org/abs/2505.11807)|null|
+|**2025-05-19**|**Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction**|Changyue Jiang et.al.|[2505.11063](http://arxiv.org/abs/2505.11063)|null|
 |**2025-05-16**|**Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents**|Ratnadira Widyasari et.al.|[2505.10961](http://arxiv.org/abs/2505.10961)|null|
 |**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396](http://arxiv.org/abs/2505.09396)|null|
 |**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459](http://arxiv.org/abs/2505.08459)|null|
@@ -2796,6 +2822,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-17**|**ToLeaP: Rethinking Development of Tool Learning with Large Language Models**|Haotian Chen et.al.|[2505.11833](http://arxiv.org/abs/2505.11833)|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
 |**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/abs/2505.07512)|null|
 |**2025-04-16**|**ToolRL: Reward is All Tool Learning Needs**|Cheng Qian et.al.|[2504.13958](http://arxiv.org/abs/2504.13958)|null|
@@ -2844,9 +2871,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
+|**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
+|**2025-05-18**|**BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind**|Rikunari Sagara et.al.|[2505.12321](http://arxiv.org/abs/2505.12321)|**[link](https://github.com/sagara-r/beliefnest)**|
+|**2025-05-17**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
 |**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|null|
-|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175](http://arxiv.org/abs/2505.11175)|null|
-|**2025-05-16**|**REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?**|Chenxi Jiang et.al.|[2505.10872](http://arxiv.org/abs/2505.10872)|null|
+|**2025-05-19**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175](http://arxiv.org/abs/2505.11175)|null|
+|**2025-05-19**|**REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?**|Chenxi Jiang et.al.|[2505.10872](http://arxiv.org/abs/2505.10872)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
 |**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628](http://arxiv.org/abs/2505.06628)|null|
