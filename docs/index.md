@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
-|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
+|**2025-05-20**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
 |**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
 |**2025-05-19**|**Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges**|Hongru Wang et.al.|[2505.13328](http://arxiv.org/abs/2505.13328)|null|
 |**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
 |**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044](http://arxiv.org/abs/2505.13044)|null|
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
-|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981](http://arxiv.org/abs/2505.12981)|null|
+|**2025-05-20**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981](http://arxiv.org/abs/2505.12981)|null|
 |**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-16**|**Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem**|David X. Lin et.al.|[2505.11431](http://arxiv.org/abs/2505.11431)|null|
@@ -2874,7 +2874,7 @@ layout: default
 |**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
 |**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
 |**2025-05-18**|**BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind**|Rikunari Sagara et.al.|[2505.12321](http://arxiv.org/abs/2505.12321)|**[link](https://github.com/sagara-r/beliefnest)**|
-|**2025-05-17**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
+|**2025-05-20**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
 |**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|null|
 |**2025-05-19**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175](http://arxiv.org/abs/2505.11175)|null|
 |**2025-05-19**|**REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?**|Chenxi Jiang et.al.|[2505.10872](http://arxiv.org/abs/2505.10872)|null|
