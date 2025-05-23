@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012](http://arxiv.org/abs/2505.17012)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997](http://arxiv.org/abs/2505.16997)|null|
+|**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988](http://arxiv.org/abs/2505.16988)|null|
+|**2025-05-22**|**T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning**|Amartya Chakraborty et.al.|[2505.16986](http://arxiv.org/abs/2505.16986)|null|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
+|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979](http://arxiv.org/abs/2505.16979)|null|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|null|
+|**2025-05-22**|**Modeling Inequality in Complex Networks of Strategic Agents using Iterative Game-Theoretic Transactions**|Mayank Kejriwal et.al.|[2505.16966](http://arxiv.org/abs/2505.16966)|null|
+|**2025-05-22**|**Cracking Aegis: An Adversarial LLM-based Game for Raising Awareness of Vulnerabilities in Privacy Protection**|Jiaying Fu et.al.|[2505.16954](http://arxiv.org/abs/2505.16954)|null|
+|**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952](http://arxiv.org/abs/2505.16952)|null|
+|**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944](http://arxiv.org/abs/2505.16944)|null|
+|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
+|**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
+|**2025-05-22**|**Risk-Averse Reinforcement Learning with Itakura-Saito Loss**|Igor Udovichenko et.al.|[2505.16925](http://arxiv.org/abs/2505.16925)|null|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902](http://arxiv.org/abs/2505.16902)|null|
+|**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
+|**2025-05-22**|**Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships**|Kerem Oktar et.al.|[2505.16899](http://arxiv.org/abs/2505.16899)|null|
+|**2025-05-22**|**Hydrogen peroxide electrogeneration from O2 electroreduction: a review focusing on carbon electrocatalysts and environmental applications**|Aline B. Trench et.al.|[2505.16887](http://arxiv.org/abs/2505.16887)|null|
+|**2025-05-22**|**Strategically Linked Decisions in Long-Term Planning and Reinforcement Learning**|Alihan Hüyük et.al.|[2505.16833](http://arxiv.org/abs/2505.16833)|null|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832](http://arxiv.org/abs/2505.16832)|null|
 |**2025-05-22**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810](http://arxiv.org/abs/2505.15810)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
 |**2025-05-21**|**The Agentic Economy**|David M. Rothschild et.al.|[2505.15799](http://arxiv.org/abs/2505.15799)|null|
 |**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
@@ -2635,6 +2655,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
+|**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944](http://arxiv.org/abs/2505.16944)|null|
+|**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
+|**2025-05-21**|**ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation**|Tony Montes et.al.|[2505.15928](http://arxiv.org/abs/2505.15928)|null|
+|**2025-05-21**|**Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions**|Yujia Zhou et.al.|[2505.15857](http://arxiv.org/abs/2505.15857)|null|
 |**2025-05-21**|**StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization**|Ziliang Wang et.al.|[2505.15107](http://arxiv.org/abs/2505.15107)|null|
 |**2025-05-22**|**BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks**|Weihong Du et.al.|[2505.14079](http://arxiv.org/abs/2505.14079)|**[link](https://github.com/scunlp/bar)**|
 |**2025-05-20**|**DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery**|Kun Li et.al.|[2505.13940](http://arxiv.org/abs/2505.13940)|null|
@@ -2650,7 +2675,7 @@ layout: default
 |**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396](http://arxiv.org/abs/2505.09396)|null|
 |**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459](http://arxiv.org/abs/2505.08459)|null|
 |**2025-05-07**|**SweRank: Software Issue Localization with Code Ranking**|Revanth Gangi Reddy et.al.|[2505.07849](http://arxiv.org/abs/2505.07849)|null|
-|**2025-05-22**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|
+|**2025-05-22**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|**[link](https://github.com/RUC-GSAI/YuLan-OneSim)**|
 |**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254](http://arxiv.org/abs/2505.04254)|null|
 |**2025-04-30**|**Insulin Resistance Prediction From Wearables and Routine Blood Biomarkers**|Ahmed A. Metwally et.al.|[2505.03784](http://arxiv.org/abs/2505.03784)|null|
 |**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|**[link](https://github.com/mnluzimu/webgen-bench)**|
@@ -2915,6 +2940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance**|Taeyoon Kwon et.al.|[2505.16348](http://arxiv.org/abs/2505.16348)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
 |**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
 |**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
