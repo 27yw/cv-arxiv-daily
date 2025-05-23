@@ -7,16 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810](http://arxiv.org/abs/2505.15810)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
+|**2025-05-22**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810](http://arxiv.org/abs/2505.15810)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
 |**2025-05-21**|**The Agentic Economy**|David M. Rothschild et.al.|[2505.15799](http://arxiv.org/abs/2505.15799)|null|
-|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
 |**2025-05-21**|**Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning**|Pedro P. Santos et.al.|[2505.15782](http://arxiv.org/abs/2505.15782)|null|
 |**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738](http://arxiv.org/abs/2505.15738)|null|
 |**2025-05-21**|**DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning**|Gaurav Srivastava et.al.|[2505.15734](http://arxiv.org/abs/2505.15734)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2025-05-21**|**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**|Xintong Zhang et.al.|[2505.15436](http://arxiv.org/abs/2505.15436)|null|
 |**2025-05-21**|**X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System**|Peng Wang et.al.|[2505.15372](http://arxiv.org/abs/2505.15372)|**[link](https://github.com/WPENGxs/X-WebAgentBench)**|
 |**2025-05-21**|**Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One**|Yiwen Song et.al.|[2505.15306](http://arxiv.org/abs/2505.15306)|null|
-|**2025-05-21**|**AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**|Kangan Qian et.al.|[2505.15298](http://arxiv.org/abs/2505.15298)|null|
+|**2025-05-22**|**AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**|Kangan Qian et.al.|[2505.15298](http://arxiv.org/abs/2505.15298)|null|
 |**2025-05-20**|**NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search**|Sunhao Dai et.al.|[2505.14680](http://arxiv.org/abs/2505.14680)|null|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**AI Agents in the Electricity Market Game with Cryptocurrency Transactions: A Post-Terminator Analysis**|Microsoft Copilot et.al.|[2505.14612](http://arxiv.org/abs/2505.14612)|null|
@@ -2636,7 +2636,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-21**|**StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization**|Ziliang Wang et.al.|[2505.15107](http://arxiv.org/abs/2505.15107)|null|
-|**2025-05-20**|**BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks**|Weihong Du et.al.|[2505.14079](http://arxiv.org/abs/2505.14079)|**[link](https://github.com/scunlp/bar)**|
+|**2025-05-22**|**BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks**|Weihong Du et.al.|[2505.14079](http://arxiv.org/abs/2505.14079)|**[link](https://github.com/scunlp/bar)**|
 |**2025-05-20**|**DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery**|Kun Li et.al.|[2505.13940](http://arxiv.org/abs/2505.13940)|null|
 |**2025-05-20**|**Structured Agent Distillation for Large Language Model**|Jun Liu et.al.|[2505.13820](http://arxiv.org/abs/2505.13820)|null|
 |**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
@@ -2650,7 +2650,7 @@ layout: default
 |**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396](http://arxiv.org/abs/2505.09396)|null|
 |**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459](http://arxiv.org/abs/2505.08459)|null|
 |**2025-05-07**|**SweRank: Software Issue Localization with Code Ranking**|Revanth Gangi Reddy et.al.|[2505.07849](http://arxiv.org/abs/2505.07849)|null|
-|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|
+|**2025-05-22**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|
 |**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254](http://arxiv.org/abs/2505.04254)|null|
 |**2025-04-30**|**Insulin Resistance Prediction From Wearables and Routine Blood Biomarkers**|Ahmed A. Metwally et.al.|[2505.03784](http://arxiv.org/abs/2505.03784)|null|
 |**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|**[link](https://github.com/mnluzimu/webgen-bench)**|
