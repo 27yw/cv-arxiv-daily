@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -2684,7 +2684,7 @@ layout: default
 |**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944](http://arxiv.org/abs/2505.16944)|**[link](https://github.com/thu-keg/agentif)**|
 |**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
 |**2025-05-21**|**ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation**|Tony Montes et.al.|[2505.15928](http://arxiv.org/abs/2505.15928)|**[link](https://github.com/t-montes/viqagent)**|
-|**2025-05-21**|**Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions**|Yujia Zhou et.al.|[2505.15857](http://arxiv.org/abs/2505.15857)|null|
+|**2025-05-21**|**Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions**|Yujia Zhou et.al.|[2505.15857](http://arxiv.org/abs/2505.15857)|**[link](https://github.com/halsayxi/prosim)**|
 |**2025-05-21**|**StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization**|Ziliang Wang et.al.|[2505.15107](http://arxiv.org/abs/2505.15107)|null|
 |**2025-05-22**|**BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks**|Weihong Du et.al.|[2505.14079](http://arxiv.org/abs/2505.14079)|**[link](https://github.com/scunlp/bar)**|
 |**2025-05-20**|**DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery**|Kun Li et.al.|[2505.13940](http://arxiv.org/abs/2505.13940)|**[link](https://github.com/wzn99/drugpilot)**|
