@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496](http://arxiv.org/abs/2505.21496)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426](http://arxiv.org/abs/2505.21426)|null|
+|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
+|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
+|**2025-05-27**|**A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment**|Brett Bissey et.al.|[2505.21414](http://arxiv.org/abs/2505.21414)|null|
+|**2025-05-27**|**MRSD: Multi-Resolution Skill Discovery for HRL Agents**|Shashank Sharma et.al.|[2505.21410](http://arxiv.org/abs/2505.21410)|null|
+|**2025-05-27**|**Breaking co-existence: zealotry vs. nonlinear social impact**|Christopher R. Kitching et.al.|[2505.21407](http://arxiv.org/abs/2505.21407)|null|
+|**2025-05-27**|**AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs**|Xuanwen Ding et.al.|[2505.21389](http://arxiv.org/abs/2505.21389)|null|
+|**2025-05-27**|**Distributed equilibrium seeking in aggregative games: linear convergence under singular perturbations lens**|Guido Carnevale et.al.|[2505.21386](http://arxiv.org/abs/2505.21386)|null|
+|**2025-05-27**|**Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History**|Qishuai Zhong et.al.|[2505.21362](http://arxiv.org/abs/2505.21362)|null|
+|**2025-05-27**|**PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims**|Valentin Knappich et.al.|[2505.21342](http://arxiv.org/abs/2505.21342)|null|
+|**2025-05-27**|**Large Language Models Miss the Multi-Agent Mark**|Emanuele La Malfa et.al.|[2505.21298](http://arxiv.org/abs/2505.21298)|null|
+|**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291](http://arxiv.org/abs/2505.21291)|null|
+|**2025-05-27**|**PACT: A Contract-Theoretic Framework for Pricing Agentic AI Services Powered by Large Language Models**|Ya-Ting Yang et.al.|[2505.21286](http://arxiv.org/abs/2505.21286)|null|
 |**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|null|
 |**2025-05-26**|**Shutdownable Agents through POST-Agency**|Elliott Thornley et.al.|[2505.20203](http://arxiv.org/abs/2505.20203)|null|
 |**2025-05-26**|**THiNK: Can Large Language Models Think-aloud?**|Yongan Yu et.al.|[2505.20184](http://arxiv.org/abs/2505.20184)|null|
@@ -2695,6 +2715,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building**|Zhengmin Yu et.al.|[2505.21069](http://arxiv.org/abs/2505.21069)|null|
+|**2025-05-27**|**Can Agents Fix Agent Issues?**|Alfin Wijaya Rahardja et.al.|[2505.20749](http://arxiv.org/abs/2505.20749)|null|
+|**2025-05-27**|**CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models**|Yi Zhan et.al.|[2505.20642](http://arxiv.org/abs/2505.20642)|null|
+|**2025-05-26**|**SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**|Ibragim Badertdinov et.al.|[2505.20411](http://arxiv.org/abs/2505.20411)|null|
 |**2025-05-26**|**Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking**|Yihan Chen et.al.|[2505.20023](http://arxiv.org/abs/2505.20023)|null|
 |**2025-05-26**|**Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents**|Tao Wu et.al.|[2505.19997](http://arxiv.org/abs/2505.19997)|null|
 |**2025-05-26**|**ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows**|Qiushi Sun et.al.|[2505.19897](http://arxiv.org/abs/2505.19897)|null|
@@ -2947,6 +2971,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning**|Zikang Guo et.al.|[2505.20670](http://arxiv.org/abs/2505.20670)|null|
 |**2025-05-26**|**TTPA: Token-level Tool-use Preference Alignment Training Framework with Fine-grained Evaluation**|Chengrui Huang et.al.|[2505.20016](http://arxiv.org/abs/2505.20016)|null|
 |**2025-05-21**|**RRTL: Red Teaming Reasoning Large Language Models in Tool Learning**|Yifei Liu et.al.|[2505.17106](http://arxiv.org/abs/2505.17106)|null|
 |**2025-05-17**|**ToLeaP: Rethinking Development of Tool Learning with Large Language Models**|Haotian Chen et.al.|[2505.11833](http://arxiv.org/abs/2505.11833)|null|
@@ -2998,6 +3023,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making**|Liu Dai et.al.|[2505.20726](http://arxiv.org/abs/2505.20726)|null|
+|**2025-05-27**|**IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios**|Yifan Li et.al.|[2505.20640](http://arxiv.org/abs/2505.20640)|null|
 |**2025-05-26**|**Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making**|Yejin Son et.al.|[2505.19933](http://arxiv.org/abs/2505.19933)|null|
 |**2025-05-26**|**RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback**|Junyang Shu et.al.|[2505.19767](http://arxiv.org/abs/2505.19767)|null|
 |**2025-05-23**|**BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs**|Mingning Guo et.al.|[2505.18229](http://arxiv.org/abs/2505.18229)|null|
