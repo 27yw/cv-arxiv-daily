@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648](http://arxiv.org/abs/2505.22648)|null|
+|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
+|**2025-05-28**|**HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym**|Ngoc La et.al.|[2505.22597](http://arxiv.org/abs/2505.22597)|null|
+|**2025-05-28**|**GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git**|Tobias Lindenbauer et.al.|[2505.22583](http://arxiv.org/abs/2505.22583)|null|
+|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/abs/2505.22571)|null|
+|**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566](http://arxiv.org/abs/2505.22566)|null|
+|**2025-05-28**|**Training RL Agents for Multi-Objective Network Defense Tasks**|Andres Molina-Markham et.al.|[2505.22531](http://arxiv.org/abs/2505.22531)|null|
+|**2025-05-28**|**AI instructional agent improves student's perceived learner control and learning outcome: empirical evidence from a randomized controlled trial**|Fei Qin et.al.|[2505.22526](http://arxiv.org/abs/2505.22526)|null|
+|**2025-05-28**|**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**|Yuanfei Wang et.al.|[2505.22503](http://arxiv.org/abs/2505.22503)|null|
+|**2025-05-28**|**EvolveSearch: An Iterative Self-Evolving Search Agent**|Dingchu Zhang et.al.|[2505.22501](http://arxiv.org/abs/2505.22501)|null|
+|**2025-05-28**|**Human-Centered Human-AI Collaboration (HCHAC)**|Qi Gao et.al.|[2505.22477](http://arxiv.org/abs/2505.22477)|null|
+|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
+|**2025-05-28**|**AI Mathematician: Towards Fully Automated Frontier Mathematical Research**|Yuanhang Liu et.al.|[2505.22451](http://arxiv.org/abs/2505.22451)|null|
+|**2025-05-28**|**COSMOS: A Data-Driven Probabilistic Time Series simulator for Chemical Plumes across Spatial Scales**|Arunava Nag et.al.|[2505.22436](http://arxiv.org/abs/2505.22436)|null|
+|**2025-05-28**|**Exact Algorithms and Lower Bounds for Forming Coalitions of Constrained Maximum Size**|Foivos Fioravantes et.al.|[2505.22384](http://arxiv.org/abs/2505.22384)|null|
+|**2025-05-28**|**AgentDNS: A Root Domain Naming System for LLM Agents**|Enfang Cui et.al.|[2505.22368](http://arxiv.org/abs/2505.22368)|null|
+|**2025-05-28**|**From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications**|Feibo Jiang et.al.|[2505.22311](http://arxiv.org/abs/2505.22311)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
@@ -2723,6 +2743,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents**|Taro Yano et.al.|[2505.21963](http://arxiv.org/abs/2505.21963)|null|
 |**2025-05-27**|**CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building**|Zhengmin Yu et.al.|[2505.21069](http://arxiv.org/abs/2505.21069)|null|
 |**2025-05-27**|**Can Agents Fix Agent Issues?**|Alfin Wijaya Rahardja et.al.|[2505.20749](http://arxiv.org/abs/2505.20749)|null|
 |**2025-05-27**|**CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models**|Yi Zhan et.al.|[2505.20642](http://arxiv.org/abs/2505.20642)|null|
@@ -3035,6 +3057,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
+|**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566](http://arxiv.org/abs/2505.22566)|null|
+|**2025-05-28**|**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**|Yuanfei Wang et.al.|[2505.22503](http://arxiv.org/abs/2505.22503)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making**|Liu Dai et.al.|[2505.20726](http://arxiv.org/abs/2505.20726)|null|
 |**2025-05-27**|**IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios**|Yifan Li et.al.|[2505.20640](http://arxiv.org/abs/2505.20640)|null|
