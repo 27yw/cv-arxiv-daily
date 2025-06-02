@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
+|**2025-05-30**|**Emergent Dynamics of Active Systems on Curved Environments**|Euan D. Mackay et.al.|[2505.24730](http://arxiv.org/abs/2505.24730)|null|
+|**2025-05-30**|**CoRet: Improved Retriever for Code Editing**|Fabio Fehr et.al.|[2505.24715](http://arxiv.org/abs/2505.24715)|null|
+|**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
+|**2025-05-30**|**Towards a unified user modeling language for engineering human centered AI systems**|Aaron Conrardy et.al.|[2505.24697](http://arxiv.org/abs/2505.24697)|null|
+|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
+|**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654](http://arxiv.org/abs/2505.24654)|null|
+|**2025-05-30**|**Online Budget-Feasible Mechanism Design with Predictions**|Georgios Amanatidis et.al.|[2505.24624](http://arxiv.org/abs/2505.24624)|null|
+|**2025-05-30**|**Distributed Intelligence in the Computing Continuum with Active Inference**|Victor Casamayor Pujol et.al.|[2505.24618](http://arxiv.org/abs/2505.24618)|null|
+|**2025-05-30**|**When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**|Daniela Occhipinti et.al.|[2505.24613](http://arxiv.org/abs/2505.24613)|null|
+|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-05-30**|**NexusSum: Hierarchical LLM Agents for Long-Form Narrative Summarization**|Hyuntak Kim et.al.|[2505.24575](http://arxiv.org/abs/2505.24575)|null|
+|**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
+|**2025-05-30**|**Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility**|Leonid Kondrashov et.al.|[2505.24551](http://arxiv.org/abs/2505.24551)|null|
+|**2025-05-30**|**Online Fair Division with Additional Information**|Tzeh Yuan Neoh et.al.|[2505.24503](http://arxiv.org/abs/2505.24503)|null|
+|**2025-05-30**|**RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation**|Zhentao Xie et.al.|[2505.24442](http://arxiv.org/abs/2505.24442)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
@@ -2763,6 +2783,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
+|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
+|**2025-05-29**|**Large Language Model-Based Agents for Automated Research Reproducibility: An Exploratory Study in Alzheimer's Disease**|Nic Dobbins et.al.|[2505.23852](http://arxiv.org/abs/2505.23852)|null|
 |**2025-05-29**|**CDR-Agent: Intelligent Selection and Execution of Clinical Decision Rules Using Large Language Model Agents**|Zhen Xiang et.al.|[2505.23055](http://arxiv.org/abs/2505.23055)|**[link](https://github.com/zhenxianglance/medagent-cdr-agent)**|
 |**2025-05-29**|**AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models**|Jinchuan Zhang et.al.|[2505.23020](http://arxiv.org/abs/2505.23020)|**[link](https://github.com/jc-ryan/agentalign)**|
 |**2025-05-28**|**WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning**|Yuchen Zhuang et.al.|[2505.22942](http://arxiv.org/abs/2505.22942)|null|
@@ -3026,6 +3049,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Learning API Functionality from Demonstrations for Tool-based Agents**|Bhrij Patel et.al.|[2505.24197](http://arxiv.org/abs/2505.24197)|null|
 |**2025-05-27**|**MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning**|Zikang Guo et.al.|[2505.20670](http://arxiv.org/abs/2505.20670)|null|
 |**2025-05-26**|**TTPA: Token-level Tool-use Preference Alignment Training Framework with Fine-grained Evaluation**|Chengrui Huang et.al.|[2505.20016](http://arxiv.org/abs/2505.20016)|null|
 |**2025-05-21**|**RRTL: Red Teaming Reasoning Large Language Models in Tool Learning**|Yifei Liu et.al.|[2505.17106](http://arxiv.org/abs/2505.17106)|null|
@@ -3044,7 +3068,7 @@
 |**2025-05-26**|**Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**|Zhengliang Shi et.al.|[2503.01763](http://arxiv.org/abs/2503.01763)|null|
 |**2025-02-26**|**PEToolLLM: Towards Personalized Tool Learning in Large Language Models**|Qiancheng Xu et.al.|[2502.18980](http://arxiv.org/abs/2502.18980)|null|
 |**2025-02-24**|**Programming with Pixels: Computer-Use Meets Software Engineering**|Pranjal Aggarwal et.al.|[2502.18525](http://arxiv.org/abs/2502.18525)|null|
-|**2025-02-17**|**ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models**|Hanxing Ding et.al.|[2502.11404](http://arxiv.org/abs/2502.11404)|**[link](https://github.com/dhx20150812/toolcoder)**|
+|**2025-05-30**|**ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models**|Hanxing Ding et.al.|[2502.11404](http://arxiv.org/abs/2502.11404)|**[link](https://github.com/dhx20150812/toolcoder)**|
 |**2025-02-17**|**Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System**|Ziyou Jiang et.al.|[2502.11358](http://arxiv.org/abs/2502.11358)|null|
 |**2025-02-14**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
 |**2025-02-03**|**Tool Unlearning for Tool-Augmented LLMs**|Jiali Cheng et.al.|[2502.01083](http://arxiv.org/abs/2502.01083)|null|
@@ -3080,6 +3104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
 |**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
 |**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566](http://arxiv.org/abs/2505.22566)|null|
