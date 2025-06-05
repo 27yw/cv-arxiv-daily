@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215](http://arxiv.org/abs/2506.04215)|null|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
+|**2025-06-04**|**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models**|Yuhao Wu et.al.|[2506.04180](http://arxiv.org/abs/2506.04180)|null|
+|**2025-06-04**|**A primal-dual price-optimization method for computing equilibrium prices in mean-field games models**|Xu Wang et.al.|[2506.04169](http://arxiv.org/abs/2506.04169)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents**|Pei Yang et.al.|[2506.04135](http://arxiv.org/abs/2506.04135)|null|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**CLAIM: An Intent-Driven Multi-Agent Framework for Analyzing Manipulation in Courtroom Dialogues**|Disha Sheshanarayana et.al.|[2506.04131](http://arxiv.org/abs/2506.04131)|null|
+|**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
+|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
+|**2025-06-04**|**Optimal Transport-based Domain Alignment as a Preprocessing Step for Federated Learning**|Luiz Manella Pereira et.al.|[2506.04071](http://arxiv.org/abs/2506.04071)|null|
+|**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
+|**2025-06-04**|**AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents**|Akshat Naik et.al.|[2506.04018](http://arxiv.org/abs/2506.04018)|null|
+|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939](http://arxiv.org/abs/2506.03939)|null|
+|**2025-06-04**|**HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models**|Zhaolu Kang et.al.|[2506.03922](http://arxiv.org/abs/2506.03922)|null|
+|**2025-06-04**|**Causal Explanations Over Time: Articulated Reasoning for Interactive Environments**|Sebastian Rödling et.al.|[2506.03915](http://arxiv.org/abs/2506.03915)|null|
+|**2025-06-04**|**Jet-Feedback on kpc scales: a review**|Dipanjan Mukherjee et.al.|[2506.03888](http://arxiv.org/abs/2506.03888)|null|
+|**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861](http://arxiv.org/abs/2506.03861)|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143](http://arxiv.org/abs/2506.03143)|null|
 |**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136](http://arxiv.org/abs/2506.03136)|null|
 |**2025-06-03**|**Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff**|Sophie Greenwood et.al.|[2506.03102](http://arxiv.org/abs/2506.03102)|null|
@@ -2795,6 +2815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents**|Akshat Naik et.al.|[2506.04018](http://arxiv.org/abs/2506.04018)|null|
 |**2025-06-03**|**Decompose, Plan in Parallel, and Merge: A Novel Paradigm for Large Language Models based Planning with Multiple Constraints**|Zhengdong Lu et.al.|[2506.02683](http://arxiv.org/abs/2506.02683)|null|
 |**2025-06-02**|**WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue**|Yaoyao Qian et.al.|[2506.01881](http://arxiv.org/abs/2506.01881)|**[link](https://github.com/H-Freax/Storm)**|
 |**2025-06-02**|**Beyond Static Responses: Multi-Agent LLM Systems as a New Paradigm for Social Science Research**|Jennifer Haase et.al.|[2506.01839](http://arxiv.org/abs/2506.01839)|null|
@@ -3120,6 +3142,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|null|
+|**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516](http://arxiv.org/abs/2506.03516)|null|
 |**2025-06-03**|**To Embody or Not: The Effect Of Embodiment On User Perception Of LLM-based Conversational Agents**|Kyra Wang et.al.|[2506.02514](http://arxiv.org/abs/2506.02514)|null|
 |**2025-06-01**|**GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering**|Muhammad Qasim Ali et.al.|[2506.01174](http://arxiv.org/abs/2506.01174)|null|
 |**2025-05-31**|**LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks**|Yi Yang et.al.|[2506.00411](http://arxiv.org/abs/2506.00411)|null|
