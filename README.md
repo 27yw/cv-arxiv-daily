@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**Longer Lists Yield Better Matchings**|Yuri Faenza et.al.|[2506.06217](http://arxiv.org/abs/2506.06217)|null|
+|**2025-06-06**|**Can Theoretical Physics Research Benefit from Language Agents?**|Sirui Lu et.al.|[2506.06214](http://arxiv.org/abs/2506.06214)|null|
+|**2025-06-06**|**A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization**|Muhammed Ustaomeroglu et.al.|[2506.06179](http://arxiv.org/abs/2506.06179)|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
+|**2025-06-06**|**The Lock-in Hypothesis: Stagnation by Algorithm**|Tianyi Alex Qiu et.al.|[2506.06166](http://arxiv.org/abs/2506.06166)|null|
+|**2025-06-06**|**(AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation**|Eunhye Grace Ko et.al.|[2506.06165](http://arxiv.org/abs/2506.06165)|null|
+|**2025-06-06**|**Personalized Large Language Models Can Increase the Belief Accuracy of Social Networks**|Adiba Mahbub Proma et.al.|[2506.06153](http://arxiv.org/abs/2506.06153)|null|
+|**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[2506.06128](http://arxiv.org/abs/2506.06128)|null|
+|**2025-06-06**|**Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library**|Weixun Wang et.al.|[2506.06122](http://arxiv.org/abs/2506.06122)|null|
+|**2025-06-06**|**VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning**|Zikang Wang et.al.|[2506.06097](http://arxiv.org/abs/2506.06097)|null|
+|**2025-06-06**|**On-board Mission Replanning for Adaptive Cooperative Multi-Robot Systems**|Elim Kwan et.al.|[2506.06094](http://arxiv.org/abs/2506.06094)|null|
+|**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[2506.06077](http://arxiv.org/abs/2506.06077)|null|
+|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
+|**2025-06-06**|**Modeling human reputation-seeking behavior in a spatio-temporally complex public good provision game**|Edward Hughes et.al.|[2506.06032](http://arxiv.org/abs/2506.06032)|null|
+|**2025-06-06**|**When to Trust Context: Self-Reflective Debates for Context Reliability**|Zeqi Zhou et.al.|[2506.06020](http://arxiv.org/abs/2506.06020)|null|
+|**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017](http://arxiv.org/abs/2506.06017)|null|
+|**2025-06-06**|**Propose or Vote: A simple Democratic Procedure**|Hans Gersbach et.al.|[2506.05998](http://arxiv.org/abs/2506.05998)|null|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
+|**2025-06-06**|**MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks**|Zonglin Wu et.al.|[2506.05982](http://arxiv.org/abs/2506.05982)|null|
 |**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|**[link](https://github.com/niveck/LLMafia)**|
 |**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305](http://arxiv.org/abs/2506.05305)|null|
 |**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296](http://arxiv.org/abs/2506.05296)|null|
@@ -2837,12 +2857,14 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Large Language Model Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**CodeContests+: High-Quality Test Case Generation for Competitive Programming**|Zihan Wang et.al.|[2506.05817](http://arxiv.org/abs/2506.05817)|null|
 |**2025-06-05**|**Agents of Change: Self-Evolving LLM Agents for Strategic Planning**|Nikolas Belle et.al.|[2506.04651](http://arxiv.org/abs/2506.04651)|null|
 |**2025-06-05**|**Subjective Perspectives within Learned Representations Predict High-Impact Innovation**|Likun Cao et.al.|[2506.04616](http://arxiv.org/abs/2506.04616)|null|
 |**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
@@ -2855,11 +2877,11 @@
 |**2025-05-31**|**AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents**|Hanjun Luo et.al.|[2506.00641](http://arxiv.org/abs/2506.00641)|null|
 |**2025-05-31**|**Temac: Multi-Agent Collaboration for Automated Web GUI Testing**|Chenxu Liu et.al.|[2506.00520](http://arxiv.org/abs/2506.00520)|null|
 |**2025-06-02**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
-|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
+|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|**[link](https://github.com/dayeonki/cultural_debate)**|
 |**2025-05-29**|**Large Language Model-Based Agents for Automated Research Reproducibility: An Exploratory Study in Alzheimer's Disease**|Nic Dobbins et.al.|[2505.23852](http://arxiv.org/abs/2505.23852)|null|
 |**2025-05-29**|**CDR-Agent: Intelligent Selection and Execution of Clinical Decision Rules Using Large Language Model Agents**|Zhen Xiang et.al.|[2505.23055](http://arxiv.org/abs/2505.23055)|**[link](https://github.com/zhenxianglance/medagent-cdr-agent)**|
 |**2025-05-29**|**AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models**|Jinchuan Zhang et.al.|[2505.23020](http://arxiv.org/abs/2505.23020)|**[link](https://github.com/jc-ryan/agentalign)**|
-|**2025-05-28**|**WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning**|Yuchen Zhuang et.al.|[2505.22942](http://arxiv.org/abs/2505.22942)|null|
+|**2025-06-08**|**WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning**|Yuchen Zhuang et.al.|[2505.22942](http://arxiv.org/abs/2505.22942)|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
 |**2025-05-28**|**LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents**|Taro Yano et.al.|[2505.21963](http://arxiv.org/abs/2505.21963)|null|
 |**2025-05-27**|**CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building**|Zhengmin Yu et.al.|[2505.21069](http://arxiv.org/abs/2505.21069)|null|
@@ -3114,7 +3136,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Tool learning
 
@@ -3170,19 +3192,19 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
-|**2025-06-05**|**LLMs for sensory-motor control: Combining in-context and iterative learning**|Jônata Tyska Carvalho et.al.|[2506.04867](http://arxiv.org/abs/2506.04867)|null|
-|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
+|**2025-06-05**|**LLMs for sensory-motor control: Combining in-context and iterative learning**|Jônata Tyska Carvalho et.al.|[2506.04867](http://arxiv.org/abs/2506.04867)|**[link](https://github.com/jtyska/llm-robotics-article)**|
+|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|**[link](https://github.com/cog-model/ambik-dataset)**|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
-|**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|null|
+|**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|**[link](https://github.com/airs-admin/heat)**|
 |**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516](http://arxiv.org/abs/2506.03516)|null|
-|**2025-06-03**|**To Embody or Not: The Effect Of Embodiment On User Perception Of LLM-based Conversational Agents**|Kyra Wang et.al.|[2506.02514](http://arxiv.org/abs/2506.02514)|null|
+|**2025-06-03**|**To Embody or Not: The Effect Of Embodiment On User Perception Of LLM-based Conversational Agents**|Kyra Wang et.al.|[2506.02514](http://arxiv.org/abs/2506.02514)|**[link](https://github.com/amaai-lab/to-embody-or-not)**|
 |**2025-06-01**|**GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering**|Muhammad Qasim Ali et.al.|[2506.01174](http://arxiv.org/abs/2506.01174)|null|
 |**2025-05-31**|**LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks**|Yi Yang et.al.|[2506.00411](http://arxiv.org/abs/2506.00411)|null|
 |**2025-05-30**|**Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation**|Reece Keller et.al.|[2506.00138](http://arxiv.org/abs/2506.00138)|null|
@@ -3335,7 +3357,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
