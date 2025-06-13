@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2917,7 +2917,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -2931,7 +2931,7 @@
 |**2025-06-11**|**Your Agent Can Defend Itself against Backdoor Attacks**|Li Changjiang et.al.|[2506.08336](http://arxiv.org/abs/2506.08336)|null|
 |**2025-06-09**|**SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents**|Subhrangshu Nandi et.al.|[2506.08119](http://arxiv.org/abs/2506.08119)|null|
 |**2025-06-09**|**Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph**|Akash Vishwakarma et.al.|[2506.08098](http://arxiv.org/abs/2506.08098)|null|
-|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
 |**2025-06-08**|**Position: Simulating Society Requires Simulating Thought**|Chance Jiajie Li et.al.|[2506.06958](http://arxiv.org/abs/2506.06958)|null|
 |**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
@@ -3207,14 +3207,14 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Tool learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
-|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-05-28**|**Enhancing Tool Learning in Large Language Models with Hierarchical Error Checklists**|Yue Cui et.al.|[2506.00042](http://arxiv.org/abs/2506.00042)|null|
 |**2025-05-30**|**Learning API Functionality from Demonstrations for Tool-based Agents**|Bhrij Patel et.al.|[2505.24197](http://arxiv.org/abs/2505.24197)|null|
 |**2025-06-05**|**MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning**|Zikang Guo et.al.|[2505.20670](http://arxiv.org/abs/2505.20670)|null|
@@ -3265,7 +3265,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -3436,7 +3436,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

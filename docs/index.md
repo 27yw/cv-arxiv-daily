@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -2923,7 +2923,7 @@ layout: default
 |**2025-06-11**|**Your Agent Can Defend Itself against Backdoor Attacks**|Li Changjiang et.al.|[2506.08336](http://arxiv.org/abs/2506.08336)|null|
 |**2025-06-09**|**SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents**|Subhrangshu Nandi et.al.|[2506.08119](http://arxiv.org/abs/2506.08119)|null|
 |**2025-06-09**|**Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph**|Akash Vishwakarma et.al.|[2506.08098](http://arxiv.org/abs/2506.08098)|null|
-|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
 |**2025-06-08**|**Position: Simulating Society Requires Simulating Thought**|Chance Jiajie Li et.al.|[2506.06958](http://arxiv.org/abs/2506.06958)|null|
 |**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
@@ -3204,7 +3204,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
-|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-05-28**|**Enhancing Tool Learning in Large Language Models with Hierarchical Error Checklists**|Yue Cui et.al.|[2506.00042](http://arxiv.org/abs/2506.00042)|null|
 |**2025-05-30**|**Learning API Functionality from Demonstrations for Tool-based Agents**|Bhrij Patel et.al.|[2505.24197](http://arxiv.org/abs/2505.24197)|null|
 |**2025-06-05**|**MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning**|Zikang Guo et.al.|[2505.20670](http://arxiv.org/abs/2505.20670)|null|
