@@ -16,9 +16,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
-|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|**[link](https://github.com/deepsoftwareanalytics/swe-factory)**|
 |**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
 |**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
 |**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
@@ -2937,7 +2937,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pokémon**|Cameron Angliss et.al.|[2506.10326](http://arxiv.org/abs/2506.10326)|null|
 |**2025-06-11**|**Disclosure Audits for LLM Agents**|Saswat Das et.al.|[2506.10171](http://arxiv.org/abs/2506.10171)|null|
-|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|null|
+|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|**[link](https://github.com/amazon-science/personalens)**|
 |**2025-06-11**|**DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy**|Kaixuan Xu et.al.|[2506.09655](http://arxiv.org/abs/2506.09655)|null|
 |**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
 |**2025-06-11**|**Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation**|Arjun Vaithilingam Sudhakar et.al.|[2506.09331](http://arxiv.org/abs/2506.09331)|null|
@@ -2945,7 +2945,7 @@ layout: default
 |**2025-06-11**|**Your Agent Can Defend Itself against Backdoor Attacks**|Li Changjiang et.al.|[2506.08336](http://arxiv.org/abs/2506.08336)|null|
 |**2025-06-09**|**SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents**|Subhrangshu Nandi et.al.|[2506.08119](http://arxiv.org/abs/2506.08119)|null|
 |**2025-06-09**|**Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph**|Akash Vishwakarma et.al.|[2506.08098](http://arxiv.org/abs/2506.08098)|null|
-|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|**[link](https://github.com/ai4chem/chemistryagent)**|
 |**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
 |**2025-06-08**|**Position: Simulating Society Requires Simulating Thought**|Chance Jiajie Li et.al.|[2506.06958](http://arxiv.org/abs/2506.06958)|null|
 |**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
@@ -3226,7 +3226,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
-|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|**[link](https://github.com/ai4chem/chemistryagent)**|
 |**2025-05-28**|**Enhancing Tool Learning in Large Language Models with Hierarchical Error Checklists**|Yue Cui et.al.|[2506.00042](http://arxiv.org/abs/2506.00042)|null|
 |**2025-05-30**|**Learning API Functionality from Demonstrations for Tool-based Agents**|Bhrij Patel et.al.|[2505.24197](http://arxiv.org/abs/2505.24197)|null|
 |**2025-06-05**|**MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning**|Zikang Guo et.al.|[2505.20670](http://arxiv.org/abs/2505.20670)|null|
@@ -3235,7 +3235,7 @@ layout: default
 |**2025-05-17**|**ToLeaP: Rethinking Development of Tool Learning with Large Language Models**|Haotian Chen et.al.|[2505.11833](http://arxiv.org/abs/2505.11833)|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
 |**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/abs/2505.07512)|null|
-|**2025-04-16**|**ToolRL: Reward is All Tool Learning Needs**|Cheng Qian et.al.|[2504.13958](http://arxiv.org/abs/2504.13958)|null|
+|**2025-04-16**|**ToolRL: Reward is All Tool Learning Needs**|Cheng Qian et.al.|[2504.13958](http://arxiv.org/abs/2504.13958)|**[link](https://github.com/qiancheng0/toolrl)**|
 |**2025-05-26**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766](http://arxiv.org/abs/2504.06766)|**[link](https://github.com/yxzwang/FamilyTool)**|
 |**2025-04-07**|**Select Me! When You Need a Tool: A Black-box Text Attack on Tool Selection**|Liuji Chen et.al.|[2504.04809](http://arxiv.org/abs/2504.04809)|null|
 |**2025-04-02**|**ToolACE-R: Tool Learning with Adaptive Self-Refinement**|Xingshan Zeng et.al.|[2504.01400](http://arxiv.org/abs/2504.01400)|null|
