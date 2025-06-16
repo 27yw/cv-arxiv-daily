@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -26,7 +26,7 @@ layout: default
 |**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|null|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825](http://arxiv.org/abs/2506.10825)|null|
 |**2025-06-12**|**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**|Huaying Yuan et.al.|[2506.10821](http://arxiv.org/abs/2506.10821)|null|
-|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
+|**2025-06-13**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
 |**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|null|
 |**2025-06-12**|**Integrating Large Language Models into Text Animation: An Intelligent Editing System with Inline and Chat Interaction**|Bao Zhang et.al.|[2506.10762](http://arxiv.org/abs/2506.10762)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
