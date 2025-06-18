@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -25,7 +25,7 @@ layout: default
 |**2025-06-16**|**Agent Capability Negotiation and Binding Protocol (ACNBP)**|Ken Huang et.al.|[2506.13590](http://arxiv.org/abs/2506.13590)|null|
 |**2025-06-16**|**Non-exchangeable mean-field theory for adaptive weights: propagation of chaos and graphon sampling lemma**|Datong Zhou et.al.|[2506.13587](http://arxiv.org/abs/2506.13587)|null|
 |**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583](http://arxiv.org/abs/2506.13583)|null|
-|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
+|**2025-06-17**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
 |**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478](http://arxiv.org/abs/2506.13478)|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
 |**2025-06-16**|**A Two-stage Optimization Method for Wide-range Single-electron Quantum Magnetic Sensing**|Shiqian Guo et.al.|[2506.13469](http://arxiv.org/abs/2506.13469)|null|
@@ -2977,7 +2977,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM Approaches**|Lukasz Mazur et.al.|[2506.13171](http://arxiv.org/abs/2506.13171)|null|
 |**2025-06-15**|**WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench**|Xinyuan Xia et.al.|[2506.12841](http://arxiv.org/abs/2506.12841)|null|
-|**2025-06-14**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
+|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
 |**2025-06-13**|**DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**|Mingxuan Du et.al.|[2506.11763](http://arxiv.org/abs/2506.11763)|null|
 |**2025-06-12**|**Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing**|Luis Miguel Vieira da Silva et.al.|[2506.11180](http://arxiv.org/abs/2506.11180)|null|
 |**2025-06-16**|**Autonomous Computer Vision Development with Agentic AI**|Jin Kim et.al.|[2506.11140](http://arxiv.org/abs/2506.11140)|**[link](https://github.com/jink-ucla/OpenManus-SimpleMind)**|
