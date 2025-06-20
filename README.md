@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677](http://arxiv.org/abs/2506.15677)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|null|
+|**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672](http://arxiv.org/abs/2506.15672)|null|
+|**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
+|**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
+|**2025-06-18**|**Multi-Agent, Multi-Scale Systems with the Koopman Operator**|Craig Bakker et.al.|[2506.15589](http://arxiv.org/abs/2506.15589)|null|
+|**2025-06-18**|**Learning to flock in open space by avoiding collisions and staying together**|Martino Brambati et.al.|[2506.15587](http://arxiv.org/abs/2506.15587)|null|
+|**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567](http://arxiv.org/abs/2506.15567)|null|
+|**2025-06-18**|**Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning**|Roger Creus Castanyer et.al.|[2506.15544](http://arxiv.org/abs/2506.15544)|null|
+|**2025-06-18**|**Co-Creative Learning via Metropolis-Hastings Interaction between Humans and AI**|Ryota Okumura et.al.|[2506.15468](http://arxiv.org/abs/2506.15468)|null|
+|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451](http://arxiv.org/abs/2506.15451)|null|
+|**2025-06-18**|**Understanding GUI Agent Localization Biases through Logit Sharpness**|Xingjian Tao et.al.|[2506.15425](http://arxiv.org/abs/2506.15425)|null|
+|**2025-06-18**|**Reward Models in Deep Reinforcement Learning: A Survey**|Rui Yu et.al.|[2506.15421](http://arxiv.org/abs/2506.15421)|null|
+|**2025-06-18**|**Multi-Timescale Gradient Sliding for Distributed Optimization**|Junhui Zhang et.al.|[2506.15387](http://arxiv.org/abs/2506.15387)|null|
+|**2025-06-18**|**Tractable Graph Structures in EFX Orientation**|Václav Blažej et.al.|[2506.15379](http://arxiv.org/abs/2506.15379)|null|
+|**2025-06-18**|**Efficient and Generalizable Environmental Understanding for Visual Navigation**|Ruoyu Wang et.al.|[2506.15377](http://arxiv.org/abs/2506.15377)|null|
+|**2025-06-18**|**Learning to Maximize Quantum Neural Network Expressivity via Effective Rank**|Juan Yao et.al.|[2506.15375](http://arxiv.org/abs/2506.15375)|null|
+|**2025-06-18**|**Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces**|Francesco Chiossi et.al.|[2506.15293](http://arxiv.org/abs/2506.15293)|null|
+|**2025-06-18**|**RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments**|Yuchuan Fu et.al.|[2506.15253](http://arxiv.org/abs/2506.15253)|null|
 |**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
 |**2025-06-17**|**Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems**|Shiyu Cheng et.al.|[2506.14749](http://arxiv.org/abs/2506.14749)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
@@ -2997,12 +3017,14 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 ## Large Language Model Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents**|Thomas Kuntz et.al.|[2506.14866](http://arxiv.org/abs/2506.14866)|null|
+|**2025-06-17**|**Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching**|Qizheng Zhang et.al.|[2506.14852](http://arxiv.org/abs/2506.14852)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
 |**2025-06-16**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM Approaches**|Lukasz Mazur et.al.|[2506.13171](http://arxiv.org/abs/2506.13171)|null|
 |**2025-06-15**|**WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench**|Xinyuan Xia et.al.|[2506.12841](http://arxiv.org/abs/2506.12841)|null|
@@ -3015,11 +3037,11 @@
 |**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|**[link](https://github.com/amazon-science/personalens)**|
 |**2025-06-11**|**DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy**|Kaixuan Xu et.al.|[2506.09655](http://arxiv.org/abs/2506.09655)|null|
 |**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
-|**2025-06-11**|**Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation**|Arjun Vaithilingam Sudhakar et.al.|[2506.09331](http://arxiv.org/abs/2506.09331)|null|
+|**2025-06-17**|**Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation**|Arjun Vaithilingam Sudhakar et.al.|[2506.09331](http://arxiv.org/abs/2506.09331)|null|
 |**2025-06-10**|**FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making**|Jiaxiang Chen et.al.|[2506.09080](http://arxiv.org/abs/2506.09080)|null|
 |**2025-06-11**|**Your Agent Can Defend Itself against Backdoor Attacks**|Li Changjiang et.al.|[2506.08336](http://arxiv.org/abs/2506.08336)|null|
 |**2025-06-09**|**SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents**|Subhrangshu Nandi et.al.|[2506.08119](http://arxiv.org/abs/2506.08119)|null|
-|**2025-06-09**|**Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph**|Akash Vishwakarma et.al.|[2506.08098](http://arxiv.org/abs/2506.08098)|null|
+|**2025-06-09**|**Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph**|Akash Vishwakarma et.al.|[2506.08098](http://arxiv.org/abs/2506.08098)|**[link](https://github.com/rahvis/cognitive-weave)**|
 |**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|**[link](https://github.com/ai4chem/chemistryagent)**|
 |**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
 |**2025-06-08**|**Position: Simulating Society Requires Simulating Thought**|Chance Jiajie Li et.al.|[2506.06958](http://arxiv.org/abs/2506.06958)|null|
@@ -3296,7 +3318,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 ## Tool learning
 
@@ -3355,12 +3377,14 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 ## Embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
+|**2025-06-18**|**HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models**|Trishna Chakraborty et.al.|[2506.15065](http://arxiv.org/abs/2506.15065)|null|
 |**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
@@ -3527,7 +3551,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
