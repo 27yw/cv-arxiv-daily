@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -3049,7 +3049,7 @@ layout: default
 |**2025-06-14**|**Disclosure Audits for LLM Agents**|Saswat Das et.al.|[2506.10171](http://arxiv.org/abs/2506.10171)|null|
 |**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|**[link](https://github.com/amazon-science/personalens)**|
 |**2025-06-11**|**DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy**|Kaixuan Xu et.al.|[2506.09655](http://arxiv.org/abs/2506.09655)|null|
-|**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
+|**2025-06-22**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
 |**2025-06-17**|**Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation**|Arjun Vaithilingam Sudhakar et.al.|[2506.09331](http://arxiv.org/abs/2506.09331)|null|
 |**2025-06-10**|**FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making**|Jiaxiang Chen et.al.|[2506.09080](http://arxiv.org/abs/2506.09080)|null|
 |**2025-06-11**|**Your Agent Can Defend Itself against Backdoor Attacks**|Li Changjiang et.al.|[2506.08336](http://arxiv.org/abs/2506.08336)|null|
