@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -3064,7 +3064,7 @@ layout: default
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
 |**2025-06-16**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM Approaches**|Lukasz Mazur et.al.|[2506.13171](http://arxiv.org/abs/2506.13171)|null|
 |**2025-06-15**|**WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench**|Xinyuan Xia et.al.|[2506.12841](http://arxiv.org/abs/2506.12841)|null|
-|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
+|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|**[link](https://github.com/SkyworkAI/DeepResearchAgent)**|
 |**2025-06-13**|**DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**|Mingxuan Du et.al.|[2506.11763](http://arxiv.org/abs/2506.11763)|null|
 |**2025-06-12**|**Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing**|Luis Miguel Vieira da Silva et.al.|[2506.11180](http://arxiv.org/abs/2506.11180)|null|
 |**2025-06-19**|**Autonomous Computer Vision Development with Agentic AI**|Jin Kim et.al.|[2506.11140](http://arxiv.org/abs/2506.11140)|**[link](https://github.com/jink-ucla/OpenManus-SimpleMind)**|
@@ -3418,7 +3418,7 @@ layout: default
 |**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[2506.18472](http://arxiv.org/abs/2506.18472)|null|
 |**2025-06-22**|**GeNIE: A Generalizable Navigation System for In-the-Wild Environments**|Jiaming Wang et.al.|[2506.17960](http://arxiv.org/abs/2506.17960)|null|
 |**2025-06-19**|**IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks**|Xiaoya Lu et.al.|[2506.16402](http://arxiv.org/abs/2506.16402)|null|
-|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
 |**2025-06-18**|**HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models**|Trishna Chakraborty et.al.|[2506.15065](http://arxiv.org/abs/2506.15065)|null|
 |**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
