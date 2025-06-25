@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813](http://arxiv.org/abs/2506.19813)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
+|**2025-06-24**|**Learning Task Belief Similarity with Latent Dynamics for Meta-Reinforcement Learning**|Menglong Zhang et.al.|[2506.19785](http://arxiv.org/abs/2506.19785)|null|
+|**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking**|Gyeongwon James Kim et.al.|[2506.19724](http://arxiv.org/abs/2506.19724)|null|
+|**2025-06-24**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
+|**2025-06-24**|**How trust networks shape students' opinions about the proficiency of artificially intelligent assistants**|Yutong Bu et.al.|[2506.19655](http://arxiv.org/abs/2506.19655)|null|
+|**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
+|**2025-06-24**|**Mobile oscillators in a mobile multi-cluster network**|Venceslas Nguefoue Meli et.al.|[2506.19617](http://arxiv.org/abs/2506.19617)|null|
+|**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
+|**2025-06-24**|**Robotics Under Construction: Challenges on Job Sites**|Haruki Uchiito et.al.|[2506.19597](http://arxiv.org/abs/2506.19597)|null|
+|**2025-06-24**|**Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning**|Harisankar Babu et.al.|[2506.19592](http://arxiv.org/abs/2506.19592)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs**|Kelin Fu et.al.|[2506.19527](http://arxiv.org/abs/2506.19527)|null|
+|**2025-06-24**|**MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications**|Aleksandr Algazinov et.al.|[2506.19502](http://arxiv.org/abs/2506.19502)|null|
+|**2025-06-24**|**NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling**|Yan Jiang et.al.|[2506.19500](http://arxiv.org/abs/2506.19500)|null|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
@@ -3063,6 +3083,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning**|Harisankar Babu et.al.|[2506.19592](http://arxiv.org/abs/2506.19592)|null|
+|**2025-06-24**|**LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code**|Shahbaz Siddeeq et.al.|[2506.19481](http://arxiv.org/abs/2506.19481)|null|
+|**2025-06-23**|**Distilling Tool Knowledge into Language Models via Back-Translated Traces**|Xingyue Huang et.al.|[2506.19171](http://arxiv.org/abs/2506.19171)|null|
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
 |**2025-06-23**|**Use Property-Based Testing to Bridge LLM Code Generation and Validation**|Lehan He et.al.|[2506.18315](http://arxiv.org/abs/2506.18315)|null|
 |**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[2506.17642](http://arxiv.org/abs/2506.17642)|null|
@@ -3427,6 +3451,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System**|Lixuan He et.al.|[2506.19433](http://arxiv.org/abs/2506.19433)|null|
 |**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[2506.18472](http://arxiv.org/abs/2506.18472)|null|
 |**2025-06-22**|**GeNIE: A Generalizable Navigation System for In-the-Wild Environments**|Jiaming Wang et.al.|[2506.17960](http://arxiv.org/abs/2506.17960)|null|
 |**2025-06-19**|**IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks**|Xiaoya Lu et.al.|[2506.16402](http://arxiv.org/abs/2506.16402)|null|
