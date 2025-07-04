@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**An in-silico lung phantom to assess the performance of pulmonary artery segmentation using angiogram**|Sunder Neelakantan et.al.|[2507.01867](http://arxiv.org/abs/2507.01867)|null|
 |**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
@@ -3552,7 +3552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-27**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+|**2025-07-03**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
