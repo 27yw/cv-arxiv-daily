@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
+|**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
+|**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241](http://arxiv.org/abs/2507.05241)|null|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
+|**2025-07-07**|**Vector Cost Bimatrix Games with Applications to Autonomous Racing**|Benjamin R. Toaz et.al.|[2507.05171](http://arxiv.org/abs/2507.05171)|null|
+|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/abs/2507.05169)|null|
+|**2025-07-07**|**Macroscopic Structural Light Absorbers**|Jan M. Kaster et.al.|[2507.05152](http://arxiv.org/abs/2507.05152)|null|
+|**2025-07-07**|**Effects of Unplanned Incoming Flights on Airport Relief Processes after a Major Natural Disaster**|Luka Van de Sype et.al.|[2507.05150](http://arxiv.org/abs/2507.05150)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
+|**2025-07-07**|**Optimal Consumption-Investment for General Utility with a Drawdown Constraint over a Finite-Time Horizon**|Chonghu Guan et.al.|[2507.05115](http://arxiv.org/abs/2507.05115)|null|
+|**2025-07-07**|**Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**|Tobias Demmler et.al.|[2507.05098](http://arxiv.org/abs/2507.05098)|null|
+|**2025-07-07**|**Perspectives on How Sociology Can Advance Theorizing about Human-Chatbot Interaction and Developing Chatbots for Social Good**|Celeste Campos-Castillo et.al.|[2507.05030](http://arxiv.org/abs/2507.05030)|null|
+|**2025-07-07**|**Linking Homeostasis to Reinforcement Learning: Internal State Control of Motivated Behavior**|Naoto Yoshida et.al.|[2507.04998](http://arxiv.org/abs/2507.04998)|null|
+|**2025-07-07**|**From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems**|Jiangbo Yu et.al.|[2507.04996](http://arxiv.org/abs/2507.04996)|null|
+|**2025-07-07**|**Leadership Detection via Time-Lagged Correlation-Based Network Inference**|Thayanne França da Silva et.al.|[2507.04917](http://arxiv.org/abs/2507.04917)|null|
 |**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825](http://arxiv.org/abs/2507.02825)|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
 |**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
@@ -3195,6 +3215,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-05**|**Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments**|Zheng Jia et.al.|[2507.04037](http://arxiv.org/abs/2507.04037)|null|
+|**2025-07-04**|**Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2507.03726](http://arxiv.org/abs/2507.03726)|null|
+|**2025-06-26**|**Theory of Mind in Action: The Instruction Inference Task**|Fardin Saad et.al.|[2507.02935](http://arxiv.org/abs/2507.02935)|null|
+|**2025-06-26**|**Large Language Model Agent for Modular Task Execution in Drug Discovery**|Janghoon Ock et.al.|[2507.02925](http://arxiv.org/abs/2507.02925)|null|
 |**2025-07-02**|**Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust**|Amogh Mannekote et.al.|[2507.02197](http://arxiv.org/abs/2507.02197)|null|
 |**2025-07-02**|**Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models**|Fangjian Lei et.al.|[2507.02182](http://arxiv.org/abs/2507.02182)|null|
 |**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
@@ -3574,8 +3598,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
-|**2025-07-03**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+|**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
+|**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
+|**2025-07-05**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
+|**2025-07-07**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
