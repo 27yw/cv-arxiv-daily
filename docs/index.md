@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906](http://arxiv.org/abs/2507.07906)|null|
+|**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901](http://arxiv.org/abs/2507.07901)|null|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-10**|**Perceptual Distortions and Autonomous Representation Learning in a Minimal Robotic System**|David Warutumo et.al.|[2507.07845](http://arxiv.org/abs/2507.07845)|null|
+|**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
+|**2025-07-10**|**Beyond Connectivity: Higher-Order Network Framework for Capturing Memory-Driven Mobility Dynamics**|Chen Zhang et.al.|[2507.07727](http://arxiv.org/abs/2507.07727)|null|
+|**2025-07-10**|**Multi-agent Reinforcement Learning-based In-place Scaling Engine for Edge-cloud Systems**|Jovan Prodanov et.al.|[2507.07671](http://arxiv.org/abs/2507.07671)|null|
+|**2025-07-10**|**Upper Expected Meeting Times for Interdependent Stochastic Agents**|Marco Sangalli et.al.|[2507.07626](http://arxiv.org/abs/2507.07626)|null|
+|**2025-07-10**|**Position: We Need An Algorithmic Understanding of Generative AI**|Oliver Eberle et.al.|[2507.07544](http://arxiv.org/abs/2507.07544)|null|
+|**2025-07-10**|**Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset and a Co-Evolving Multi-Agent System**|Yuanchen Shi et.al.|[2507.07509](http://arxiv.org/abs/2507.07509)|null|
+|**2025-07-10**|**The Pandora's Box Problem with Sequential Inspections**|Ali Aouad et.al.|[2507.07508](http://arxiv.org/abs/2507.07508)|null|
+|**2025-07-10**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
+|**2025-07-10**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
+|**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-09**|**Robust signal decompositions on the circle**|Aral Kose et.al.|[2507.07007](http://arxiv.org/abs/2507.07007)|null|
@@ -3255,6 +3275,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
 |**2025-07-05**|**Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments**|Zheng Jia et.al.|[2507.04037](http://arxiv.org/abs/2507.04037)|null|
 |**2025-07-04**|**Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2507.03726](http://arxiv.org/abs/2507.03726)|null|
 |**2025-06-26**|**Theory of Mind in Action: The Instruction Inference Task**|Fardin Saad et.al.|[2507.02935](http://arxiv.org/abs/2507.02935)|null|
@@ -3638,6 +3660,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
 |**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
 |**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
