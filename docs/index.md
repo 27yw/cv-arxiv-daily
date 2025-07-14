@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
+|**2025-07-11**|**SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations**|Peter Crowley et.al.|[2507.08707](http://arxiv.org/abs/2507.08707)|null|
+|**2025-07-11**|**elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings**|Philip Osborne et.al.|[2507.08705](http://arxiv.org/abs/2507.08705)|null|
+|**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664](http://arxiv.org/abs/2507.08664)|null|
+|**2025-07-11**|**Safe Deep Reinforcement Learning for Resource Allocation with Peak Age of Information Violation Guarantees**|Berire Gunes Reyhan et.al.|[2507.08653](http://arxiv.org/abs/2507.08653)|null|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
+|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619](http://arxiv.org/abs/2507.08619)|null|
+|**2025-07-11**|**AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs**|Florian Grötschla et.al.|[2507.08616](http://arxiv.org/abs/2507.08616)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**Unlocking Speech Instruction Data Potential with Query Rewriting**|Yonghua Hei et.al.|[2507.08603](http://arxiv.org/abs/2507.08603)|null|
+|**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
+|**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
+|**2025-07-11**|**Recursive Reward Aggregation**|Yuting Tang et.al.|[2507.08537](http://arxiv.org/abs/2507.08537)|null|
+|**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
+|**2025-07-11**|**The stability of bi-polarization on dynamical directed graphs: an emergent game perspective**|Yakun Wang et.al.|[2507.08449](http://arxiv.org/abs/2507.08449)|null|
+|**2025-07-11**|**Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences**|Selina Heller et.al.|[2507.08440](http://arxiv.org/abs/2507.08440)|null|
+|**2025-07-11**|**Age of Information Optimization in Laser-charged UAV-assisted IoT Networks: A Multi-agent Deep Reinforcement Learning Method**|Geng Sun et.al.|[2507.08429](http://arxiv.org/abs/2507.08429)|null|
+|**2025-07-11**|**A Survey of Large Language Models in Discipline-specific Research: Challenges, Methods and Opportunities**|Lu Xiang et.al.|[2507.08425](http://arxiv.org/abs/2507.08425)|null|
+|**2025-07-11**|**Temperature Measurement in Agent Systems**|Christoph J. Börner et.al.|[2507.08394](http://arxiv.org/abs/2507.08394)|null|
 |**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
 |**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
@@ -3275,6 +3295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
 |**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
 |**2025-07-05**|**Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments**|Zheng Jia et.al.|[2507.04037](http://arxiv.org/abs/2507.04037)|null|
