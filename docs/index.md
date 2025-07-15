@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -3309,7 +3309,7 @@ layout: default
 |**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
 |**2025-07-02**|**GAIus: Combining Genai with Legal Clauses Retrieval for Knowledge-based Assistant**|Michał Matak et.al.|[2507.01259](http://arxiv.org/abs/2507.01259)|null|
 |**2025-06-30**|**State and Memory is All You Need for Robust and Reliable AI Agents**|Matthew Muhoberac et.al.|[2507.00081](http://arxiv.org/abs/2507.00081)|null|
-|**2025-06-30**|**LLM Agents Are the Antidote to Walled Gardens**|Samuele Marro et.al.|[2506.23978](http://arxiv.org/abs/2506.23978)|null|
+|**2025-07-12**|**LLM Agents Are the Antidote to Walled Gardens**|Samuele Marro et.al.|[2506.23978](http://arxiv.org/abs/2506.23978)|null|
 |**2025-06-30**|**DABstep: Data Agent Benchmark for Multi-step Reasoning**|Alex Egg et.al.|[2506.23719](http://arxiv.org/abs/2506.23719)|null|
 |**2025-06-27**|**Exploring Modularity of Agentic Systems for Drug Discovery**|Laura van Weesep et.al.|[2506.22189](http://arxiv.org/abs/2506.22189)|null|
 |**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
