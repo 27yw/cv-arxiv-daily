@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
+|**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
+|**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
+|**2025-07-14**|**Negative entropy and non-equilibrium Euclidean shell**|Yang An et.al.|[2507.10450](http://arxiv.org/abs/2507.10450)|null|
+|**2025-07-14**|**Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG**|Fangzheng Tian et.al.|[2507.10411](http://arxiv.org/abs/2507.10411)|null|
+|**2025-07-14**|**Machine-Learning to Trust**|Ran Spiegler et.al.|[2507.10363](http://arxiv.org/abs/2507.10363)|null|
+|**2025-07-14**|**Toolsuite for Implementing Multiagent Systems Based on Communication Protocols**|Amit K. Chopra et.al.|[2507.10324](http://arxiv.org/abs/2507.10324)|null|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
+|**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251](http://arxiv.org/abs/2507.10251)|null|
+|**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
+|**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172](http://arxiv.org/abs/2507.10172)|null|
+|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
+|**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
+|**2025-07-14**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run'' Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
+|**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
+|**2025-07-14**|**Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots**|Marco Calì et.al.|[2507.10030](http://arxiv.org/abs/2507.10030)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations**|Peter Crowley et.al.|[2507.08707](http://arxiv.org/abs/2507.08707)|null|
 |**2025-07-11**|**elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings**|Philip Osborne et.al.|[2507.08705](http://arxiv.org/abs/2507.08705)|null|
@@ -3295,6 +3315,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
 |**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
