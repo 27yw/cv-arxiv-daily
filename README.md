@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172](http://arxiv.org/abs/2507.10172)|null|
 |**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
 |**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
-|**2025-07-14**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run'' Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-15**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
 |**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
 |**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
 |**2025-07-14**|**Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots**|Marco Calì et.al.|[2507.10030](http://arxiv.org/abs/2507.10030)|null|
@@ -3317,7 +3317,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -3649,7 +3649,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Tool learning
 
@@ -3708,7 +3708,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -3718,7 +3718,7 @@
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
 |**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
 |**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
-|**2025-07-05**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
+|**2025-07-15**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
 |**2025-07-07**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
@@ -3897,7 +3897,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

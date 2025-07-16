@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -30,7 +30,7 @@ layout: default
 |**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172](http://arxiv.org/abs/2507.10172)|null|
 |**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
 |**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
-|**2025-07-14**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run'' Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-15**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
 |**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
 |**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
 |**2025-07-14**|**Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots**|Marco Calì et.al.|[2507.10030](http://arxiv.org/abs/2507.10030)|null|
@@ -3706,7 +3706,7 @@ layout: default
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
 |**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
 |**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
-|**2025-07-05**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
+|**2025-07-15**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
 |**2025-07-07**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
