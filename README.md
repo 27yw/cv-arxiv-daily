@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
 |**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
 |**2025-07-15**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
-|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
+|**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
@@ -3337,7 +3337,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -3670,7 +3670,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Tool learning
 
@@ -3729,7 +3729,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -3920,7 +3920,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

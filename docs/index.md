@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -33,7 +33,7 @@ layout: default
 |**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
 |**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
 |**2025-07-15**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
-|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
+|**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
