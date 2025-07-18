@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333](http://arxiv.org/abs/2507.13333)|null|
+|**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
+|**2025-07-17**|**Analysis Theory of Data Economy: Dataization, Technological Progress and Dynamic General Equilibrium**|Yongheng Hu et.al.|[2507.13274](http://arxiv.org/abs/2507.13274)|null|
+|**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Ruohao Li et.al.|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
+|**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
+|**2025-07-17**|**Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era**|Matthew E. Brophy et.al.|[2507.13175](http://arxiv.org/abs/2507.13175)|null|
+|**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
+|**2025-07-17**|**Prompt Injection 2.0: Hybrid AI Threats**|Jeremy McHugh et.al.|[2507.13169](http://arxiv.org/abs/2507.13169)|null|
+|**2025-07-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al.|[2507.13152](http://arxiv.org/abs/2507.13152)|null|
+|**2025-07-17**|**RIDAS: A Multi-Agent Framework for AI-RAN with Representation- and Intention-Driven Agents**|Kuiyuan Ding et.al.|[2507.13140](http://arxiv.org/abs/2507.13140)|null|
+|**2025-07-17**|**Governance, productivity and economic development**|Cuong Le Van et.al.|[2507.13099](http://arxiv.org/abs/2507.13099)|null|
+|**2025-07-17**|**iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development**|Dongming Jin et.al.|[2507.13081](http://arxiv.org/abs/2507.13081)|null|
+|**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
+|**2025-07-17**|**What Can Robots Teach Us About Trust and Reliance? An interdisciplinary dialogue between Social Sciences and Social Robotics**|Julien Wacquez et.al.|[2507.13041](http://arxiv.org/abs/2507.13041)|null|
+|**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038](http://arxiv.org/abs/2507.13038)|null|
+|**2025-07-17**|**Lower Bound for Online MMS Assignment of Indivisible Chores**|Masoud Seddighin et.al.|[2507.12984](http://arxiv.org/abs/2507.12984)|null|
+|**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**Autonomous Resource Management in Microservice Systems via Reinforcement Learning**|Yujun Zou et.al.|[2507.12879](http://arxiv.org/abs/2507.12879)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
