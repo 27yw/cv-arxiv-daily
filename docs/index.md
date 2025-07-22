@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Density control of multi-agent swarms via bio-inspired leader-follower plasticity**|Gian Carlo Maffettone et.al.|[2507.15781](http://arxiv.org/abs/2507.15781)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts**|Jingyi Zheng et.al.|[2507.15761](http://arxiv.org/abs/2507.15761)|null|
+|**2025-07-21**|**Towards physician-centered oversight of conversational diagnostic AI**|Elahe Vedadi et.al.|[2507.15743](http://arxiv.org/abs/2507.15743)|null|
+|**2025-07-21**|**General Matching Games**|Felipe Garrido-Lucero et.al.|[2507.15737](http://arxiv.org/abs/2507.15737)|null|
+|**2025-07-21**|**Competitive Algorithms for Cooperative Multi-Agent Ski-Rental Problems**|Xuchuang Wang et.al.|[2507.15727](http://arxiv.org/abs/2507.15727)|null|
+|**2025-07-21**|**Agentic AI for autonomous anomaly management in complex systems**|Reza Vatankhah Barenji et.al.|[2507.15676](http://arxiv.org/abs/2507.15676)|null|
+|**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671](http://arxiv.org/abs/2507.15671)|null|
+|**2025-07-21**|**Asynchronous Collective Tree Exploration: a Distributed Algorithm, and a new Lower Bound**|Romain Cosson et.al.|[2507.15658](http://arxiv.org/abs/2507.15658)|null|
+|**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
+|**2025-07-21**|**TacticCraft: Natural Language-Driven Tactical Adaptation for StarCraft II**|Weiyu Ma et.al.|[2507.15618](http://arxiv.org/abs/2507.15618)|null|
+|**2025-07-21**|**Why can't Epidemiology be automated (yet)?**|David Bann et.al.|[2507.15617](http://arxiv.org/abs/2507.15617)|null|
+|**2025-07-21**|**DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving**|Zhihao Zhang et.al.|[2507.15615](http://arxiv.org/abs/2507.15615)|null|
+|**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
+|**2025-07-21**|**FlowForge: Guiding the Creation of Multi-agent Workflows with Design Space Visualization as a Thinking Scaffold**|Pan Hao et.al.|[2507.15559](http://arxiv.org/abs/2507.15559)|null|
+|**2025-07-21**|**PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors**|Yimeng Chen et.al.|[2507.15550](http://arxiv.org/abs/2507.15550)|null|
+|**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[2507.15518](http://arxiv.org/abs/2507.15518)|null|
+|**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478](http://arxiv.org/abs/2507.15478)|null|
+|**2025-07-21**|**The Emergence of Deep Reinforcement Learning for Path Planning**|Thanh Thi Nguyen et.al.|[2507.15469](http://arxiv.org/abs/2507.15469)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063](http://arxiv.org/abs/2507.14063)|null|
 |**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
@@ -3395,6 +3415,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search**|Xiaofeng Shi et.al.|[2507.15245](http://arxiv.org/abs/2507.15245)|null|
+|**2025-07-20**|**Redefining Elderly Care with Agentic AI: Challenges and Opportunities**|Ruhul Amin Khalil et.al.|[2507.14912](http://arxiv.org/abs/2507.14912)|null|
+|**2025-07-19**|**Configurable multi-agent framework for scalable and realistic testing of llm-based agents**|Sai Wang et.al.|[2507.14705](http://arxiv.org/abs/2507.14705)|null|
+|**2025-07-14**|**ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation**|Yiran Wu et.al.|[2507.14201](http://arxiv.org/abs/2507.14201)|null|
 |**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979](http://arxiv.org/abs/2507.11979)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
@@ -3784,6 +3809,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Chuxuan Zhang et.al.|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
