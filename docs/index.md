@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -16,12 +16,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
-|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
-|**2025-07-22**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
 |**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763](http://arxiv.org/abs/2507.16763)|null|
 |**2025-07-22**|**AI-enhanced conversational agents for personalized asthma support Factors for engagement, value and efficacy**|Laura Moradbakhti et.al.|[2507.16735](http://arxiv.org/abs/2507.16735)|null|
-|**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
+|**2025-07-23**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
 |**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725](http://arxiv.org/abs/2507.16725)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|

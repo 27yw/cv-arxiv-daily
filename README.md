@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,12 +22,12 @@
 |---|---|---|---|---|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
-|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
-|**2025-07-22**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
 |**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763](http://arxiv.org/abs/2507.16763)|null|
 |**2025-07-22**|**AI-enhanced conversational agents for personalized asthma support Factors for engagement, value and efficacy**|Laura Moradbakhti et.al.|[2507.16735](http://arxiv.org/abs/2507.16735)|null|
-|**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
+|**2025-07-23**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
 |**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725](http://arxiv.org/abs/2507.16725)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
@@ -3437,7 +3437,7 @@
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986](http://arxiv.org/abs/2411.00986)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Large Language Model Agent
 
@@ -3778,7 +3778,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Tool learning
 
@@ -3837,7 +3837,7 @@
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-14**|**Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**|Mengsong Wu et.al.|[2405.08355](http://arxiv.org/abs/2405.08355)|**[link](https://github.com/fairyshine/seal-tools)**|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -4031,7 +4031,7 @@
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-07**|**How do we Observe Relational Observables?**|Emily Adlam et.al.|[2410.05508](http://arxiv.org/abs/2410.05508)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
