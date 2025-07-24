@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models**|Liwenhan Xie et.al.|[2507.17734](http://arxiv.org/abs/2507.17734)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**LTLZinc: a Benchmarking Framework for Continual Learning and Neuro-Symbolic Temporal Reasoning**|Luca Salvatore Lorello et.al.|[2507.17482](http://arxiv.org/abs/2507.17482)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception**|Haichuan Li et.al.|[2507.17445](http://arxiv.org/abs/2507.17445)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
+|**2025-07-23**|**CAPRI-CT: Causal Analysis and Predictive Reasoning for Image Quality Optimization in Computed Tomography**|Sneha George Gnanakalavathy et.al.|[2507.17420](http://arxiv.org/abs/2507.17420)|null|
+|**2025-07-23**|**Residual Prophet Inequalities**|Jose Correa et.al.|[2507.17391](http://arxiv.org/abs/2507.17391)|null|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**DeMo++: Motion Decoupling for Autonomous Driving**|Bozhou Zhang et.al.|[2507.17342](http://arxiv.org/abs/2507.17342)|null|
+|**2025-07-23**|**HuNavSim 2.0**|Miguel Escudero-Jiménez et.al.|[2507.17317](http://arxiv.org/abs/2507.17317)|null|
+|**2025-07-23**|**EarthLink: Interpreting Climate Signals with Self-Evolving AI Agents**|Zijie Guo et.al.|[2507.17311](http://arxiv.org/abs/2507.17311)|null|
+|**2025-07-23**|**Compliance Brain Assistant: Conversational Agentic AI for Assisting Compliance Tasks in Enterprise Environments**|Shitong Zhu et.al.|[2507.17289](http://arxiv.org/abs/2507.17289)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/abs/2507.17273)|null|
+|**2025-07-23**|**Agent Identity Evals: Measuring Agentic Identity**|Elija Perrier et.al.|[2507.17257](http://arxiv.org/abs/2507.17257)|null|
+|**2025-07-23**|**LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks**|Lijie Zheng et.al.|[2507.17188](http://arxiv.org/abs/2507.17188)|null|
+|**2025-07-23**|**Optimal Calibrated Signaling in Digital Auctions**|Zhicheng Du et.al.|[2507.17187](http://arxiv.org/abs/2507.17187)|null|
+|**2025-07-23**|**FinGAIA: An End-to-End Benchmark for Evaluating AI Agents in Finance**|Lingfeng Zeng et.al.|[2507.17186](http://arxiv.org/abs/2507.17186)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
@@ -3443,6 +3463,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/abs/2507.17273)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation**|Nima Fathi et.al.|[2507.16940](http://arxiv.org/abs/2507.16940)|null|
 |**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
 |**2025-07-21**|**A Pilot Study on LLM-Based Agentic Translation from Android to iOS: Pitfalls and Insights**|Zhili Zeng et.al.|[2507.16037](http://arxiv.org/abs/2507.16037)|null|
 |**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
@@ -3843,6 +3867,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-22**|**Benchmarking LLM Privacy Recognition for Social Robot Decision Making**|Dakota Sullivan et.al.|[2507.16124](http://arxiv.org/abs/2507.16124)|null|
 |**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
 |**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
